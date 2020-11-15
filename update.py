@@ -42,7 +42,7 @@ Last updated: {datetime.datetime.utcnow()} UTC
 """
         if not os.path.exists(f'us/{state_name.lower()}/{row["Name"].lower()}'):
             os.makedirs(f'us/{state_name.lower()}/{row["Name"].lower()}')
-        f = open(f'US/{state_name.lower()}/{row["Name"].lower()}/index.html', "w")
+        f = open(f'US/{state_name.lower()}/{row["Name"].lower()}/index.md', "w")
         f.write(html)
         f.close()
 

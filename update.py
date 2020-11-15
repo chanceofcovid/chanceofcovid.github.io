@@ -20,30 +20,22 @@ def write_us_state(df, state_name):
     # Write a file for each county US/{state_name}/{county_name}
     for index, row in df.iterrows():
         html = f"""
-<html>
-<head>
-<body>
-<title>{state_name} / {row["Name"]} - Chance of COVID</title>
-</body>
-<h1>{state_name} / {row["Name"]}</h1>
-<p>
-According to <a href="http://microcovid.org">MicroCOVID.org</a>,
+# {state_name} / {row["Name"]}
+
+According to [MicroCOVID.org](http://microcovid.org),
 the "Estimated Prevalence" of COVID in this county is {row["Estimated prevalence"]:.1%}
-</p>
 
-<p>If you interact with a certain number of people in this location
+If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
-1 or more of them has COVID?</p>
+1 or more of them has COVID?
 
-<ul>
-<li>1 person: {row["Estimated prevalence"]:.1%}</li>
-<li>2 people: {row["Chance anyone has COVID in group of 2"]:.1%}</li>
-<li>3 people: {row["Chance anyone has COVID in group of 3"]:.1%}</li>
-<li>5 people: {row["Chance anyone has COVID in group of 5"]:.1%}</li>
-<li>10 people: {row["Chance anyone has COVID in group of 10"]:.1%}</li>
-<li>25 people: {row["Chance anyone has COVID in group of 25"]:.1%}</li>
-<li>100 people: {row["Chance anyone has COVID in group of 100"]:.1%}</li>
-</ul>
+- 1 person: {row["Estimated prevalence"]:.1%}
+- 2 people: {row["Chance anyone has COVID in group of 2"]:.1%}
+- 3 people: {row["Chance anyone has COVID in group of 3"]:.1%}
+- 5 people: {row["Chance anyone has COVID in group of 5"]:.1%}
+- 10 people: {row["Chance anyone has COVID in group of 10"]:.1%}
+- 25 people: {row["Chance anyone has COVID in group of 25"]:.1%}
+- 100 people: {row["Chance anyone has COVID in group of 100"]:.1%}
 
 
 Last updated: {datetime.datetime.utcnow()} UTC

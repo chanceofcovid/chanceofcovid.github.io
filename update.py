@@ -14,8 +14,8 @@ def write_us_state(df, state_name):
     if not os.path.exists('us'):
         os.makedirs('us')
 
-    if not os.path.exists(f'us/{state_name}'):
-        os.makedirs(f'us/{state_name}')
+    if not os.path.exists(f'us/{state_name.lower()}'):
+        os.makedirs(f'us/{state_name.lower()}')
 
     # Write a file for each county US/{state_name}/{county_name}
     for index, row in df.iterrows():
@@ -48,7 +48,9 @@ the "Estimated Prevalence" of COVID in this county is {row["Estimated prevalence
 
 Last updated: {datetime.datetime.utcnow()} UTC
 """
-        f = open(f"US/{state_name}/{row['Name']}.html", "w")
+        if not os.path.exists(f'us/{state_name.lower()}/{row["Name"].lower()}'):
+            os.makedirs(f'us/{state_name.lower()}/{row["Name"].lower()}')
+        f = open(f'US/{state_name.lower()}/{row["Name"].lower()}/index.html', "w")
         f.write(html)
         f.close()
 
@@ -63,9 +65,22 @@ def add_columns(df):
     df['Chance anyone has COVID in group of 100'] = df['Estimated prevalence'].apply(lambda x: p_any_infected(x, 100))
     return df
 
+def main():
 
 
-df_va = pd.read_csv('https://github.com/microcovid/microcovid/raw/main/public/prevalence_data/US_51.csv')
-df_va = add_columns(df_va)
+    df_index = pd.read_csv("https://github.com/microcovid/microcovid/raw/423ec100160f0c1de3d1330e3a807fa1db29f301/public/prevalence_data/index.csv", error_bad_lines=False)
+    for index, row in df_index.iterrows():
+        # Skip non-US for now
+        if row["Slug"][:2]!='US':
+            continue
 
-write_us_state(df_va, 'va')
+
+        
+        df = pd.read_csv(f'https://github.com/microcovid/microcovid/raw/main/public/prevalence_data/{row["Slug"]}.csv')
+        df = add_columns(df)
+
+        write_us_state(df, row["Location"])
+    return True
+
+if __name__ == '__main__':
+    main()

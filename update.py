@@ -11,11 +11,11 @@ def p_any_infected(p_anyone_infected, num_people):
 
 def write_us_state(df, state_name, state_slug):
 
-    if not os.path.exists('us'):
-        os.makedirs('us')
+    if not os.path.exists('united-states'):
+        os.makedirs('united-states')
 
-    if not os.path.exists(f'us/{state_slug}'):
-        os.makedirs(f'us/{state_slug}')
+    if not os.path.exists(f'united-states/{state_slug}'):
+        os.makedirs(f'united-states/{state_slug}')
 
     # Write a file for each county US/{state_name}/{county_name}
     for index, row in df.iterrows():
@@ -40,9 +40,9 @@ If you interact with a certain number of people in this location
 
 Last updated: {datetime.datetime.utcnow()} UTC
 """
-        if not os.path.exists(f'us/{state_slug}/{row["County Slug"]}'):
-            os.makedirs(f'us/{state_slug}/{row["County Slug"]}')
-        f = open(f'US/{state_slug}/{row["County Slug"]}/index.md', "w")
+        if not os.path.exists(f'united-states/{state_slug}/{row["County Slug"]}'):
+            os.makedirs(f'united-states/{state_slug}/{row["County Slug"]}')
+        f = open(f'united-states/{state_slug}/{row["County Slug"]}/index.md', "w")
         f.write(html)
         f.close()
 
@@ -65,12 +65,17 @@ def main():
         # Skip non-US for now
         if row["Slug"][:2]!='US':
             continue
+
+        # Keep only Virginia for now
+        if row["Location"]!='Virginia':
+            continue
         state_name = row["Location"]
         state_slug = state_name.lower().replace(' ',"-")
         df = pd.read_csv(f'https://github.com/microcovid/microcovid/raw/main/public/prevalence_data/{row["Slug"]}.csv')
         df["County Slug"] = df["Name"].apply(lambda x: x.lower().replace(' ',"-"))
         df["State Slug"] = state_slug
         df = add_columns(df)
+
 
         write_us_state(df, state_name, state_slug)
     return True

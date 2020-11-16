@@ -17,10 +17,15 @@ def write_us_state(df, state_name, state_slug):
     if not os.path.exists(f'united-states/{state_slug}'):
         os.makedirs(f'united-states/{state_slug}')
 
+    state_html = f"""## {state_name}"""
+
     # Write a file for each county united-states/{state_name}/{county_name}
     for index, row in df.iterrows():
+        county_name = row["Name"]
+        county_slug = row["County Slug"]
+
         html = f"""
-## {state_name} / {row["Name"]}
+## {state_name} / {county_name}
 
 According to [MicroCOVID.org](http://microcovid.org),
 the "Estimated Prevalence" of COVID in this county is {row["Estimated prevalence"]:.1%}
@@ -39,13 +44,18 @@ If you interact with a certain number of people in this location
 
 Last updated: {datetime.datetime.utcnow()} UTC
 """
-        if not os.path.exists(f'united-states/{state_slug}/{row["County Slug"]}'):
-            os.makedirs(f'united-states/{state_slug}/{row["County Slug"]}')
-        f = open(f'united-states/{state_slug}/{row["County Slug"]}/index.md', "w")
+        if not os.path.exists(f'united-states/{state_slug}/{county_slug}'):
+            os.makedirs(f'united-states/{state_slug}/{county_slug}')
+        f = open(f'united-states/{state_slug}/{county_slug}/index.md', "w")
         f.write(html)
         f.close()
 
-    # TODO: Write a state level file US/{state_name}
+        state_html+=(f"\n- [{county_name}](/united-states/{state_slug}/{county_slug})")
+
+    # Write a state level file united-states/{state_name}/index.md
+    f = open(f'united-states/{state_slug}/index.md', "w")
+    f.write(state_html)
+    f.close()
 
 def add_columns(df):
     df['Chance anyone has COVID in group of 2'] = df['Estimated prevalence'].apply(lambda x: p_any_infected(x, 2))

@@ -17,10 +17,10 @@ def write_us_state(df, state_name, state_slug):
     if not os.path.exists(f'united-states/{state_slug}'):
         os.makedirs(f'united-states/{state_slug}')
 
-    # Write a file for each county US/{state_name}/{county_name}
+    # Write a file for each county united-states/{state_name}/{county_name}
     for index, row in df.iterrows():
         html = f"""
-# {state_name} / {row["Name"]}
+## {state_name} / {row["Name"]}
 
 According to [MicroCOVID.org](http://microcovid.org),
 the "Estimated Prevalence" of COVID in this county is {row["Estimated prevalence"]:.1%}
@@ -36,7 +36,6 @@ If you interact with a certain number of people in this location
 - 10 people: {row["Chance anyone has COVID in group of 10"]:.1%}
 - 25 people: {row["Chance anyone has COVID in group of 25"]:.1%}
 - 100 people: {row["Chance anyone has COVID in group of 100"]:.1%}
-
 
 Last updated: {datetime.datetime.utcnow()} UTC
 """

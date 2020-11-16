@@ -1,5 +1,5 @@
 
-# Virginia / Albemarle
+## Virginia / Albemarle
 
 According to [MicroCOVID.org](http://microcovid.org),
 the "Estimated Prevalence" of COVID in this county is 0.7%
@@ -16,5 +16,4 @@ If you interact with a certain number of people in this location
 - 25 people: 15.7%
 - 100 people: 49.5%
 
-
-Last updated: 2020-11-16 16:10:40.643668 UTC
+Last updated: 2020-11-16 16:22:26.730489 UTC

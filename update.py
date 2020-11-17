@@ -74,10 +74,7 @@ def main():
         # Skip non-US for now
         if row["Slug"][:2]!='US':
             continue
-
-        # Keep only Virginia for now
-        if row["Location"]!='Virginia':
-            continue
+ 
         state_name = row["Location"]
         state_slug = state_name.lower().replace(' ',"-")
         df = pd.read_csv(f'https://github.com/microcovid/microcovid/raw/main/public/prevalence_data/{row["Slug"]}.csv')

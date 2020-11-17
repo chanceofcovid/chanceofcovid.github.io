@@ -25,7 +25,7 @@ def write_us_state(df, state_name, state_slug):
         county_slug = row["County Slug"]
 
         html = f"""
-## {state_name} / {county_name}
+## [{state_name}](/united-states/{state_slug}) / {county_name}
 
 According to [MicroCOVID.org](http://microcovid.org),
 the "Estimated Prevalence" of COVID in this county is {row["Estimated prevalence"]:.1%}

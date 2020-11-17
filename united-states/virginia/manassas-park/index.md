@@ -1,5 +1,5 @@
 
-## [Virginia](/united-states/virginia) / Albemarle
+## [Virginia](/united-states/virginia) / Manassas Park
 
 According to [MicroCOVID.org](http://microcovid.org),
 the "Estimated Prevalence" of COVID in this county is 0.7%
@@ -12,8 +12,8 @@ If you interact with a certain number of people in this location
 - 2 people: 1.4%
 - 3 people: 2.0%
 - 5 people: 3.4%
-- 10 people: 6.6%
-- 25 people: 15.7%
-- 100 people: 49.5%
+- 10 people: 6.7%
+- 25 people: 15.8%
+- 100 people: 49.8%
 
-Last updated: 2020-11-17 02:18:16.354968 UTC
+Last updated: 2020-11-17 02:18:16.553102 UTC

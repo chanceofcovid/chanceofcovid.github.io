@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Fayette
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 33.4%
+the "Estimated Prevalence" of COVID in this county is 7.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 33.4%
-- 2 people: 55.6%
-- 3 people: 70.4%
-- 5 people: 86.9%
-- 10 people: 98.3%
-- 25 people: 100.0%
+- 1 person: 7.9%
+- 2 people: 15.3%
+- 3 people: 22.0%
+- 5 people: 33.9%
+- 10 people: 56.3%
+- 25 people: 87.4%
 - 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:00.194209 UTC
+Last updated: 2020-11-18 00:18:13.658091 UTC

@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Gilmer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1053.5%
+the "Estimated Prevalence" of COVID in this county is 6.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1053.5%
-- 2 people: -8991.8%
-- 3 people: 86791.0%
-- 5 people: 7881869.3%
-- 10 people: -621222873530.4%
-- 25 people: 304171553277591263339610112.0%
-- 100 people: -8560012170775342201704458302891495910735296208792753736206927750089243010760441165080873808225632256.0%
+- 1 person: 6.7%
+- 2 people: 13.0%
+- 3 people: 18.9%
+- 5 people: 29.4%
+- 10 people: 50.2%
+- 25 people: 82.5%
+- 100 people: 99.9%
 
-Last updated: 2020-11-17 02:54:13.677651 UTC
+Last updated: 2020-11-18 00:18:31.722135 UTC

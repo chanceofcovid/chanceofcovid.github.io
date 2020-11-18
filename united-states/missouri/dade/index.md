@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Dade
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.7%
+the "Estimated Prevalence" of COVID in this county is 7.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.7%
-- 2 people: 23.8%
-- 3 people: 33.5%
-- 5 people: 49.3%
-- 10 people: 74.3%
-- 25 people: 96.7%
+- 1 person: 7.4%
+- 2 people: 14.3%
+- 3 people: 20.6%
+- 5 people: 31.9%
+- 10 people: 53.7%
+- 25 people: 85.4%
 - 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:03.633380 UTC
+Last updated: 2020-11-18 00:18:19.420996 UTC

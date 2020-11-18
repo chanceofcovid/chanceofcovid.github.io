@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Bibb
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 2.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.1%
-- 3 people: 10.5%
-- 5 people: 16.9%
-- 10 people: 30.9%
-- 25 people: 60.3%
-- 100 people: 97.5%
+- 1 person: 2.7%
+- 2 people: 5.4%
+- 3 people: 8.0%
+- 5 people: 12.9%
+- 10 people: 24.1%
+- 25 people: 49.9%
+- 100 people: 93.7%
 
-Last updated: 2020-11-17 02:53:56.534537 UTC
+Last updated: 2020-11-18 00:18:06.824461 UTC

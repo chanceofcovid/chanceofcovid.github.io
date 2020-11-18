@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Fulton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.1%
-- 3 people: 3.1%
-- 5 people: 5.1%
-- 10 people: 10.0%
-- 25 people: 23.1%
-- 100 people: 65.0%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.6%
+- 5 people: 5.8%
+- 10 people: 11.4%
+- 25 people: 26.0%
+- 100 people: 70.0%
 
-Last updated: 2020-11-17 02:53:59.289132 UTC
+Last updated: 2020-11-18 00:18:11.934636 UTC

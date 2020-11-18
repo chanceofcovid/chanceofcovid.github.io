@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Comerio
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is -6.0%
+the "Estimated Prevalence" of COVID in this county is -5.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: -6.0%
-- 2 people: -12.3%
-- 3 people: -19.0%
-- 5 people: -33.6%
-- 10 people: -78.5%
-- 25 people: -325.9%
-- 100 people: -32816.4%
+- 1 person: -5.8%
+- 2 people: -11.9%
+- 3 people: -18.3%
+- 5 people: -32.4%
+- 10 people: -75.3%
+- 25 people: -307.0%
+- 100 people: -27343.7%
 
-Last updated: 2020-11-17 02:54:16.604190 UTC
+Last updated: 2020-11-18 00:18:34.169326 UTC

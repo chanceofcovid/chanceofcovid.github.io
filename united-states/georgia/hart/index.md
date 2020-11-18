@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Hart
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.8%
-- 5 people: 7.8%
-- 10 people: 15.1%
-- 25 people: 33.5%
-- 100 people: 80.4%
+- 1 person: 1.9%
+- 2 people: 3.8%
+- 3 people: 5.6%
+- 5 people: 9.1%
+- 10 people: 17.4%
+- 25 people: 38.0%
+- 100 people: 85.3%
 
-Last updated: 2020-11-17 02:53:59.292369 UTC
+Last updated: 2020-11-18 00:18:11.937244 UTC

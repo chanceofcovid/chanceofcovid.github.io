@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Antelope
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.5%
+the "Estimated Prevalence" of COVID in this county is 6.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.5%
-- 2 people: 21.6%
-- 3 people: 30.6%
-- 5 people: 45.6%
-- 10 people: 70.4%
-- 25 people: 95.2%
-- 100 people: 100.0%
+- 1 person: 6.2%
+- 2 people: 12.1%
+- 3 people: 17.5%
+- 5 people: 27.5%
+- 10 people: 47.4%
+- 25 people: 79.9%
+- 100 people: 99.8%
 
-Last updated: 2020-11-17 02:54:04.243444 UTC
+Last updated: 2020-11-18 00:18:20.892218 UTC

@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Sioux
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 14.4%
+the "Estimated Prevalence" of COVID in this county is 38.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 14.4%
-- 2 people: 26.8%
-- 3 people: 37.3%
-- 5 people: 54.1%
-- 10 people: 78.9%
-- 25 people: 98.0%
+- 1 person: 38.8%
+- 2 people: 62.6%
+- 3 people: 77.1%
+- 5 people: 91.4%
+- 10 people: 99.3%
+- 25 people: 100.0%
 - 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:06.076279 UTC
+Last updated: 2020-11-18 00:18:24.608811 UTC

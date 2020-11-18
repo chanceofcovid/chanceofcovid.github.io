@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Polk
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 18.7%
+the "Estimated Prevalence" of COVID in this county is 17.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 18.7%
-- 2 people: 33.9%
-- 3 people: 46.3%
-- 5 people: 64.5%
-- 10 people: 87.4%
-- 25 people: 99.4%
+- 1 person: 17.9%
+- 2 people: 32.6%
+- 3 people: 44.7%
+- 5 people: 62.7%
+- 10 people: 86.1%
+- 25 people: 99.3%
 - 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:14.318749 UTC
+Last updated: 2020-11-18 00:18:32.278838 UTC

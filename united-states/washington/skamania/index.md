@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Skamania
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 5.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.9%
-- 5 people: 1.5%
-- 10 people: 2.9%
-- 25 people: 7.2%
-- 100 people: 25.8%
+- 1 person: 5.5%
+- 2 people: 10.6%
+- 3 people: 15.5%
+- 5 people: 24.5%
+- 10 people: 43.0%
+- 25 people: 75.4%
+- 100 people: 99.6%
 
-Last updated: 2020-11-17 02:54:13.097129 UTC
+Last updated: 2020-11-18 00:18:30.879830 UTC

@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Massac
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.1%
+the "Estimated Prevalence" of COVID in this county is 7.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.1%
-- 2 people: 22.7%
-- 3 people: 32.0%
-- 5 people: 47.4%
-- 10 people: 72.4%
-- 25 people: 96.0%
-- 100 people: 100.0%
+- 1 person: 7.0%
+- 2 people: 13.5%
+- 3 people: 19.5%
+- 5 people: 30.3%
+- 10 people: 51.4%
+- 25 people: 83.6%
+- 100 people: 99.9%
 
-Last updated: 2020-11-17 02:54:00.205276 UTC
+Last updated: 2020-11-18 00:18:13.665615 UTC

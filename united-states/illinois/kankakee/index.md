@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Kankakee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 22.6%
+the "Estimated Prevalence" of COVID in this county is 15.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 22.6%
-- 2 people: 40.2%
-- 3 people: 53.7%
-- 5 people: 72.3%
-- 10 people: 92.3%
-- 25 people: 99.8%
+- 1 person: 15.3%
+- 2 people: 28.2%
+- 3 people: 39.2%
+- 5 people: 56.3%
+- 10 people: 80.9%
+- 25 people: 98.4%
 - 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:00.199663 UTC
+Last updated: 2020-11-18 00:18:13.662063 UTC

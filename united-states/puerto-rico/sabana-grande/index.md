@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Sabana Grande
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is -4.8%
+the "Estimated Prevalence" of COVID in this county is -4.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: -4.8%
-- 2 people: -9.9%
-- 3 people: -15.1%
-- 5 people: -26.5%
-- 10 people: -60.0%
-- 25 people: -223.9%
-- 100 people: -10902.9%
+- 1 person: -4.6%
+- 2 people: -9.4%
+- 3 people: -14.4%
+- 5 people: -25.2%
+- 10 people: -56.7%
+- 25 people: -207.2%
+- 100 people: -8803.7%
 
-Last updated: 2020-11-17 02:54:16.613589 UTC
+Last updated: 2020-11-18 00:18:34.176965 UTC

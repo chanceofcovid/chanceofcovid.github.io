@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Tillman
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.0%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.0%
-- 2 people: 24.3%
-- 3 people: 34.1%
-- 5 people: 50.1%
-- 10 people: 75.1%
-- 25 people: 96.9%
-- 100 people: 100.0%
+- 1 person: 5.3%
+- 2 people: 10.4%
+- 3 people: 15.1%
+- 5 people: 23.9%
+- 10 people: 42.1%
+- 25 people: 74.5%
+- 100 people: 99.6%
 
-Last updated: 2020-11-17 02:54:06.671643 UTC
+Last updated: 2020-11-18 00:18:25.549244 UTC

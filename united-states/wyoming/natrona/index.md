@@ -2,18 +2,18 @@
 ## [Wyoming](/united-states/wyoming) / Natrona
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.4%
+the "Estimated Prevalence" of COVID in this county is 15.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.4%
-- 2 people: 25.0%
-- 3 people: 35.1%
-- 5 people: 51.3%
-- 10 people: 76.3%
-- 25 people: 97.3%
+- 1 person: 15.8%
+- 2 people: 29.2%
+- 3 people: 40.4%
+- 5 people: 57.8%
+- 10 people: 82.2%
+- 25 people: 98.7%
 - 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:14.877218 UTC
+Last updated: 2020-11-18 00:18:32.756419 UTC

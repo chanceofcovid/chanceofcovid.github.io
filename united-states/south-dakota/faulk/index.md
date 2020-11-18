@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Faulk
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.8%
+the "Estimated Prevalence" of COVID in this county is 8.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.8%
-- 2 people: 15.0%
-- 3 people: 21.7%
-- 5 people: 33.5%
-- 10 people: 55.7%
-- 25 people: 87.0%
+- 1 person: 8.3%
+- 2 people: 15.8%
+- 3 people: 22.8%
+- 5 people: 35.0%
+- 10 people: 57.8%
+- 25 people: 88.4%
 - 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:09.355898 UTC
+Last updated: 2020-11-18 00:18:27.983698 UTC

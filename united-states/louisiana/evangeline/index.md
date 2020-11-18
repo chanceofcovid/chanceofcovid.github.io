@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Evangeline
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.7%
+the "Estimated Prevalence" of COVID in this county is 8.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.7%
-- 2 people: 7.3%
-- 3 people: 10.7%
-- 5 people: 17.2%
-- 10 people: 31.5%
-- 25 people: 61.2%
-- 100 people: 97.7%
+- 1 person: 8.2%
+- 2 people: 15.7%
+- 3 people: 22.6%
+- 5 people: 34.7%
+- 10 people: 57.4%
+- 25 people: 88.2%
+- 100 people: 100.0%
 
-Last updated: 2020-11-17 02:54:01.789188 UTC
+Last updated: 2020-11-18 00:18:16.126116 UTC

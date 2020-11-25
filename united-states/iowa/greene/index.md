@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Greene
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 19.1%
+the "Estimated Prevalence" of COVID in this county is 10.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 19.1%
-- 2 people: 34.5%
-- 3 people: 47.0%
-- 5 people: 65.3%
-- 10 people: 87.9%
-- 25 people: 99.5%
+- 1 person: 10.0%
+- 2 people: 19.0%
+- 3 people: 27.1%
+- 5 people: 41.0%
+- 10 people: 65.2%
+- 25 people: 92.8%
 - 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:17.930396 UTC
+Last updated: 2020-11-25 00:19:28.905744 UTC

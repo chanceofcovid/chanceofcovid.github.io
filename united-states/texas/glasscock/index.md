@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Glasscock
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.4%
+the "Estimated Prevalence" of COVID in this county is 38.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.4%
-- 2 people: 21.4%
-- 3 people: 30.3%
-- 5 people: 45.3%
-- 10 people: 70.0%
-- 25 people: 95.1%
+- 1 person: 38.6%
+- 2 people: 62.3%
+- 3 people: 76.9%
+- 5 people: 91.3%
+- 10 people: 99.2%
+- 25 people: 100.0%
 - 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:29.480700 UTC
+Last updated: 2020-11-25 00:19:40.654952 UTC

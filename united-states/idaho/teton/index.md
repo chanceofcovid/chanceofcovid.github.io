@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Teton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.1%
+the "Estimated Prevalence" of COVID in this county is 5.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.1%
-- 2 people: 15.5%
-- 3 people: 22.4%
-- 5 people: 34.4%
-- 10 people: 57.0%
-- 25 people: 87.9%
-- 100 people: 100.0%
+- 1 person: 5.2%
+- 2 people: 10.1%
+- 3 people: 14.8%
+- 5 people: 23.4%
+- 10 people: 41.3%
+- 25 people: 73.6%
+- 100 people: 99.5%
 
-Last updated: 2020-11-24 00:19:16.643887 UTC
+Last updated: 2020-11-25 00:19:27.736304 UTC

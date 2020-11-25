@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Power
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.5%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.5%
-- 2 people: 4.9%
-- 3 people: 7.2%
-- 5 people: 11.8%
-- 10 people: 22.2%
-- 25 people: 46.5%
-- 100 people: 91.8%
+- 1 person: 4.1%
+- 2 people: 8.1%
+- 3 people: 11.9%
+- 5 people: 19.0%
+- 10 people: 34.3%
+- 25 people: 65.0%
+- 100 people: 98.5%
 
-Last updated: 2020-11-24 00:19:16.643287 UTC
+Last updated: 2020-11-25 00:19:27.735654 UTC

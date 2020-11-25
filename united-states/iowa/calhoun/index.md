@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Calhoun
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 22.7%
+the "Estimated Prevalence" of COVID in this county is 12.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 22.7%
-- 2 people: 40.2%
-- 3 people: 53.7%
-- 5 people: 72.3%
-- 10 people: 92.3%
-- 25 people: 99.8%
+- 1 person: 12.0%
+- 2 people: 22.6%
+- 3 people: 31.8%
+- 5 people: 47.2%
+- 10 people: 72.1%
+- 25 people: 95.9%
 - 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:17.924648 UTC
+Last updated: 2020-11-25 00:19:28.896818 UTC

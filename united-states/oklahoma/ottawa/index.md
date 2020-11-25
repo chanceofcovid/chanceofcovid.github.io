@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Ottawa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.2%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.2%
-- 2 people: 10.0%
-- 3 people: 14.7%
-- 5 people: 23.3%
-- 10 people: 41.1%
-- 25 people: 73.4%
-- 100 people: 99.5%
+- 1 person: 3.2%
+- 2 people: 6.3%
+- 3 people: 9.3%
+- 5 people: 15.0%
+- 10 people: 27.7%
+- 25 people: 55.5%
+- 100 people: 96.1%
 
-Last updated: 2020-11-24 00:19:26.627218 UTC
+Last updated: 2020-11-25 00:19:37.678767 UTC

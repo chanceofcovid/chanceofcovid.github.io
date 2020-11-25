@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Fillmore
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.4%
+the "Estimated Prevalence" of COVID in this county is 4.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.4%
-- 2 people: 23.2%
-- 3 people: 32.7%
-- 5 people: 48.4%
-- 10 people: 73.4%
-- 25 people: 96.3%
-- 100 people: 100.0%
+- 1 person: 4.3%
+- 2 people: 8.4%
+- 3 people: 12.3%
+- 5 people: 19.7%
+- 10 people: 35.5%
+- 25 people: 66.6%
+- 100 people: 98.8%
 
-Last updated: 2020-11-24 00:19:21.098858 UTC
+Last updated: 2020-11-25 00:19:32.351234 UTC

@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Rabun
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.8%
-- 3 people: 14.4%
-- 5 people: 22.8%
-- 10 people: 40.4%
-- 25 people: 72.6%
-- 100 people: 99.4%
+- 1 person: 3.2%
+- 2 people: 6.2%
+- 3 people: 9.2%
+- 5 people: 14.9%
+- 10 people: 27.6%
+- 25 people: 55.4%
+- 100 people: 96.0%
 
-Last updated: 2020-11-24 00:19:15.857430 UTC
+Last updated: 2020-11-25 00:19:26.938955 UTC

@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Marshall
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.0%
+the "Estimated Prevalence" of COVID in this county is 7.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.0%
-- 2 people: 20.8%
-- 3 people: 29.5%
-- 5 people: 44.1%
-- 10 people: 68.7%
-- 25 people: 94.5%
+- 1 person: 7.9%
+- 2 people: 15.1%
+- 3 people: 21.8%
+- 5 people: 33.6%
+- 10 people: 56.0%
+- 25 people: 87.1%
 - 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:17.936565 UTC
+Last updated: 2020-11-25 00:19:28.916879 UTC

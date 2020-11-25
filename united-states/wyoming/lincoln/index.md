@@ -2,18 +2,18 @@
 ## [Wyoming](/united-states/wyoming) / Lincoln
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.4%
+the "Estimated Prevalence" of COVID in this county is 3.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.4%
-- 2 people: 8.5%
-- 3 people: 12.5%
-- 5 people: 20.0%
-- 10 people: 36.0%
-- 25 people: 67.2%
-- 100 people: 98.8%
+- 1 person: 3.4%
+- 2 people: 6.7%
+- 3 people: 9.9%
+- 5 people: 16.0%
+- 10 people: 29.5%
+- 25 people: 58.2%
+- 100 people: 96.9%
 
-Last updated: 2020-11-24 00:19:32.351953 UTC
+Last updated: 2020-11-25 00:19:43.559710 UTC

@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Robertson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 7.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.3%
-- 5 people: 2.1%
-- 10 people: 4.1%
-- 25 people: 10.0%
-- 100 people: 34.5%
+- 1 person: 7.0%
+- 2 people: 13.5%
+- 3 people: 19.5%
+- 5 people: 30.3%
+- 10 people: 51.4%
+- 25 people: 83.6%
+- 100 people: 99.9%
 
-Last updated: 2020-11-24 00:19:29.513026 UTC
+Last updated: 2020-11-25 00:19:40.690780 UTC

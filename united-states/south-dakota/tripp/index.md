@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Tripp
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 21.6%
+the "Estimated Prevalence" of COVID in this county is 7.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 21.6%
-- 2 people: 38.5%
-- 3 people: 51.8%
-- 5 people: 70.3%
-- 10 people: 91.2%
-- 25 people: 99.8%
+- 1 person: 7.7%
+- 2 people: 14.8%
+- 3 people: 21.4%
+- 5 people: 33.1%
+- 10 people: 55.2%
+- 25 people: 86.6%
 - 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:28.609054 UTC
+Last updated: 2020-11-25 00:19:39.816056 UTC

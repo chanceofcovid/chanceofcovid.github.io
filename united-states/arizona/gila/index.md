@@ -2,18 +2,18 @@
 ## [Arizona](/united-states/arizona) / Gila
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.2%
-- 3 people: 9.1%
-- 5 people: 14.7%
-- 10 people: 27.2%
-- 25 people: 54.8%
-- 100 people: 95.8%
+- 1 person: 5.3%
+- 2 people: 10.3%
+- 3 people: 15.0%
+- 5 people: 23.7%
+- 10 people: 41.8%
+- 25 people: 74.2%
+- 100 people: 99.6%
 
-Last updated: 2020-11-24 00:19:12.612753 UTC
+Last updated: 2020-11-25 00:19:23.613614 UTC

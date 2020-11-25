@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Dawson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.9%
+the "Estimated Prevalence" of COVID in this county is 6.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.9%
-- 2 people: 22.3%
-- 3 people: 31.5%
-- 5 people: 46.8%
-- 10 people: 71.7%
-- 25 people: 95.7%
-- 100 people: 100.0%
+- 1 person: 6.7%
+- 2 people: 12.9%
+- 3 people: 18.7%
+- 5 people: 29.1%
+- 10 people: 49.8%
+- 25 people: 82.1%
+- 100 people: 99.9%
 
-Last updated: 2020-11-24 00:19:22.953429 UTC
+Last updated: 2020-11-25 00:19:34.013164 UTC

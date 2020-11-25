@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Butte
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 2.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.3%
-- 3 people: 3.4%
-- 5 people: 5.6%
-- 10 people: 11.0%
-- 25 people: 25.2%
-- 100 people: 68.7%
+- 1 person: 2.3%
+- 2 people: 4.6%
+- 3 people: 6.8%
+- 5 people: 11.0%
+- 10 people: 20.8%
+- 25 people: 44.3%
+- 100 people: 90.3%
 
-Last updated: 2020-11-24 00:19:16.635375 UTC
+Last updated: 2020-11-25 00:19:27.726460 UTC

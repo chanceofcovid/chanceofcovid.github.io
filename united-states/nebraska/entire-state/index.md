@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.5%
+the "Estimated Prevalence" of COVID in this county is 7.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.5%
-- 2 people: 16.2%
-- 3 people: 23.3%
-- 5 people: 35.7%
-- 10 people: 58.7%
-- 25 people: 89.0%
+- 1 person: 7.4%
+- 2 people: 14.3%
+- 3 people: 20.6%
+- 5 people: 31.9%
+- 10 people: 53.7%
+- 25 people: 85.4%
 - 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:22.947012 UTC
+Last updated: 2020-11-25 00:19:34.005518 UTC

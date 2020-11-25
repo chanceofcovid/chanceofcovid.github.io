@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.2%
+the "Estimated Prevalence" of COVID in this county is 5.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.2%
-- 2 people: 13.8%
-- 3 people: 20.0%
-- 5 people: 31.1%
-- 10 people: 52.5%
-- 25 people: 84.5%
-- 100 people: 99.9%
+- 1 person: 5.0%
+- 2 people: 9.8%
+- 3 people: 14.3%
+- 5 people: 22.7%
+- 10 people: 40.2%
+- 25 people: 72.3%
+- 100 people: 99.4%
 
-Last updated: 2020-11-24 00:19:17.053423 UTC
+Last updated: 2020-11-25 00:19:28.086634 UTC

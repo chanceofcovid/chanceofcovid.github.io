@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Traverse
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.3%
+the "Estimated Prevalence" of COVID in this county is 11.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.3%
-- 2 people: 14.1%
-- 3 people: 20.4%
-- 5 people: 31.6%
-- 10 people: 53.2%
-- 25 people: 85.0%
-- 100 people: 99.9%
+- 1 person: 11.1%
+- 2 people: 20.9%
+- 3 people: 29.7%
+- 5 people: 44.4%
+- 10 people: 69.1%
+- 25 people: 94.7%
+- 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:21.113875 UTC
+Last updated: 2020-11-25 00:19:32.372524 UTC

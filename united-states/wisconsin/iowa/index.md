@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Iowa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.3%
+the "Estimated Prevalence" of COVID in this county is 8.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.3%
-- 2 people: 19.6%
-- 3 people: 27.9%
-- 5 people: 42.1%
-- 10 people: 66.5%
-- 25 people: 93.5%
+- 1 person: 8.4%
+- 2 people: 16.1%
+- 3 people: 23.1%
+- 5 people: 35.5%
+- 10 people: 58.3%
+- 25 people: 88.8%
 - 100 people: 100.0%
 
-Last updated: 2020-11-24 00:19:31.986387 UTC
+Last updated: 2020-11-25 00:19:43.135610 UTC

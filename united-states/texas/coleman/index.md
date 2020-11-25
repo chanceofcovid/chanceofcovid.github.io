@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Coleman
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 26.6%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 26.6%
-- 2 people: 46.2%
-- 3 people: 60.5%
-- 5 people: 78.8%
-- 10 people: 95.5%
-- 25 people: 100.0%
-- 100 people: 100.0%
+- 1 person: 2.0%
+- 2 people: 3.9%
+- 3 people: 5.8%
+- 5 people: 9.4%
+- 10 people: 17.9%
+- 25 people: 39.0%
+- 100 people: 86.1%
 
-Last updated: 2020-11-24 00:19:29.470118 UTC
+Last updated: 2020-11-25 00:19:40.639398 UTC

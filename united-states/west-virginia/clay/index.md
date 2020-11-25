@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Clay
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.0%
-- 3 people: 10.3%
-- 5 people: 16.6%
-- 10 people: 30.5%
-- 25 people: 59.7%
-- 100 people: 97.4%
+- 1 person: 1.0%
+- 2 people: 2.1%
+- 3 people: 3.1%
+- 5 people: 5.1%
+- 10 people: 9.9%
+- 25 people: 22.9%
+- 100 people: 64.6%
 
-Last updated: 2020-11-24 00:19:31.473543 UTC
+Last updated: 2020-11-25 00:19:42.730160 UTC

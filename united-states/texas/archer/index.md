@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Archer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.9%
+the "Estimated Prevalence" of COVID in this county is 4.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.9%
-- 2 people: 20.7%
-- 3 people: 29.4%
-- 5 people: 44.0%
-- 10 people: 68.6%
-- 25 people: 94.5%
-- 100 people: 100.0%
+- 1 person: 4.3%
+- 2 people: 8.4%
+- 3 people: 12.3%
+- 5 people: 19.6%
+- 10 people: 35.4%
+- 25 people: 66.5%
+- 100 people: 98.7%
 
-Last updated: 2020-11-24 00:19:29.460318 UTC
+Last updated: 2020-11-25 00:19:40.624593 UTC

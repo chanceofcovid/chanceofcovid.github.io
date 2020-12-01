@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Kosciusko
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.7%
+the "Estimated Prevalence" of COVID in this county is 4.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.7%
-- 2 people: 20.3%
-- 3 people: 28.8%
-- 5 people: 43.2%
-- 10 people: 67.8%
-- 25 people: 94.1%
-- 100 people: 100.0%
+- 1 person: 4.4%
+- 2 people: 8.6%
+- 3 people: 12.6%
+- 5 people: 20.1%
+- 10 people: 36.1%
+- 25 people: 67.4%
+- 100 people: 98.9%
 
-Last updated: 2020-11-30 00:21:19.373341 UTC
+Last updated: 2020-12-01 00:21:47.102144 UTC

@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Asotin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.4%
+the "Estimated Prevalence" of COVID in this county is 10.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.4%
-- 2 people: 4.8%
-- 3 people: 7.2%
-- 5 people: 11.6%
-- 10 people: 21.9%
-- 25 people: 46.1%
-- 100 people: 91.6%
+- 1 person: 10.7%
+- 2 people: 20.2%
+- 3 people: 28.8%
+- 5 people: 43.2%
+- 10 people: 67.7%
+- 25 people: 94.1%
+- 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:28.241931 UTC
+Last updated: 2020-12-01 00:21:56.681510 UTC

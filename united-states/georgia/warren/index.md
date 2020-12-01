@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Warren
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.6%
-- 3 people: 9.7%
-- 5 people: 15.7%
-- 10 people: 28.9%
-- 25 people: 57.3%
-- 100 people: 96.7%
+- 1 person: 0.8%
+- 2 people: 1.5%
+- 3 people: 2.3%
+- 5 people: 3.7%
+- 10 people: 7.4%
+- 25 people: 17.4%
+- 100 people: 53.4%
 
-Last updated: 2020-11-30 00:21:18.334008 UTC
+Last updated: 2020-12-01 00:21:45.881129 UTC

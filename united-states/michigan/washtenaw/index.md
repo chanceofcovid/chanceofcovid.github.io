@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Washtenaw
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.0%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.0%
-- 2 people: 5.9%
-- 3 people: 8.8%
-- 5 people: 14.2%
-- 10 people: 26.4%
-- 25 people: 53.5%
-- 100 people: 95.3%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.5%
+- 5 people: 13.7%
+- 10 people: 25.6%
+- 25 people: 52.2%
+- 100 people: 94.8%
 
-Last updated: 2020-11-30 00:21:21.677486 UTC
+Last updated: 2020-12-01 00:21:49.375009 UTC

@@ -2,18 +2,18 @@
 ## [Nevada](/united-states/nevada) / White Pine
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 27.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.1%
-- 3 people: 4.7%
-- 5 people: 7.7%
-- 10 people: 14.8%
-- 25 people: 33.0%
-- 100 people: 79.8%
+- 1 person: 27.4%
+- 2 people: 47.3%
+- 3 people: 61.8%
+- 5 people: 79.9%
+- 10 people: 95.9%
+- 25 people: 100.0%
+- 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:23.420121 UTC
+Last updated: 2020-12-01 00:21:51.111900 UTC

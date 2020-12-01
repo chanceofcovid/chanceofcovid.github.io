@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Braxton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.9%
-- 5 people: 1.4%
-- 10 people: 2.8%
-- 25 people: 6.9%
-- 100 people: 24.9%
+- 1 person: 3.5%
+- 2 people: 6.9%
+- 3 people: 10.2%
+- 5 people: 16.4%
+- 10 people: 30.0%
+- 25 people: 59.0%
+- 100 people: 97.2%
 
-Last updated: 2020-11-30 00:21:28.499630 UTC
+Last updated: 2020-12-01 00:21:57.077947 UTC

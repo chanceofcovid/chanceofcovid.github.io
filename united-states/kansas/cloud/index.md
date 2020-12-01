@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Cloud
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 14.3%
+the "Estimated Prevalence" of COVID in this county is 10.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 14.3%
-- 2 people: 26.5%
-- 3 people: 37.0%
-- 5 people: 53.7%
-- 10 people: 78.6%
-- 25 people: 97.9%
+- 1 person: 10.7%
+- 2 people: 20.3%
+- 3 people: 28.8%
+- 5 people: 43.2%
+- 10 people: 67.7%
+- 25 people: 94.1%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:19.911291 UTC
+Last updated: 2020-12-01 00:21:47.682305 UTC

@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Chickasaw
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.3%
+the "Estimated Prevalence" of COVID in this county is 6.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.3%
-- 2 people: 23.1%
-- 3 people: 32.6%
-- 5 people: 48.2%
-- 10 people: 73.1%
-- 25 people: 96.3%
-- 100 people: 100.0%
+- 1 person: 6.1%
+- 2 people: 11.9%
+- 3 people: 17.3%
+- 5 people: 27.1%
+- 10 people: 46.8%
+- 25 people: 79.4%
+- 100 people: 99.8%
 
-Last updated: 2020-11-30 00:21:19.645440 UTC
+Last updated: 2020-12-01 00:21:47.397095 UTC

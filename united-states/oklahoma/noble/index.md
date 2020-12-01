@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Noble
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.5%
+the "Estimated Prevalence" of COVID in this county is 35.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.5%
-- 2 people: 21.7%
-- 3 people: 30.7%
-- 5 people: 45.7%
-- 10 people: 70.5%
-- 25 people: 95.3%
+- 1 person: 35.6%
+- 2 people: 58.5%
+- 3 people: 73.3%
+- 5 people: 88.9%
+- 10 people: 98.8%
+- 25 people: 100.0%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:25.425692 UTC
+Last updated: 2020-12-01 00:21:53.435138 UTC

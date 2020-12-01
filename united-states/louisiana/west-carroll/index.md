@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / West Carroll
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 25.1%
+the "Estimated Prevalence" of COVID in this county is 4.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 25.1%
-- 2 people: 43.9%
-- 3 people: 58.0%
-- 5 people: 76.4%
-- 10 people: 94.5%
-- 25 people: 99.9%
-- 100 people: 100.0%
+- 1 person: 4.3%
+- 2 people: 8.4%
+- 3 people: 12.3%
+- 5 people: 19.7%
+- 10 people: 35.5%
+- 25 people: 66.5%
+- 100 people: 98.7%
 
-Last updated: 2020-11-30 00:21:20.532889 UTC
+Last updated: 2020-12-01 00:21:48.279818 UTC

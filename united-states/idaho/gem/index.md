@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Gem
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.6%
+the "Estimated Prevalence" of COVID in this county is 18.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.6%
-- 2 people: 21.9%
-- 3 people: 30.9%
-- 5 people: 46.0%
-- 10 people: 70.9%
-- 25 people: 95.4%
+- 1 person: 18.3%
+- 2 people: 33.2%
+- 3 people: 45.4%
+- 5 people: 63.5%
+- 10 people: 86.7%
+- 25 people: 99.4%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:18.808565 UTC
+Last updated: 2020-12-01 00:21:46.528038 UTC

@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Clark
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 19.1%
+the "Estimated Prevalence" of COVID in this county is 38.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 19.1%
-- 2 people: 34.5%
-- 3 people: 47.0%
-- 5 people: 65.3%
-- 10 people: 87.9%
-- 25 people: 99.5%
+- 1 person: 38.9%
+- 2 people: 62.6%
+- 3 people: 77.2%
+- 5 people: 91.5%
+- 10 people: 99.3%
+- 25 people: 100.0%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:19.910830 UTC
+Last updated: 2020-12-01 00:21:47.681873 UTC

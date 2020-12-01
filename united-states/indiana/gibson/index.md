@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Gibson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.9%
+the "Estimated Prevalence" of COVID in this county is 7.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.9%
-- 2 people: 13.3%
-- 3 people: 19.3%
-- 5 people: 30.1%
-- 10 people: 51.1%
-- 25 people: 83.3%
-- 100 people: 99.9%
+- 1 person: 7.5%
+- 2 people: 14.5%
+- 3 people: 21.0%
+- 5 people: 32.4%
+- 10 people: 54.4%
+- 25 people: 85.9%
+- 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:19.368144 UTC
+Last updated: 2020-12-01 00:21:47.098624 UTC

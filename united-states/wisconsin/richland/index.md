@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Richland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.5%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.5%
-- 2 people: 8.9%
-- 3 people: 13.0%
-- 5 people: 20.7%
-- 10 people: 37.2%
-- 25 people: 68.7%
-- 100 people: 99.0%
+- 1 person: 2.8%
+- 2 people: 5.5%
+- 3 people: 8.1%
+- 5 people: 13.2%
+- 10 people: 24.6%
+- 25 people: 50.6%
+- 100 people: 94.0%
 
-Last updated: 2020-11-30 00:21:28.776147 UTC
+Last updated: 2020-12-01 00:21:57.381603 UTC

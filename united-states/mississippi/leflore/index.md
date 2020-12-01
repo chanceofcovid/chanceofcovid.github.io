@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Leflore
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.5%
-- 3 people: 8.2%
-- 5 people: 13.3%
-- 10 people: 24.8%
-- 25 people: 50.9%
-- 100 people: 94.2%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 9.0%
+- 10 people: 17.2%
+- 25 people: 37.7%
+- 100 people: 84.9%
 
-Last updated: 2020-11-30 00:21:22.217304 UTC
+Last updated: 2020-12-01 00:21:49.922269 UTC

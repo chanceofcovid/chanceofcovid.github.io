@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Williamson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.2%
+the "Estimated Prevalence" of COVID in this county is 4.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.2%
-- 2 people: 10.2%
-- 3 people: 14.9%
-- 5 people: 23.6%
-- 10 people: 41.6%
-- 25 people: 73.9%
-- 100 people: 99.5%
+- 1 person: 4.8%
+- 2 people: 9.3%
+- 3 people: 13.6%
+- 5 people: 21.6%
+- 10 people: 38.6%
+- 25 people: 70.4%
+- 100 people: 99.2%
 
-Last updated: 2020-11-30 00:21:19.081317 UTC
+Last updated: 2020-12-01 00:21:46.830395 UTC

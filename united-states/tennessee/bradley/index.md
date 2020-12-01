@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Bradley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 4.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.4%
-- 3 people: 8.1%
-- 5 people: 13.1%
-- 10 people: 24.4%
-- 25 people: 50.3%
-- 100 people: 93.9%
+- 1 person: 4.5%
+- 2 people: 8.7%
+- 3 people: 12.8%
+- 5 people: 20.4%
+- 10 people: 36.6%
+- 25 people: 68.0%
+- 100 people: 98.9%
 
-Last updated: 2020-11-30 00:21:26.913538 UTC
+Last updated: 2020-12-01 00:21:55.161612 UTC

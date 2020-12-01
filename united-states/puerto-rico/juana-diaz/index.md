@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Juana Diaz
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.2%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.2%
-- 2 people: 4.3%
-- 3 people: 6.4%
-- 5 people: 10.5%
-- 10 people: 19.9%
-- 25 people: 42.5%
-- 100 people: 89.1%
+- 1 person: 0.8%
+- 2 people: 1.5%
+- 3 people: 2.3%
+- 5 people: 3.8%
+- 10 people: 7.4%
+- 25 people: 17.6%
+- 100 people: 53.8%
 
-Last updated: 2020-11-30 00:21:29.986683 UTC
+Last updated: 2020-12-01 00:21:58.564249 UTC

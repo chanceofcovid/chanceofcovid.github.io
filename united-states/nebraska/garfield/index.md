@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Garfield
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 23.4%
+the "Estimated Prevalence" of COVID in this county is 8.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 23.4%
-- 2 people: 41.4%
-- 3 people: 55.1%
-- 5 people: 73.7%
-- 10 people: 93.1%
-- 25 people: 99.9%
+- 1 person: 8.1%
+- 2 people: 15.6%
+- 3 people: 22.5%
+- 5 people: 34.5%
+- 10 people: 57.2%
+- 25 people: 88.0%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:23.041178 UTC
+Last updated: 2020-12-01 00:21:50.812101 UTC

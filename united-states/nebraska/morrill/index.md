@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Morrill
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.1%
+the "Estimated Prevalence" of COVID in this county is 17.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.1%
-- 2 people: 22.7%
-- 3 people: 32.0%
-- 5 people: 47.4%
-- 10 people: 72.4%
-- 25 people: 96.0%
+- 1 person: 17.2%
+- 2 people: 31.4%
+- 3 people: 43.1%
+- 5 people: 61.0%
+- 10 people: 84.8%
+- 25 people: 99.1%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:23.047060 UTC
+Last updated: 2020-12-01 00:21:50.816989 UTC

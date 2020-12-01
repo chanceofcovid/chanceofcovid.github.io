@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Walker
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.3%
+the "Estimated Prevalence" of COVID in this county is 12.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.3%
-- 2 people: 4.6%
-- 3 people: 6.8%
-- 5 people: 11.0%
-- 10 people: 20.9%
-- 25 people: 44.3%
-- 100 people: 90.4%
+- 1 person: 12.5%
+- 2 people: 23.5%
+- 3 people: 33.0%
+- 5 people: 48.8%
+- 10 people: 73.7%
+- 25 people: 96.5%
+- 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:27.225665 UTC
+Last updated: 2020-12-01 00:21:55.494409 UTC

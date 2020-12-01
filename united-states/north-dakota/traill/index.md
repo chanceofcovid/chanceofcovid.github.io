@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Traill
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.6%
+the "Estimated Prevalence" of COVID in this county is 13.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.6%
-- 2 people: 18.2%
-- 3 people: 26.1%
-- 5 people: 39.6%
-- 10 people: 63.5%
-- 25 people: 91.9%
+- 1 person: 13.0%
+- 2 people: 24.3%
+- 3 people: 34.2%
+- 5 people: 50.2%
+- 10 people: 75.2%
+- 25 people: 96.9%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:24.907564 UTC
+Last updated: 2020-12-01 00:21:52.857214 UTC

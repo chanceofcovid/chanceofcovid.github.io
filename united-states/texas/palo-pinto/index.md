@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Palo Pinto
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 6.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.0%
-- 3 people: 10.3%
-- 5 people: 16.6%
-- 10 people: 30.4%
-- 25 people: 59.6%
-- 100 people: 97.3%
+- 1 person: 6.8%
+- 2 people: 13.2%
+- 3 people: 19.1%
+- 5 people: 29.7%
+- 10 people: 50.6%
+- 25 people: 82.9%
+- 100 people: 99.9%
 
-Last updated: 2020-11-30 00:21:27.213638 UTC
+Last updated: 2020-12-01 00:21:55.483307 UTC

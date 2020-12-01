@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Jeff Davis
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 60.2%
+the "Estimated Prevalence" of COVID in this county is 15.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 60.2%
-- 2 people: 84.1%
-- 3 people: 93.7%
-- 5 people: 99.0%
-- 10 people: 100.0%
-- 25 people: 100.0%
+- 1 person: 15.9%
+- 2 people: 29.2%
+- 3 people: 40.5%
+- 5 people: 57.9%
+- 10 people: 82.2%
+- 25 people: 98.7%
 - 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:27.199749 UTC
+Last updated: 2020-12-01 00:21:55.470820 UTC

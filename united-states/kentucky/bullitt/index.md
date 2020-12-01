@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Bullitt
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.2%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.2%
-- 2 people: 8.3%
-- 3 people: 12.1%
-- 5 people: 19.4%
-- 10 people: 35.0%
-- 25 people: 65.9%
-- 100 people: 98.7%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.4%
+- 5 people: 13.7%
+- 10 people: 25.5%
+- 25 people: 52.1%
+- 100 people: 94.7%
 
-Last updated: 2020-11-30 00:21:20.249927 UTC
+Last updated: 2020-12-01 00:21:47.974757 UTC

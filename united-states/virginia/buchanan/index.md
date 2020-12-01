@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Buchanan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.9%
+the "Estimated Prevalence" of COVID in this county is 1.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.9%
-- 2 people: 7.6%
-- 3 people: 11.2%
-- 5 people: 17.9%
-- 10 people: 32.6%
-- 25 people: 62.7%
-- 100 people: 98.1%
+- 1 person: 1.6%
+- 2 people: 3.2%
+- 3 people: 4.8%
+- 5 people: 7.9%
+- 10 people: 15.2%
+- 25 people: 33.8%
+- 100 people: 80.8%
 
-Last updated: 2020-11-30 00:21:27.960873 UTC
+Last updated: 2020-12-01 00:21:56.387113 UTC

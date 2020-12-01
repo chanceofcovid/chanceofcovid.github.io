@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Yakima
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 5.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 3.0%
-- 3 people: 4.5%
-- 5 people: 7.4%
-- 10 people: 14.3%
-- 25 people: 32.0%
-- 100 people: 78.6%
+- 1 person: 5.9%
+- 2 people: 11.4%
+- 3 people: 16.6%
+- 5 people: 26.2%
+- 10 people: 45.5%
+- 25 people: 78.0%
+- 100 people: 99.8%
 
-Last updated: 2020-11-30 00:21:28.251705 UTC
+Last updated: 2020-12-01 00:21:56.689275 UTC

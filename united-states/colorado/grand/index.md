@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Grand
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 12.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 8.9%
-- 3 people: 13.1%
-- 5 people: 20.9%
-- 10 people: 37.4%
-- 25 people: 69.0%
-- 100 people: 99.1%
+- 1 person: 12.5%
+- 2 people: 23.5%
+- 3 people: 33.0%
+- 5 people: 48.7%
+- 10 people: 73.7%
+- 25 people: 96.5%
+- 100 people: 100.0%
 
-Last updated: 2020-11-30 00:21:17.040294 UTC
+Last updated: 2020-12-01 00:21:44.504974 UTC

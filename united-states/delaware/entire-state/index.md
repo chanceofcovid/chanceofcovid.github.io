@@ -2,18 +2,18 @@
 ## [Delaware](/united-states/delaware) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.4%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.4%
-- 2 people: 4.8%
-- 3 people: 7.1%
-- 5 people: 11.6%
-- 10 people: 21.8%
-- 25 people: 46.0%
-- 100 people: 91.5%
+- 1 person: 3.9%
+- 2 people: 7.6%
+- 3 people: 11.2%
+- 5 people: 18.0%
+- 10 people: 32.7%
+- 25 people: 62.9%
+- 100 people: 98.1%
 
-Last updated: 2020-12-08 00:22:19.682416 UTC
+Last updated: 2020-12-09 00:22:38.090067 UTC

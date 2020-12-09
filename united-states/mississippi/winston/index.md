@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Winston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 9.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.0%
-- 3 people: 10.3%
-- 5 people: 16.6%
-- 10 people: 30.4%
-- 25 people: 59.6%
-- 100 people: 97.3%
+- 1 person: 9.9%
+- 2 people: 18.8%
+- 3 people: 26.9%
+- 5 people: 40.6%
+- 10 people: 64.7%
+- 25 people: 92.6%
+- 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:24.593563 UTC
+Last updated: 2020-12-09 00:22:42.508097 UTC

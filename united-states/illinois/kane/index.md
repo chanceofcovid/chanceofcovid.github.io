@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Kane
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 4.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.5%
-- 3 people: 11.0%
-- 5 people: 17.6%
-- 10 people: 32.1%
-- 25 people: 62.0%
-- 100 people: 97.9%
+- 1 person: 4.2%
+- 2 people: 8.1%
+- 3 people: 12.0%
+- 5 people: 19.1%
+- 10 people: 34.6%
+- 25 people: 65.4%
+- 100 people: 98.6%
 
-Last updated: 2020-12-08 00:22:21.399400 UTC
+Last updated: 2020-12-09 00:22:39.695350 UTC

@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Baca
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 63.9%
+the "Estimated Prevalence" of COVID in this county is 6.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 63.9%
-- 2 people: 87.0%
-- 3 people: 95.3%
-- 5 people: 99.4%
-- 10 people: 100.0%
-- 25 people: 100.0%
-- 100 people: 100.0%
+- 1 person: 6.5%
+- 2 people: 12.5%
+- 3 people: 18.2%
+- 5 people: 28.5%
+- 10 people: 48.8%
+- 25 people: 81.3%
+- 100 people: 99.9%
 
-Last updated: 2020-12-08 00:22:19.106052 UTC
+Last updated: 2020-12-09 00:22:37.584918 UTC

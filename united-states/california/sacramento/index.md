@@ -2,18 +2,18 @@
 ## [California](/united-states/california) / Sacramento
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 2.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.8%
-- 3 people: 5.7%
-- 5 people: 9.3%
-- 10 people: 17.8%
-- 25 people: 38.7%
-- 100 people: 85.9%
+- 1 person: 2.5%
+- 2 people: 5.0%
+- 3 people: 7.4%
+- 5 people: 12.0%
+- 10 people: 22.6%
+- 25 people: 47.4%
+- 100 people: 92.3%
 
-Last updated: 2020-12-08 00:22:18.848419 UTC
+Last updated: 2020-12-09 00:22:37.329130 UTC

@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Pulaski
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.8%
+the "Estimated Prevalence" of COVID in this county is 9.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.8%
-- 2 people: 11.4%
-- 3 people: 16.5%
-- 5 people: 26.0%
-- 10 people: 45.3%
-- 25 people: 77.8%
-- 100 people: 99.8%
+- 1 person: 9.7%
+- 2 people: 18.4%
+- 3 people: 26.3%
+- 5 people: 39.9%
+- 10 people: 63.8%
+- 25 people: 92.1%
+- 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:21.406744 UTC
+Last updated: 2020-12-09 00:22:39.702327 UTC

@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Cherokee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.2%
+the "Estimated Prevalence" of COVID in this county is 8.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.2%
-- 2 people: 8.2%
-- 3 people: 12.0%
-- 5 people: 19.2%
-- 10 people: 34.6%
-- 25 people: 65.5%
-- 100 people: 98.6%
+- 1 person: 8.3%
+- 2 people: 15.9%
+- 3 people: 22.9%
+- 5 people: 35.2%
+- 10 people: 58.0%
+- 25 people: 88.5%
+- 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:22.269632 UTC
+Last updated: 2020-12-09 00:22:40.517168 UTC

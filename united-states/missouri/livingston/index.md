@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Livingston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.3%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.3%
-- 2 people: 4.6%
-- 3 people: 6.8%
-- 5 people: 11.0%
-- 10 people: 20.9%
-- 25 people: 44.3%
-- 100 people: 90.4%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.4%
+- 5 people: 13.6%
+- 10 people: 25.3%
+- 25 people: 51.8%
+- 100 people: 94.6%
 
-Last updated: 2020-12-08 00:22:24.848517 UTC
+Last updated: 2020-12-09 00:22:42.797214 UTC

@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Benson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.9%
+the "Estimated Prevalence" of COVID in this county is 11.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.9%
-- 2 people: 11.4%
-- 3 people: 16.6%
-- 5 people: 26.0%
-- 10 people: 45.3%
-- 25 people: 77.9%
-- 100 people: 99.8%
+- 1 person: 11.1%
+- 2 people: 21.1%
+- 3 people: 29.9%
+- 5 people: 44.6%
+- 10 people: 69.3%
+- 25 people: 94.8%
+- 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:27.417512 UTC
+Last updated: 2020-12-09 00:22:45.270668 UTC

@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Lyon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.1%
+the "Estimated Prevalence" of COVID in this county is 6.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.1%
-- 2 people: 21.0%
-- 3 people: 29.8%
-- 5 people: 44.5%
-- 10 people: 69.2%
-- 25 people: 94.7%
-- 100 people: 100.0%
+- 1 person: 6.5%
+- 2 people: 12.5%
+- 3 people: 18.2%
+- 5 people: 28.5%
+- 10 people: 48.8%
+- 25 people: 81.3%
+- 100 people: 99.9%
 
-Last updated: 2020-12-08 00:22:22.280644 UTC
+Last updated: 2020-12-09 00:22:40.527290 UTC

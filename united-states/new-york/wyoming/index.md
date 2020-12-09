@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Wyoming
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 8.9%
-- 3 people: 13.1%
-- 5 people: 20.8%
-- 10 people: 37.3%
-- 25 people: 68.8%
-- 100 people: 99.1%
+- 1 person: 2.8%
+- 2 people: 5.6%
+- 3 people: 8.2%
+- 5 people: 13.4%
+- 10 people: 24.9%
+- 25 people: 51.2%
+- 100 people: 94.3%
 
-Last updated: 2020-12-08 00:22:26.880812 UTC
+Last updated: 2020-12-09 00:22:44.697441 UTC

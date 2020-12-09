@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Costilla
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.2%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.2%
-- 2 people: 12.1%
-- 3 people: 17.5%
-- 5 people: 27.5%
-- 10 people: 47.4%
-- 25 people: 79.9%
-- 100 people: 99.8%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 8.9%
+- 10 people: 17.1%
+- 25 people: 37.3%
+- 100 people: 84.6%
 
-Last updated: 2020-12-08 00:22:19.107992 UTC
+Last updated: 2020-12-09 00:22:37.586750 UTC

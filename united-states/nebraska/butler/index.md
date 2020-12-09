@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Butler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.1%
+the "Estimated Prevalence" of COVID in this county is 17.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.1%
-- 2 people: 15.6%
-- 3 people: 22.4%
-- 5 people: 34.5%
-- 10 people: 57.1%
-- 25 people: 87.9%
+- 1 person: 17.0%
+- 2 people: 31.2%
+- 3 people: 42.9%
+- 5 people: 60.7%
+- 10 people: 84.6%
+- 25 people: 99.1%
 - 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:25.396535 UTC
+Last updated: 2020-12-09 00:22:43.281045 UTC

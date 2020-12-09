@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Lamb
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 18.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 9.0%
-- 3 people: 13.2%
-- 5 people: 20.9%
-- 10 people: 37.5%
-- 25 people: 69.1%
-- 100 people: 99.1%
+- 1 person: 18.7%
+- 2 people: 34.0%
+- 3 people: 46.4%
+- 5 people: 64.6%
+- 10 people: 87.5%
+- 25 people: 99.4%
+- 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:29.986732 UTC
+Last updated: 2020-12-09 00:22:47.936288 UTC

@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Bradford
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.1%
-- 3 people: 3.2%
-- 5 people: 5.3%
-- 10 people: 10.3%
-- 25 people: 23.7%
-- 100 people: 66.2%
+- 1 person: 3.1%
+- 2 people: 6.1%
+- 3 people: 9.0%
+- 5 people: 14.5%
+- 10 people: 26.9%
+- 25 people: 54.4%
+- 100 people: 95.7%
 
-Last updated: 2020-12-08 00:22:20.242008 UTC
+Last updated: 2020-12-09 00:22:38.627311 UTC

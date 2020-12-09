@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Meigs
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 5.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.1%
-- 3 people: 8.9%
-- 5 people: 14.5%
-- 10 people: 26.8%
-- 25 people: 54.2%
-- 100 people: 95.6%
+- 1 person: 5.9%
+- 2 people: 11.4%
+- 3 people: 16.6%
+- 5 people: 26.1%
+- 10 people: 45.4%
+- 25 people: 77.9%
+- 100 people: 99.8%
 
-Last updated: 2020-12-08 00:22:27.721317 UTC
+Last updated: 2020-12-09 00:22:45.543926 UTC

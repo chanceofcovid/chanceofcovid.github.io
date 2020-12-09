@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Custer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.5%
+the "Estimated Prevalence" of COVID in this county is 9.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.5%
-- 2 people: 6.8%
-- 3 people: 10.1%
-- 5 people: 16.2%
-- 10 people: 29.8%
-- 25 people: 58.7%
-- 100 people: 97.1%
+- 1 person: 9.3%
+- 2 people: 17.8%
+- 3 people: 25.5%
+- 5 people: 38.7%
+- 10 people: 62.4%
+- 25 people: 91.4%
+- 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:19.108433 UTC
+Last updated: 2020-12-09 00:22:37.587195 UTC

@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Ripley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.8%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.8%
-- 2 people: 9.4%
-- 3 people: 13.8%
-- 5 people: 21.9%
-- 10 people: 39.1%
-- 25 people: 71.0%
-- 100 people: 99.3%
+- 1 person: 4.1%
+- 2 people: 8.0%
+- 3 people: 11.7%
+- 5 people: 18.8%
+- 10 people: 34.1%
+- 25 people: 64.7%
+- 100 people: 98.4%
 
-Last updated: 2020-12-08 00:22:24.856843 UTC
+Last updated: 2020-12-09 00:22:42.803954 UTC

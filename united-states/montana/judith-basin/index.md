@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Judith Basin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.5%
+the "Estimated Prevalence" of COVID in this county is 13.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.5%
-- 2 people: 6.9%
-- 3 people: 10.1%
-- 5 people: 16.3%
-- 10 people: 29.9%
-- 25 people: 58.8%
-- 100 people: 97.1%
+- 1 person: 13.0%
+- 2 people: 24.2%
+- 3 people: 34.0%
+- 5 people: 50.0%
+- 10 people: 75.0%
+- 25 people: 96.9%
+- 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:25.119433 UTC
+Last updated: 2020-12-09 00:22:43.050151 UTC

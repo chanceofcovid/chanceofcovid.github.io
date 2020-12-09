@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Ida
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 14.9%
+the "Estimated Prevalence" of COVID in this county is 17.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 14.9%
-- 2 people: 27.6%
-- 3 people: 38.4%
-- 5 people: 55.4%
-- 10 people: 80.1%
-- 25 people: 98.2%
+- 1 person: 17.1%
+- 2 people: 31.2%
+- 3 people: 43.0%
+- 5 people: 60.8%
+- 10 people: 84.6%
+- 25 people: 99.1%
 - 100 people: 100.0%
 
-Last updated: 2020-12-08 00:22:21.974625 UTC
+Last updated: 2020-12-09 00:22:40.253044 UTC

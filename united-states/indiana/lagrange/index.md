@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / LaGrange
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.5%
-- 3 people: 11.1%
-- 5 people: 17.7%
-- 10 people: 32.3%
-- 25 people: 62.4%
-- 100 people: 98.0%
+- 1 person: 1.1%
+- 2 people: 2.1%
+- 3 people: 3.2%
+- 5 people: 5.2%
+- 10 people: 10.2%
+- 25 people: 23.6%
+- 100 people: 66.0%
 
-Last updated: 2020-12-15 00:23:25.610709 UTC
+Last updated: 2020-12-16 00:23:22.503870 UTC

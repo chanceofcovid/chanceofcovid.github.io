@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / White
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.2%
+the "Estimated Prevalence" of COVID in this county is 3.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.2%
-- 2 people: 23.0%
-- 3 people: 32.4%
-- 5 people: 47.9%
-- 10 people: 72.9%
-- 25 people: 96.2%
-- 100 people: 100.0%
+- 1 person: 3.4%
+- 2 people: 6.6%
+- 3 people: 9.7%
+- 5 people: 15.7%
+- 10 people: 28.9%
+- 25 people: 57.4%
+- 100 people: 96.7%
 
-Last updated: 2020-12-15 00:23:33.518698 UTC
+Last updated: 2020-12-16 00:23:29.621959 UTC

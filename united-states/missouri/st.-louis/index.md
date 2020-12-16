@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / St. Louis
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.7%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.7%
-- 2 people: 7.2%
-- 3 people: 10.6%
-- 5 people: 17.0%
-- 10 people: 31.2%
-- 25 people: 60.7%
-- 100 people: 97.6%
+- 1 person: 1.4%
+- 2 people: 2.9%
+- 3 people: 4.3%
+- 5 people: 7.0%
+- 10 people: 13.6%
+- 25 people: 30.5%
+- 100 people: 76.7%
 
-Last updated: 2020-12-15 00:23:28.974042 UTC
+Last updated: 2020-12-16 00:23:25.403311 UTC

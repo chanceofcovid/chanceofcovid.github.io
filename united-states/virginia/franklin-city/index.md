@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Franklin City
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 2.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.1%
-- 3 people: 9.1%
-- 5 people: 14.7%
-- 10 people: 27.2%
-- 25 people: 54.7%
-- 100 people: 95.8%
+- 1 person: 2.7%
+- 2 people: 5.3%
+- 3 people: 7.8%
+- 5 people: 12.6%
+- 10 people: 23.7%
+- 25 people: 49.1%
+- 100 people: 93.3%
 
-Last updated: 2020-12-15 00:23:34.553893 UTC
+Last updated: 2020-12-16 00:23:30.529028 UTC

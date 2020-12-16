@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Aguada
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.2%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.2%
-- 2 people: 4.4%
-- 3 people: 6.5%
-- 5 people: 10.7%
-- 10 people: 20.2%
-- 25 people: 43.1%
-- 100 people: 89.5%
+- 1 person: 0.4%
+- 2 people: 0.9%
+- 3 people: 1.3%
+- 5 people: 2.1%
+- 10 people: 4.2%
+- 25 people: 10.2%
+- 100 people: 34.9%
 
-Last updated: 2020-12-15 00:23:36.311317 UTC
+Last updated: 2020-12-16 00:23:32.048217 UTC

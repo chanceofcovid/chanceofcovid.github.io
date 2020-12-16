@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / LaSalle
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.2%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.2%
-- 2 people: 12.1%
-- 3 people: 17.6%
-- 5 people: 27.6%
-- 10 people: 47.6%
-- 25 people: 80.1%
-- 100 people: 99.8%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 9.0%
+- 10 people: 17.2%
+- 25 people: 37.6%
+- 100 people: 84.8%
 
-Last updated: 2020-12-15 00:23:25.313196 UTC
+Last updated: 2020-12-16 00:23:22.232872 UTC

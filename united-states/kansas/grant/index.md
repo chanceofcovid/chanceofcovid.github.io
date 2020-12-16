@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Grant
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.9%
+the "Estimated Prevalence" of COVID in this county is 2.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.9%
-- 2 people: 24.1%
-- 3 people: 33.8%
-- 5 people: 49.8%
-- 10 people: 74.8%
-- 25 people: 96.8%
-- 100 people: 100.0%
+- 1 person: 2.4%
+- 2 people: 4.7%
+- 3 people: 6.9%
+- 5 people: 11.3%
+- 10 people: 21.3%
+- 25 people: 45.1%
+- 100 people: 90.9%
 
-Last updated: 2020-12-15 00:23:26.235969 UTC
+Last updated: 2020-12-16 00:23:23.048722 UTC

@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Gosper
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.8%
+the "Estimated Prevalence" of COVID in this county is 5.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.8%
-- 2 people: 25.7%
-- 3 people: 36.0%
-- 5 people: 52.5%
-- 10 people: 77.4%
-- 25 people: 97.6%
-- 100 people: 100.0%
+- 1 person: 5.7%
+- 2 people: 11.0%
+- 3 people: 16.1%
+- 5 people: 25.3%
+- 10 people: 44.2%
+- 25 people: 76.7%
+- 100 people: 99.7%
 
-Last updated: 2020-12-15 00:23:29.565852 UTC
+Last updated: 2020-12-16 00:23:25.916002 UTC

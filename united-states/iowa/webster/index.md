@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Webster
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.0%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.0%
-- 2 people: 13.4%
-- 3 people: 19.5%
-- 5 people: 30.3%
-- 10 people: 51.4%
-- 25 people: 83.5%
-- 100 people: 99.9%
+- 1 person: 2.1%
+- 2 people: 4.1%
+- 3 people: 6.2%
+- 5 people: 10.1%
+- 10 people: 19.1%
+- 25 people: 41.1%
+- 100 people: 88.0%
 
-Last updated: 2020-12-15 00:23:25.939783 UTC
+Last updated: 2020-12-16 00:23:22.794531 UTC

@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / St. Clair
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.9%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.9%
-- 2 people: 15.1%
-- 3 people: 21.8%
-- 5 people: 33.6%
-- 10 people: 56.0%
-- 25 people: 87.1%
-- 100 people: 100.0%
+- 1 person: 1.7%
+- 2 people: 3.4%
+- 3 people: 5.1%
+- 5 people: 8.3%
+- 10 people: 15.9%
+- 25 people: 35.2%
+- 100 people: 82.4%
 
-Last updated: 2020-12-15 00:23:21.525852 UTC
+Last updated: 2020-12-16 00:23:18.654832 UTC

@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Owyhee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.7%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.7%
-- 2 people: 12.9%
-- 3 people: 18.7%
-- 5 people: 29.2%
-- 10 people: 49.9%
-- 25 people: 82.3%
-- 100 people: 99.9%
+- 1 person: 1.1%
+- 2 people: 2.3%
+- 3 people: 3.4%
+- 5 people: 5.6%
+- 10 people: 10.8%
+- 25 people: 24.9%
+- 100 people: 68.2%
 
-Last updated: 2020-12-15 00:23:25.043730 UTC
+Last updated: 2020-12-16 00:23:21.937129 UTC

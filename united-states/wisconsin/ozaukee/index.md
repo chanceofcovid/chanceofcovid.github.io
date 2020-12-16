@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Ozaukee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.8%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.8%
-- 2 people: 11.3%
-- 3 people: 16.5%
-- 5 people: 26.0%
-- 10 people: 45.2%
-- 25 people: 77.7%
-- 100 people: 99.8%
+- 1 person: 1.7%
+- 2 people: 3.4%
+- 3 people: 5.1%
+- 5 people: 8.3%
+- 10 people: 15.9%
+- 25 people: 35.1%
+- 100 people: 82.3%
 
-Last updated: 2020-12-15 00:23:35.298937 UTC
+Last updated: 2020-12-16 00:23:31.217590 UTC

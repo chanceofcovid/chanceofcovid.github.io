@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Morgan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.5%
+the "Estimated Prevalence" of COVID in this county is 1.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.5%
-- 2 people: 6.9%
-- 3 people: 10.2%
-- 5 people: 16.4%
-- 10 people: 30.1%
-- 25 people: 59.2%
-- 100 people: 97.2%
+- 1 person: 1.6%
+- 2 people: 3.1%
+- 3 people: 4.6%
+- 5 people: 7.5%
+- 10 people: 14.5%
+- 25 people: 32.4%
+- 100 people: 79.1%
 
-Last updated: 2020-12-15 00:23:23.000115 UTC
+Last updated: 2020-12-16 00:23:20.125141 UTC

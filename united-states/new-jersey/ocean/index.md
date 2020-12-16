@@ -2,18 +2,18 @@
 ## [New Jersey](/united-states/new-jersey) / Ocean
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.9%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.9%
-- 2 people: 7.7%
-- 3 people: 11.3%
-- 5 people: 18.1%
-- 10 people: 32.9%
-- 25 people: 63.2%
-- 100 people: 98.2%
+- 1 person: 1.0%
+- 2 people: 2.0%
+- 3 people: 3.0%
+- 5 people: 5.0%
+- 10 people: 9.8%
+- 25 people: 22.7%
+- 100 people: 64.3%
 
-Last updated: 2020-12-15 00:23:30.388795 UTC
+Last updated: 2020-12-16 00:23:26.647401 UTC

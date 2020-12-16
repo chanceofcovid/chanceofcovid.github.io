@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Lincoln
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 978.4%
+the "Estimated Prevalence" of COVID in this county is 7.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 978.4%
-- 2 people: -7615.7%
-- 3 people: 67873.5%
-- 5 people: 5229271.0%
-- 10 people: -273442291941.4%
-- 25 people: 39098870748914797665845248.0%
-- 100 people: -2336990017218093466598880337952594585813748674929344173505912828774853213770719560484331947294720.0%
+- 1 person: 7.3%
+- 2 people: 14.1%
+- 3 people: 20.4%
+- 5 people: 31.7%
+- 10 people: 53.3%
+- 25 people: 85.1%
+- 100 people: 100.0%
 
-Last updated: 2020-12-15 00:23:22.998558 UTC
+Last updated: 2020-12-16 00:23:20.123525 UTC

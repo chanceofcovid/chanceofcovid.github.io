@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Terrell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 31.2%
+the "Estimated Prevalence" of COVID in this county is 3.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 31.2%
-- 2 people: 52.7%
-- 3 people: 67.5%
-- 5 people: 84.6%
-- 10 people: 97.6%
-- 25 people: 100.0%
-- 100 people: 100.0%
+- 1 person: 3.4%
+- 2 people: 6.6%
+- 3 people: 9.8%
+- 5 people: 15.8%
+- 10 people: 29.0%
+- 25 people: 57.6%
+- 100 people: 96.8%
 
-Last updated: 2020-12-15 00:23:24.458405 UTC
+Last updated: 2020-12-16 00:23:21.447472 UTC

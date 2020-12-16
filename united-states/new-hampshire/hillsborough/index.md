@@ -2,18 +2,18 @@
 ## [New Hampshire](/united-states/new-hampshire) / Hillsborough
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.9%
-- 3 people: 5.7%
-- 5 people: 9.4%
-- 10 people: 17.8%
-- 25 people: 38.8%
-- 100 people: 86.0%
+- 1 person: 2.1%
+- 2 people: 4.1%
+- 3 people: 6.0%
+- 5 people: 9.9%
+- 10 people: 18.7%
+- 25 people: 40.5%
+- 100 people: 87.5%
 
-Last updated: 2020-12-15 00:23:30.156673 UTC
+Last updated: 2020-12-16 00:23:26.407517 UTC

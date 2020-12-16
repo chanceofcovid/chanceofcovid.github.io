@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Lamar
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.8%
+the "Estimated Prevalence" of COVID in this county is -7.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.8%
-- 2 people: 3.6%
-- 3 people: 5.3%
-- 5 people: 8.7%
-- 10 people: 16.7%
-- 25 people: 36.7%
-- 100 people: 84.0%
+- 1 person: -7.6%
+- 2 people: -15.8%
+- 3 people: -24.6%
+- 5 people: -44.3%
+- 10 people: -108.2%
+- 25 people: -525.7%
+- 100 people: -153172.7%
 
-Last updated: 2020-12-15 00:23:33.784065 UTC
+Last updated: 2020-12-16 00:23:29.859394 UTC

@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Oktibbeha
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.2%
-- 5 people: 5.3%
-- 10 people: 10.3%
-- 25 people: 23.9%
-- 100 people: 66.4%
+- 1 person: 1.5%
+- 2 people: 3.0%
+- 3 people: 4.4%
+- 5 people: 7.2%
+- 10 people: 14.0%
+- 25 people: 31.3%
+- 100 people: 77.7%
 
-Last updated: 2020-12-16 00:23:25.133175 UTC
+Last updated: 2020-12-17 00:25:31.501437 UTC

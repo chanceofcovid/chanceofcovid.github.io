@@ -2,18 +2,18 @@
 ## [New Jersey](/united-states/new-jersey) / Morris
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.3%
-- 3 people: 3.4%
-- 5 people: 5.7%
-- 10 people: 11.0%
-- 25 people: 25.3%
-- 100 people: 68.9%
+- 1 person: 0.9%
+- 2 people: 1.8%
+- 3 people: 2.6%
+- 5 people: 4.3%
+- 10 people: 8.5%
+- 25 people: 19.8%
+- 100 people: 58.6%
 
-Last updated: 2020-12-16 00:23:26.647158 UTC
+Last updated: 2020-12-17 00:25:33.807813 UTC

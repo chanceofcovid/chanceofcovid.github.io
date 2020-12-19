@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Johnson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.1%
-- 5 people: 8.4%
-- 10 people: 16.1%
-- 25 people: 35.5%
-- 100 people: 82.7%
+- 1 person: 2.1%
+- 2 people: 4.1%
+- 3 people: 6.1%
+- 5 people: 9.9%
+- 10 people: 18.9%
+- 25 people: 40.7%
+- 100 people: 87.6%
 
-Last updated: 2020-12-18 00:25:11.826268 UTC
+Last updated: 2020-12-19 00:25:12.702525 UTC

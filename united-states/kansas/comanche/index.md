@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Comanche
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.9%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.9%
-- 2 people: 24.1%
-- 3 people: 33.8%
-- 5 people: 49.7%
-- 10 people: 74.7%
-- 25 people: 96.8%
-- 100 people: 100.0%
+- 1 person: 4.1%
+- 2 people: 8.1%
+- 3 people: 11.9%
+- 5 people: 19.0%
+- 10 people: 34.4%
+- 25 people: 65.2%
+- 100 people: 98.5%
 
-Last updated: 2020-12-18 00:25:01.294354 UTC
+Last updated: 2020-12-19 00:25:02.347430 UTC

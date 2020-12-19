@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / West Feliciana
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.5%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.5%
-- 2 people: 4.9%
-- 3 people: 7.3%
-- 5 people: 11.8%
-- 10 people: 22.3%
-- 25 people: 46.7%
-- 100 people: 91.9%
+- 1 person: 0.4%
+- 2 people: 0.8%
+- 3 people: 1.1%
+- 5 people: 1.9%
+- 10 people: 3.8%
+- 25 people: 9.1%
+- 100 people: 31.9%
 
-Last updated: 2020-12-18 00:25:02.141775 UTC
+Last updated: 2020-12-19 00:25:03.127007 UTC

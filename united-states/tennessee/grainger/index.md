@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Grainger
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.9%
+the "Estimated Prevalence" of COVID in this county is 4.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.9%
-- 2 people: 11.5%
-- 3 people: 16.7%
-- 5 people: 26.3%
-- 10 people: 45.6%
-- 25 people: 78.2%
-- 100 people: 99.8%
+- 1 person: 4.9%
+- 2 people: 9.6%
+- 3 people: 14.1%
+- 5 people: 22.3%
+- 10 people: 39.6%
+- 25 people: 71.7%
+- 100 people: 99.4%
 
-Last updated: 2020-12-18 00:25:11.405041 UTC
+Last updated: 2020-12-19 00:25:12.259469 UTC

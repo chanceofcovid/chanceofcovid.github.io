@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Marshall
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 18.8%
+the "Estimated Prevalence" of COVID in this county is 17.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 18.8%
-- 2 people: 34.1%
-- 3 people: 46.5%
-- 5 people: 64.7%
-- 10 people: 87.5%
-- 25 people: 99.5%
+- 1 person: 17.8%
+- 2 people: 32.5%
+- 3 people: 44.5%
+- 5 people: 62.5%
+- 10 people: 85.9%
+- 25 people: 99.3%
 - 100 people: 100.0%
 
-Last updated: 2020-12-18 00:25:01.307320 UTC
+Last updated: 2020-12-19 00:25:02.360750 UTC

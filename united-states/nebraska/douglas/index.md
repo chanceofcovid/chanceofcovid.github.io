@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Douglas
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 3.9%
-- 3 people: 5.8%
-- 5 people: 9.4%
-- 10 people: 18.0%
-- 25 people: 39.0%
-- 100 people: 86.2%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 9.1%
+- 10 people: 17.3%
+- 25 people: 37.8%
+- 100 people: 85.0%
 
-Last updated: 2020-12-18 00:25:05.688612 UTC
+Last updated: 2020-12-19 00:25:06.592567 UTC

@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 9.0%
-- 10 people: 17.2%
-- 25 people: 37.6%
-- 100 people: 84.8%
+- 1 person: 1.7%
+- 2 people: 3.4%
+- 3 people: 5.0%
+- 5 people: 8.3%
+- 10 people: 15.8%
+- 25 people: 35.0%
+- 100 people: 82.2%
 
-Last updated: 2020-12-18 00:25:04.505944 UTC
+Last updated: 2020-12-19 00:25:05.371133 UTC

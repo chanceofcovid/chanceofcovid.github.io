@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Stearns
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.1%
-- 3 people: 4.6%
-- 5 people: 7.5%
-- 10 people: 14.5%
-- 25 people: 32.4%
-- 100 people: 79.1%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.6%
+- 5 people: 5.9%
+- 10 people: 11.5%
+- 25 people: 26.4%
+- 100 people: 70.6%
 
-Last updated: 2020-12-18 00:25:04.045372 UTC
+Last updated: 2020-12-19 00:25:05.015360 UTC

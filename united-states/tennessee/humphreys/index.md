@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Humphreys
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 4.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.5%
-- 3 people: 9.5%
-- 5 people: 15.4%
-- 10 people: 28.4%
-- 25 people: 56.6%
-- 100 people: 96.4%
+- 1 person: 4.8%
+- 2 people: 9.4%
+- 3 people: 13.8%
+- 5 people: 21.9%
+- 10 people: 38.9%
+- 25 people: 70.9%
+- 100 people: 99.3%
 
-Last updated: 2020-12-19 00:25:12.263384 UTC
+Last updated: 2020-12-20 00:25:10.836607 UTC

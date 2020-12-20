@@ -2,18 +2,18 @@
 ## [Utah](/united-states/utah) / Central Utah
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.2%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.2%
-- 2 people: 6.2%
-- 3 people: 9.2%
-- 5 people: 14.8%
-- 10 people: 27.5%
-- 25 people: 55.2%
-- 100 people: 96.0%
+- 1 person: 2.8%
+- 2 people: 5.6%
+- 3 people: 8.3%
+- 5 people: 13.4%
+- 10 people: 25.1%
+- 25 people: 51.4%
+- 100 people: 94.4%
 
-Last updated: 2020-12-19 00:25:13.044476 UTC
+Last updated: 2020-12-20 00:25:11.602890 UTC

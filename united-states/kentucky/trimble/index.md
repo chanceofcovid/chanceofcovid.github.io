@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Trimble
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.2%
-- 3 people: 14.9%
-- 5 people: 23.6%
-- 10 people: 41.7%
-- 25 people: 74.0%
-- 100 people: 99.5%
+- 1 person: 2.8%
+- 2 people: 5.5%
+- 3 people: 8.1%
+- 5 people: 13.1%
+- 10 people: 24.4%
+- 25 people: 50.4%
+- 100 people: 93.9%
 
-Last updated: 2020-12-19 00:25:02.726668 UTC
+Last updated: 2020-12-20 00:25:01.131250 UTC

@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Concordia
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.2%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.2%
-- 2 people: 4.4%
-- 3 people: 6.5%
-- 5 people: 10.5%
-- 10 people: 20.0%
-- 25 people: 42.7%
-- 100 people: 89.2%
+- 1 person: 3.1%
+- 2 people: 6.2%
+- 3 people: 9.1%
+- 5 people: 14.8%
+- 10 people: 27.3%
+- 25 people: 55.0%
+- 100 people: 95.9%
 
-Last updated: 2020-12-19 00:25:03.112392 UTC
+Last updated: 2020-12-20 00:25:01.510115 UTC

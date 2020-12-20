@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Howell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.8%
+the "Estimated Prevalence" of COVID in this county is 8.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.8%
-- 2 people: 13.1%
-- 3 people: 19.0%
-- 5 people: 29.7%
-- 10 people: 50.5%
-- 25 people: 82.8%
-- 100 people: 99.9%
+- 1 person: 8.4%
+- 2 people: 16.0%
+- 3 people: 23.1%
+- 5 people: 35.4%
+- 10 people: 58.2%
+- 25 people: 88.7%
+- 100 people: 100.0%
 
-Last updated: 2020-12-19 00:25:05.840873 UTC
+Last updated: 2020-12-20 00:25:04.401127 UTC

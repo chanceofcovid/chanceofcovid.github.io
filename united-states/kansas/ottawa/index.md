@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Ottawa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.5%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.5%
-- 2 people: 6.8%
-- 3 people: 10.1%
-- 5 people: 16.2%
-- 10 people: 29.8%
-- 25 people: 58.7%
-- 100 people: 97.1%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.4%
+- 5 people: 13.6%
+- 10 people: 25.3%
+- 25 people: 51.8%
+- 100 people: 94.6%
 
-Last updated: 2020-12-19 00:25:02.365361 UTC
+Last updated: 2020-12-20 00:25:00.753567 UTC

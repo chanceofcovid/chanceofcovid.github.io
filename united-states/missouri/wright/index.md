@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Wright
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.2%
+the "Estimated Prevalence" of COVID in this county is 4.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.2%
-- 2 people: 4.3%
-- 3 people: 6.3%
-- 5 people: 10.3%
-- 10 people: 19.6%
-- 25 people: 42.1%
-- 100 people: 88.7%
+- 1 person: 4.9%
+- 2 people: 9.5%
+- 3 people: 13.9%
+- 5 people: 22.0%
+- 10 people: 39.2%
+- 25 people: 71.2%
+- 100 people: 99.3%
 
-Last updated: 2020-12-19 00:25:05.862717 UTC
+Last updated: 2020-12-20 00:25:04.420744 UTC

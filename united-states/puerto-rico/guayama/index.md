@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Guayama
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.9%
-- 5 people: 1.4%
-- 10 people: 2.8%
-- 25 people: 7.0%
-- 100 people: 25.0%
+- 1 person: 0.5%
+- 2 people: 0.9%
+- 3 people: 1.4%
+- 5 people: 2.3%
+- 10 people: 4.5%
+- 25 people: 10.8%
+- 100 people: 36.6%
 
-Last updated: 2020-12-19 00:25:16.404671 UTC
+Last updated: 2020-12-20 00:25:14.845229 UTC

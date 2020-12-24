@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Mayes
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.1%
-- 3 people: 7.6%
-- 5 people: 12.4%
-- 10 people: 23.2%
-- 25 people: 48.3%
-- 100 people: 92.9%
+- 1 person: 3.2%
+- 2 people: 6.3%
+- 3 people: 9.4%
+- 5 people: 15.1%
+- 10 people: 28.0%
+- 25 people: 56.0%
+- 100 people: 96.2%
 
-Last updated: 2020-12-23 00:30:33.959531 UTC
+Last updated: 2020-12-24 00:33:27.659015 UTC

@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Terrell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 4.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.4%
-- 3 people: 15.1%
-- 5 people: 24.0%
-- 10 people: 42.2%
-- 25 people: 74.6%
-- 100 people: 99.6%
+- 1 person: 4.2%
+- 2 people: 8.3%
+- 3 people: 12.2%
+- 5 people: 19.5%
+- 10 people: 35.1%
+- 25 people: 66.1%
+- 100 people: 98.7%
 
-Last updated: 2020-12-23 00:30:36.808956 UTC
+Last updated: 2020-12-24 00:33:29.343585 UTC

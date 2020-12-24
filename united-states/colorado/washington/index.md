@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Washington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.4%
+the "Estimated Prevalence" of COVID in this county is 4.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.4%
-- 2 people: 6.7%
-- 3 people: 9.9%
-- 5 people: 16.0%
-- 10 people: 29.5%
-- 25 people: 58.2%
-- 100 people: 97.0%
+- 1 person: 4.8%
+- 2 people: 9.3%
+- 3 people: 13.6%
+- 5 people: 21.6%
+- 10 people: 38.6%
+- 25 people: 70.5%
+- 100 people: 99.2%
 
-Last updated: 2020-12-23 00:30:22.872790 UTC
+Last updated: 2020-12-24 00:33:19.863556 UTC

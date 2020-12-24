@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Rio Arriba
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.2%
-- 3 people: 7.7%
-- 5 people: 12.5%
-- 10 people: 23.5%
-- 25 people: 48.8%
-- 100 people: 93.1%
+- 1 person: 2.0%
+- 2 people: 4.0%
+- 3 people: 5.9%
+- 5 people: 9.6%
+- 10 people: 18.3%
+- 25 people: 39.7%
+- 100 people: 86.8%
 
-Last updated: 2020-12-23 00:30:32.129731 UTC
+Last updated: 2020-12-24 00:33:26.386672 UTC

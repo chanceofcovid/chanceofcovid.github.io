@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Caldwell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.3%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.3%
-- 2 people: 2.5%
-- 3 people: 3.8%
-- 5 people: 6.2%
-- 10 people: 12.0%
-- 25 people: 27.4%
-- 100 people: 72.2%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.1%
+- 5 people: 3.4%
+- 10 people: 6.8%
+- 25 people: 16.0%
+- 100 people: 50.3%
 
-Last updated: 2020-12-23 00:30:27.045770 UTC
+Last updated: 2020-12-24 00:33:23.090574 UTC

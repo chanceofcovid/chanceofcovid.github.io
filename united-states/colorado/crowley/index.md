@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Crowley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.3%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.3%
-- 2 people: 16.0%
-- 3 people: 23.0%
-- 5 people: 35.3%
-- 10 people: 58.1%
-- 25 people: 88.7%
-- 100 people: 100.0%
+- 1 person: 3.5%
+- 2 people: 6.8%
+- 3 people: 10.1%
+- 5 people: 16.2%
+- 10 people: 29.8%
+- 25 people: 58.7%
+- 100 people: 97.1%
 
-Last updated: 2020-12-26 00:29:20.934761 UTC
+Last updated: 2020-12-27 00:31:10.668455 UTC

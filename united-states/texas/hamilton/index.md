@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Hamilton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.1%
-- 3 people: 10.4%
-- 5 people: 16.7%
-- 10 people: 30.6%
-- 25 people: 59.9%
-- 100 people: 97.4%
+- 1 person: 3.2%
+- 2 people: 6.4%
+- 3 people: 9.4%
+- 5 people: 15.2%
+- 10 people: 28.1%
+- 25 people: 56.2%
+- 100 people: 96.3%
 
-Last updated: 2020-12-26 00:29:36.227707 UTC
+Last updated: 2020-12-27 00:31:21.710655 UTC

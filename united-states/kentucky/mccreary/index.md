@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / McCreary
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.6%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.6%
-- 2 people: 10.8%
-- 3 people: 15.8%
-- 5 people: 24.9%
-- 10 people: 43.5%
-- 25 people: 76.0%
-- 100 people: 99.7%
+- 1 person: 3.5%
+- 2 people: 6.9%
+- 3 people: 10.1%
+- 5 people: 16.3%
+- 10 people: 29.9%
+- 25 people: 58.9%
+- 100 people: 97.1%
 
-Last updated: 2020-12-26 00:29:23.564051 UTC
+Last updated: 2020-12-27 00:31:14.195458 UTC

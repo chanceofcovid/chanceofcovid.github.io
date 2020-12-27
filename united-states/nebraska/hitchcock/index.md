@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Hitchcock
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 2.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.6%
-- 3 people: 9.7%
-- 5 people: 15.7%
-- 10 people: 28.9%
-- 25 people: 57.3%
-- 100 people: 96.7%
+- 1 person: 2.4%
+- 2 people: 4.8%
+- 3 people: 7.2%
+- 5 people: 11.7%
+- 10 people: 22.0%
+- 25 people: 46.2%
+- 100 people: 91.6%
 
-Last updated: 2020-12-26 00:29:27.238897 UTC
+Last updated: 2020-12-27 00:31:17.158138 UTC

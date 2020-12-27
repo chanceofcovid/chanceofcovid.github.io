@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Perkins
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.1%
-- 5 people: 8.4%
-- 10 people: 16.1%
-- 25 people: 35.5%
-- 100 people: 82.7%
+- 1 person: 3.9%
+- 2 people: 7.6%
+- 3 people: 11.2%
+- 5 people: 17.9%
+- 10 people: 32.6%
+- 25 people: 62.7%
+- 100 people: 98.1%
 
-Last updated: 2020-12-26 00:29:27.244148 UTC
+Last updated: 2020-12-27 00:31:17.164798 UTC

@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Crawford
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 1.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.3%
-- 3 people: 7.8%
-- 5 people: 12.7%
-- 10 people: 23.7%
-- 25 people: 49.2%
-- 100 people: 93.3%
+- 1 person: 1.8%
+- 2 people: 3.6%
+- 3 people: 5.4%
+- 5 people: 8.8%
+- 10 people: 16.8%
+- 25 people: 36.9%
+- 100 people: 84.1%
 
-Last updated: 2020-12-26 00:29:31.719062 UTC
+Last updated: 2020-12-27 00:31:19.411311 UTC

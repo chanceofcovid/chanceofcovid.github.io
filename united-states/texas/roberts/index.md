@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Roberts
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 5.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.4%
-- 5 people: 3.9%
-- 10 people: 7.6%
-- 25 people: 18.0%
-- 100 people: 54.9%
+- 1 person: 5.6%
+- 2 people: 10.8%
+- 3 people: 15.8%
+- 5 people: 24.9%
+- 10 people: 43.6%
+- 25 people: 76.1%
+- 100 people: 99.7%
 
-Last updated: 2020-12-26 00:29:36.256591 UTC
+Last updated: 2020-12-27 00:31:21.742107 UTC

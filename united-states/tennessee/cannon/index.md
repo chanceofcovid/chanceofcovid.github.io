@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Cannon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.2%
+the "Estimated Prevalence" of COVID in this county is 2.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.2%
-- 2 people: 8.3%
-- 3 people: 12.1%
-- 5 people: 19.4%
-- 10 people: 35.0%
-- 25 people: 66.0%
-- 100 people: 98.7%
+- 1 person: 2.3%
+- 2 people: 4.6%
+- 3 people: 6.9%
+- 5 people: 11.2%
+- 10 people: 21.1%
+- 25 people: 44.7%
+- 100 people: 90.7%
 
-Last updated: 2020-12-26 00:29:35.638644 UTC
+Last updated: 2020-12-27 00:31:21.385554 UTC

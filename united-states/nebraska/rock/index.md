@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Rock
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.3%
-- 3 people: 15.0%
-- 5 people: 23.8%
-- 10 people: 41.9%
-- 25 people: 74.3%
-- 100 people: 99.6%
+- 1 person: 0.2%
+- 2 people: 0.5%
+- 3 people: 0.7%
+- 5 people: 1.2%
+- 10 people: 2.4%
+- 25 people: 5.9%
+- 100 people: 21.5%
 
-Last updated: 2020-12-26 00:29:27.247274 UTC
+Last updated: 2020-12-27 00:31:17.166598 UTC

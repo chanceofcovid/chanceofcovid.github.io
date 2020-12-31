@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Edmunds
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 4.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.1%
-- 3 people: 10.5%
-- 5 people: 16.9%
-- 10 people: 30.9%
-- 25 people: 60.3%
-- 100 people: 97.5%
+- 1 person: 4.8%
+- 2 people: 9.3%
+- 3 people: 13.6%
+- 5 people: 21.6%
+- 10 people: 38.6%
+- 25 people: 70.4%
+- 100 people: 99.2%
 
-Last updated: 2020-12-30 00:34:07.825741 UTC
+Last updated: 2020-12-31 00:36:11.090985 UTC

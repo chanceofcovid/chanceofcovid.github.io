@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Pine
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 2.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.7%
-- 10 people: 9.1%
-- 25 people: 21.3%
-- 100 people: 61.6%
+- 1 person: 2.7%
+- 2 people: 5.3%
+- 3 people: 7.8%
+- 5 people: 12.6%
+- 10 people: 23.7%
+- 25 people: 49.1%
+- 100 people: 93.3%
 
-Last updated: 2021-01-03 00:36:17.402525 UTC
+Last updated: 2021-01-04 00:37:25.872644 UTC

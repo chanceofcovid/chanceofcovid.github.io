@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Foard
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.2%
+the "Estimated Prevalence" of COVID in this county is 6.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.2%
-- 2 people: 6.4%
-- 3 people: 9.4%
-- 5 people: 15.2%
-- 10 people: 28.1%
-- 25 people: 56.1%
-- 100 people: 96.3%
+- 1 person: 6.8%
+- 2 people: 13.1%
+- 3 people: 18.9%
+- 5 people: 29.5%
+- 10 people: 50.3%
+- 25 people: 82.6%
+- 100 people: 99.9%
 
-Last updated: 2021-01-03 00:36:22.453425 UTC
+Last updated: 2021-01-04 00:37:31.465035 UTC

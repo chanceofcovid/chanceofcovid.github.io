@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Mitchell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 3.1%
-- 3 people: 4.5%
-- 5 people: 7.5%
-- 10 people: 14.4%
-- 25 people: 32.1%
-- 100 people: 78.8%
+- 1 person: 3.0%
+- 2 people: 6.0%
+- 3 people: 8.9%
+- 5 people: 14.3%
+- 10 people: 26.6%
+- 25 people: 53.9%
+- 100 people: 95.5%
 
-Last updated: 2021-01-03 00:36:14.137420 UTC
+Last updated: 2021-01-04 00:37:22.180691 UTC

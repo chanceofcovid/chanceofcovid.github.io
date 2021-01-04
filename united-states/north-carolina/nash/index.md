@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Nash
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.1%
-- 3 people: 3.2%
-- 5 people: 5.3%
-- 10 people: 10.2%
-- 25 people: 23.7%
-- 100 people: 66.0%
+- 1 person: 1.5%
+- 2 people: 3.0%
+- 3 people: 4.4%
+- 5 people: 7.2%
+- 10 people: 13.9%
+- 25 people: 31.2%
+- 100 people: 77.6%
 
-Last updated: 2021-01-03 00:36:19.907908 UTC
+Last updated: 2021-01-04 00:37:28.793167 UTC

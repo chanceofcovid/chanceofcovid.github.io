@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Jackson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 1.9%
-- 3 people: 2.9%
-- 5 people: 4.7%
-- 10 people: 9.3%
-- 25 people: 21.6%
-- 100 people: 62.2%
+- 1 person: 1.5%
+- 2 people: 3.0%
+- 3 people: 4.5%
+- 5 people: 7.3%
+- 10 people: 14.2%
+- 25 people: 31.7%
+- 100 people: 78.3%
 
-Last updated: 2021-01-07 00:40:55.875862 UTC
+Last updated: 2021-01-08 00:40:11.885880 UTC

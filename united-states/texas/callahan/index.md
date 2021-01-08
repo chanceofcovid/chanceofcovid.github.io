@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Callahan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.4%
-- 3 people: 10.9%
-- 5 people: 17.5%
-- 10 people: 32.0%
-- 25 people: 61.8%
-- 100 people: 97.9%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 8.9%
+- 10 people: 17.1%
+- 25 people: 37.4%
+- 100 people: 84.7%
 
-Last updated: 2021-01-07 00:41:03.712355 UTC
+Last updated: 2021-01-08 00:40:19.410321 UTC

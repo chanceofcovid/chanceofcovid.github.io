@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Houston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.7%
+the "Estimated Prevalence" of COVID in this county is 4.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.7%
-- 2 people: 7.2%
-- 3 people: 10.6%
-- 5 people: 17.0%
-- 10 people: 31.2%
-- 25 people: 60.7%
-- 100 people: 97.6%
+- 1 person: 4.9%
+- 2 people: 9.6%
+- 3 people: 14.0%
+- 5 people: 22.3%
+- 10 people: 39.6%
+- 25 people: 71.7%
+- 100 people: 99.4%
 
-Last updated: 2021-01-07 00:40:55.175729 UTC
+Last updated: 2021-01-08 00:40:11.077838 UTC

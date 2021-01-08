@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Armstrong
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.8%
+the "Estimated Prevalence" of COVID in this county is 4.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.8%
-- 2 people: 3.5%
-- 3 people: 5.2%
-- 5 people: 8.5%
-- 10 people: 16.4%
-- 25 people: 36.0%
-- 100 people: 83.3%
+- 1 person: 4.7%
+- 2 people: 9.1%
+- 3 people: 13.4%
+- 5 people: 21.3%
+- 10 people: 38.1%
+- 25 people: 69.8%
+- 100 people: 99.2%
 
-Last updated: 2021-01-07 00:41:03.706649 UTC
+Last updated: 2021-01-08 00:40:19.405370 UTC

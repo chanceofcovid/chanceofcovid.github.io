@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Richland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.8%
-- 3 people: 5.7%
-- 5 people: 9.3%
-- 10 people: 17.7%
-- 25 people: 38.6%
-- 100 people: 85.8%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.7%
+- 5 people: 12.5%
+- 10 people: 23.5%
+- 25 people: 48.7%
+- 100 people: 93.1%
 
-Last updated: 2021-01-07 00:40:57.113759 UTC
+Last updated: 2021-01-08 00:40:13.133670 UTC

@@ -2,18 +2,18 @@
 ## [Arizona](/united-states/arizona) / Santa Cruz
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.8%
+the "Estimated Prevalence" of COVID in this county is 3.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.8%
-- 2 people: 13.1%
-- 3 people: 19.0%
-- 5 people: 29.6%
-- 10 people: 50.4%
-- 25 people: 82.7%
-- 100 people: 99.9%
+- 1 person: 3.4%
+- 2 people: 6.7%
+- 3 people: 9.9%
+- 5 people: 15.9%
+- 10 people: 29.3%
+- 25 people: 57.9%
+- 100 people: 96.9%
 
-Last updated: 2021-01-11 00:41:31.756564 UTC
+Last updated: 2021-01-12 00:46:23.876674 UTC

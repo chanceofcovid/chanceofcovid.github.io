@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Johnson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.8%
+the "Estimated Prevalence" of COVID in this county is 6.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.8%
-- 2 people: 11.2%
-- 3 people: 16.4%
-- 5 people: 25.8%
-- 10 people: 44.9%
-- 25 people: 77.5%
-- 100 people: 99.7%
+- 1 person: 6.6%
+- 2 people: 12.7%
+- 3 people: 18.4%
+- 5 people: 28.8%
+- 10 people: 49.3%
+- 25 people: 81.7%
+- 100 people: 99.9%
 
-Last updated: 2021-01-11 00:41:34.807425 UTC
+Last updated: 2021-01-12 00:46:26.965923 UTC

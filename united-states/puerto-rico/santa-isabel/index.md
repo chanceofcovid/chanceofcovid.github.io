@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Santa Isabel
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.2%
-- 3 people: 1.8%
-- 5 people: 3.0%
-- 10 people: 6.0%
-- 25 people: 14.3%
-- 100 people: 46.0%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 0.9%
+- 5 people: 1.4%
+- 10 people: 2.9%
+- 25 people: 7.0%
+- 100 people: 25.2%
 
-Last updated: 2021-01-15 00:54:37.591894 UTC
+Last updated: 2021-01-16 00:57:20.567266 UTC

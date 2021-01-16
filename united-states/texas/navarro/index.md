@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Navarro
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.8%
+the "Estimated Prevalence" of COVID in this county is 2.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.8%
-- 2 people: 9.4%
-- 3 people: 13.7%
-- 5 people: 21.8%
-- 10 people: 38.9%
-- 25 people: 70.8%
-- 100 people: 99.3%
+- 1 person: 2.7%
+- 2 people: 5.3%
+- 3 people: 7.9%
+- 5 people: 12.8%
+- 10 people: 24.0%
+- 25 people: 49.7%
+- 100 people: 93.6%
 
-Last updated: 2021-01-15 00:54:34.892890 UTC
+Last updated: 2021-01-16 00:57:17.905954 UTC

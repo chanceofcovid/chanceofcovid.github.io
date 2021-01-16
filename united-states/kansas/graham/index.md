@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Graham
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 2.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.0%
-- 3 people: 10.3%
-- 5 people: 16.6%
-- 10 people: 30.4%
-- 25 people: 59.5%
-- 100 people: 97.3%
+- 1 person: 2.3%
+- 2 people: 4.5%
+- 3 people: 6.6%
+- 5 people: 10.8%
+- 10 people: 20.4%
+- 25 people: 43.5%
+- 100 people: 89.8%
 
-Last updated: 2021-01-15 00:54:27.429379 UTC
+Last updated: 2021-01-16 00:57:10.327007 UTC

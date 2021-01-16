@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Henderson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 17.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.8%
-- 5 people: 7.9%
-- 10 people: 15.2%
-- 25 people: 33.7%
-- 100 people: 80.7%
+- 1 person: 17.0%
+- 2 people: 31.1%
+- 3 people: 42.8%
+- 5 people: 60.6%
+- 10 people: 84.5%
+- 25 people: 99.0%
+- 100 people: 100.0%
 
-Last updated: 2021-01-15 00:54:34.869622 UTC
+Last updated: 2021-01-16 00:57:17.889499 UTC

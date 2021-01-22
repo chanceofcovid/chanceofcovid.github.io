@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / McLean
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.0%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.0%
-- 2 people: 6.0%
-- 3 people: 8.8%
-- 5 people: 14.2%
-- 10 people: 26.4%
-- 25 people: 53.6%
-- 100 people: 95.3%
+- 1 person: 1.9%
+- 2 people: 3.8%
+- 3 people: 5.7%
+- 5 people: 9.2%
+- 10 people: 17.6%
+- 25 people: 38.4%
+- 100 people: 85.6%
 
-Last updated: 2021-01-21 00:58:10.665293 UTC
+Last updated: 2021-01-22 00:56:17.457389 UTC

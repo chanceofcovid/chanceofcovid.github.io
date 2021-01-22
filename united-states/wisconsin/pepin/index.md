@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Pepin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.8%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.8%
-- 2 people: 9.3%
-- 3 people: 13.6%
-- 5 people: 21.6%
-- 10 people: 38.6%
-- 25 people: 70.4%
-- 100 people: 99.2%
+- 1 person: 0.7%
+- 2 people: 1.3%
+- 3 people: 1.9%
+- 5 people: 3.2%
+- 10 people: 6.3%
+- 25 people: 15.1%
+- 100 people: 48.0%
 
-Last updated: 2021-01-21 00:58:22.755166 UTC
+Last updated: 2021-01-22 00:56:28.745989 UTC

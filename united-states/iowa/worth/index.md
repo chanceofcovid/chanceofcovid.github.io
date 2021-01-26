@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Worth
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.3%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.3%
-- 2 people: 2.7%
-- 3 people: 4.0%
-- 5 people: 6.5%
-- 10 people: 12.6%
-- 25 people: 28.7%
-- 100 people: 74.1%
+- 1 person: 0.9%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.7%
+- 10 people: 9.1%
+- 25 people: 21.2%
+- 100 people: 61.5%
 
-Last updated: 2021-01-25 00:56:13.181026 UTC
+Last updated: 2021-01-26 00:31:57.721686 UTC

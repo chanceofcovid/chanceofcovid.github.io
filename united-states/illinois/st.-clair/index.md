@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / St. Clair
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.1%
-- 3 people: 3.2%
-- 5 people: 5.3%
-- 10 people: 10.2%
-- 25 people: 23.7%
-- 100 people: 66.0%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.7%
+- 10 people: 9.1%
+- 25 people: 21.2%
+- 100 people: 61.5%
 
-Last updated: 2021-01-29 00:26:42.835316 UTC
+Last updated: 2021-01-30 00:25:52.313013 UTC

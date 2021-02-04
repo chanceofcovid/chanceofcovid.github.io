@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Lee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.2%
-- 3 people: 7.7%
-- 5 people: 12.6%
-- 10 people: 23.5%
-- 25 people: 48.9%
-- 100 people: 93.2%
+- 1 person: 1.7%
+- 2 people: 3.3%
+- 3 people: 4.9%
+- 5 people: 8.1%
+- 10 people: 15.6%
+- 25 people: 34.5%
+- 100 people: 81.6%
 
-Last updated: 2021-02-03 00:22:18.735738 UTC
+Last updated: 2021-02-04 00:20:22.774933 UTC

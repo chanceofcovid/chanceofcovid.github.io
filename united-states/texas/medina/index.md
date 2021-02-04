@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Medina
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.0%
-- 5 people: 8.3%
-- 10 people: 15.8%
-- 25 people: 35.0%
-- 100 people: 82.2%
+- 1 person: 2.1%
+- 2 people: 4.3%
+- 3 people: 6.3%
+- 5 people: 10.3%
+- 10 people: 19.5%
+- 25 people: 41.9%
+- 100 people: 88.6%
 
-Last updated: 2021-02-03 00:22:25.556937 UTC
+Last updated: 2021-02-04 00:20:29.209641 UTC

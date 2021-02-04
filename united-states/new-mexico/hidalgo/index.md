@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Hidalgo
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.9%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.9%
-- 2 people: 7.6%
-- 3 people: 11.2%
-- 5 people: 18.0%
-- 10 people: 32.7%
-- 25 people: 62.9%
-- 100 people: 98.1%
+- 1 person: 1.1%
+- 2 people: 2.2%
+- 3 people: 3.2%
+- 5 people: 5.3%
+- 10 people: 10.4%
+- 25 people: 24.0%
+- 100 people: 66.6%
 
-Last updated: 2021-02-03 00:22:22.871139 UTC
+Last updated: 2021-02-04 00:20:26.725674 UTC

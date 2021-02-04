@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Culberson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.3%
+the "Estimated Prevalence" of COVID in this county is 2.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.3%
-- 2 people: 17.8%
-- 3 people: 25.5%
-- 5 people: 38.7%
-- 10 people: 62.4%
-- 25 people: 91.4%
-- 100 people: 100.0%
+- 1 person: 2.2%
+- 2 people: 4.3%
+- 3 people: 6.4%
+- 5 people: 10.4%
+- 10 people: 19.6%
+- 25 people: 42.1%
+- 100 people: 88.8%
 
-Last updated: 2021-02-03 00:22:25.522369 UTC
+Last updated: 2021-02-04 00:20:29.180499 UTC

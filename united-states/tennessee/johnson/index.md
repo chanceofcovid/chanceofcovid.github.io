@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Johnson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.4%
-- 3 people: 3.5%
-- 5 people: 5.8%
-- 10 people: 11.2%
-- 25 people: 25.7%
-- 100 people: 69.6%
+- 1 person: 1.5%
+- 2 people: 2.9%
+- 3 people: 4.3%
+- 5 people: 7.1%
+- 10 people: 13.6%
+- 25 people: 30.7%
+- 100 people: 76.9%
 
-Last updated: 2021-02-05 00:22:12.453653 UTC
+Last updated: 2021-02-06 00:20:25.533831 UTC

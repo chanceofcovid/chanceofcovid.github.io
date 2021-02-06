@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Houston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 0.9%
-- 3 people: 1.4%
-- 5 people: 2.3%
-- 10 people: 4.5%
-- 25 people: 10.8%
-- 100 people: 36.6%
+- 1 person: 0.6%
+- 2 people: 1.3%
+- 3 people: 1.9%
+- 5 people: 3.1%
+- 10 people: 6.1%
+- 25 people: 14.6%
+- 100 people: 46.8%
 
-Last updated: 2021-02-05 00:22:12.452811 UTC
+Last updated: 2021-02-06 00:20:25.533005 UTC

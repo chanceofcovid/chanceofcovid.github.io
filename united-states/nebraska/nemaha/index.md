@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Nemaha
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.1%
-- 3 people: 4.6%
-- 5 people: 7.6%
-- 10 people: 14.6%
-- 25 people: 32.7%
-- 100 people: 79.4%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 1.0%
+- 10 people: 2.0%
+- 25 people: 5.0%
+- 100 people: 18.4%
 
-Last updated: 2021-02-05 00:22:09.183796 UTC
+Last updated: 2021-02-06 00:20:22.077886 UTC

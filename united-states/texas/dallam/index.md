@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Dallam
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.4%
+the "Estimated Prevalence" of COVID in this county is -0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.4%
-- 2 people: 16.2%
-- 3 people: 23.2%
-- 5 people: 35.7%
-- 10 people: 58.6%
-- 25 people: 89.0%
-- 100 people: 100.0%
+- 1 person: -0.7%
+- 2 people: -1.4%
+- 3 people: -2.1%
+- 5 people: -3.5%
+- 10 people: -7.1%
+- 25 people: -18.6%
+- 100 people: -97.7%
 
-Last updated: 2021-02-05 00:22:12.711057 UTC
+Last updated: 2021-02-06 00:20:25.727711 UTC

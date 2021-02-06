@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Columbia
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.8%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.8%
-- 2 people: 3.6%
-- 3 people: 5.4%
-- 5 people: 8.9%
-- 10 people: 17.0%
-- 25 people: 37.1%
-- 100 people: 84.4%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.4%
+- 5 people: 3.9%
+- 10 people: 7.7%
+- 25 people: 18.1%
+- 100 people: 55.0%
 
-Last updated: 2021-02-05 00:22:11.523099 UTC
+Last updated: 2021-02-06 00:20:24.557700 UTC

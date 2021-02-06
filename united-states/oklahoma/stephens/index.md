@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Stephens
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.3%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.3%
-- 2 people: 2.6%
-- 3 people: 3.9%
-- 5 people: 6.4%
-- 10 people: 12.4%
-- 25 people: 28.2%
-- 100 people: 73.4%
+- 1 person: 1.5%
+- 2 people: 2.9%
+- 3 people: 4.3%
+- 5 people: 7.1%
+- 10 people: 13.6%
+- 25 people: 30.6%
+- 100 people: 76.8%
 
-Last updated: 2021-02-05 00:22:11.095492 UTC
+Last updated: 2021-02-06 00:20:24.144145 UTC

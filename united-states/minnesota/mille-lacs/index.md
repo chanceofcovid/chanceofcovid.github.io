@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Mille Lacs
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.5%
-- 3 people: 0.8%
-- 5 people: 1.3%
-- 10 people: 2.5%
-- 25 people: 6.2%
-- 100 people: 22.6%
+- 1 person: 0.5%
+- 2 people: 0.9%
+- 3 people: 1.4%
+- 5 people: 2.2%
+- 10 people: 4.4%
+- 25 people: 10.7%
+- 100 people: 36.4%
 
-Last updated: 2021-02-05 00:22:08.276816 UTC
+Last updated: 2021-02-06 00:20:21.261085 UTC

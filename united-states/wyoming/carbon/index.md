@@ -2,18 +2,18 @@
 ## [Wyoming](/united-states/wyoming) / Carbon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.1%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.1%
-- 2 people: 8.0%
-- 3 people: 11.8%
-- 5 people: 18.9%
-- 10 people: 34.2%
-- 25 people: 64.9%
-- 100 people: 98.5%
+- 1 person: 2.1%
+- 2 people: 4.2%
+- 3 people: 6.3%
+- 5 people: 10.3%
+- 10 people: 19.5%
+- 25 people: 41.8%
+- 100 people: 88.6%
 
-Last updated: 2021-02-08 00:22:19.619171 UTC
+Last updated: 2021-02-09 00:21:05.237662 UTC

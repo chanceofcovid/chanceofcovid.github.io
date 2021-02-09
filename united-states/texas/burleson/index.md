@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Burleson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 29.1%
+the "Estimated Prevalence" of COVID in this county is 31.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 29.1%
-- 2 people: 49.7%
-- 3 people: 64.3%
-- 5 people: 82.0%
-- 10 people: 96.8%
+- 1 person: 31.6%
+- 2 people: 53.2%
+- 3 people: 68.0%
+- 5 people: 85.0%
+- 10 people: 97.8%
 - 25 people: 100.0%
 - 100 people: 100.0%
 
-Last updated: 2021-02-08 00:22:18.326759 UTC
+Last updated: 2021-02-09 00:21:03.655526 UTC

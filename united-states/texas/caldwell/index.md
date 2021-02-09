@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Caldwell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 32.2%
+the "Estimated Prevalence" of COVID in this county is 29.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 32.2%
-- 2 people: 54.0%
-- 3 people: 68.8%
-- 5 people: 85.6%
-- 10 people: 97.9%
+- 1 person: 29.9%
+- 2 people: 50.8%
+- 3 people: 65.5%
+- 5 people: 83.0%
+- 10 people: 97.1%
 - 25 people: 100.0%
 - 100 people: 100.0%
 
-Last updated: 2021-02-08 00:22:18.327246 UTC
+Last updated: 2021-02-09 00:21:03.656126 UTC

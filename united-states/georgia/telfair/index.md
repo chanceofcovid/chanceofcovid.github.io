@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Telfair
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.4%
-- 3 people: 10.9%
-- 5 people: 17.6%
-- 10 people: 32.1%
-- 25 people: 61.9%
-- 100 people: 97.9%
+- 1 person: 1.5%
+- 2 people: 2.9%
+- 3 people: 4.4%
+- 5 people: 7.2%
+- 10 people: 13.9%
+- 25 people: 31.1%
+- 100 people: 77.5%
 
-Last updated: 2021-02-08 00:22:12.243938 UTC
+Last updated: 2021-02-09 00:20:56.240934 UTC

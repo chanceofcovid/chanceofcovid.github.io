@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Hettinger
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
-- 2 people: 0.2%
-- 3 people: 0.3%
-- 5 people: 0.5%
-- 10 people: 1.0%
-- 25 people: 2.6%
-- 100 people: 10.0%
+- 1 person: 1.9%
+- 2 people: 3.8%
+- 3 people: 5.6%
+- 5 people: 9.1%
+- 10 people: 17.5%
+- 25 people: 38.1%
+- 100 people: 85.3%
 
-Last updated: 2021-02-23 00:21:35.378500 UTC
+Last updated: 2021-02-24 00:21:39.301396 UTC

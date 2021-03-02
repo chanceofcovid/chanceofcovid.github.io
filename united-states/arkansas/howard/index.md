@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Howard
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 4.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 1.0%
-- 5 people: 1.6%
-- 10 people: 3.2%
-- 25 people: 7.8%
-- 100 people: 27.8%
+- 1 person: 4.2%
+- 2 people: 8.2%
+- 3 people: 12.1%
+- 5 people: 19.3%
+- 10 people: 34.9%
+- 25 people: 65.8%
+- 100 people: 98.6%
 
-Last updated: 2021-03-01 00:23:11.794788 UTC
+Last updated: 2021-03-02 00:18:40.441269 UTC

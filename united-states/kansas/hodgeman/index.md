@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Hodgeman
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 0.9%
-- 3 people: 1.4%
-- 5 people: 2.3%
-- 10 people: 4.5%
-- 25 people: 10.9%
-- 100 people: 37.0%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.7%
+- 5 people: 12.5%
+- 10 people: 23.4%
+- 25 people: 48.6%
+- 100 people: 93.0%
 
-Last updated: 2021-03-01 00:23:16.307026 UTC
+Last updated: 2021-03-02 00:18:47.332548 UTC

@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Marengo
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.4%
+the "Estimated Prevalence" of COVID in this county is -0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.4%
-- 2 people: 8.5%
-- 3 people: 12.5%
-- 5 people: 20.0%
-- 10 people: 36.0%
-- 25 people: 67.2%
-- 100 people: 98.8%
+- 1 person: -0.4%
+- 2 people: -0.7%
+- 3 people: -1.1%
+- 5 people: -1.8%
+- 10 people: -3.7%
+- 25 people: -9.5%
+- 100 people: -44.0%
 
-Last updated: 2021-03-01 00:23:10.823986 UTC
+Last updated: 2021-03-02 00:18:38.759229 UTC

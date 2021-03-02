@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Mathews
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.6%
-- 3 people: 8.3%
-- 5 people: 13.4%
-- 10 people: 25.1%
-- 25 people: 51.4%
-- 100 people: 94.4%
+- 1 person: 0.7%
+- 2 people: 1.5%
+- 3 people: 2.2%
+- 5 people: 3.7%
+- 10 people: 7.2%
+- 25 people: 17.0%
+- 100 people: 52.6%
 
-Last updated: 2021-03-01 00:23:27.501860 UTC
+Last updated: 2021-03-02 00:19:03.679867 UTC

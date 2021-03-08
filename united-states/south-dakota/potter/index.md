@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Potter
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.6%
-- 10 people: 9.0%
-- 25 people: 21.0%
-- 100 people: 61.1%
+- 1 person: 2.1%
+- 2 people: 4.2%
+- 3 people: 6.2%
+- 5 people: 10.1%
+- 10 people: 19.1%
+- 25 people: 41.2%
+- 100 people: 88.0%
 
-Last updated: 2021-03-07 00:23:33.895804 UTC
+Last updated: 2021-03-08 00:22:42.493521 UTC

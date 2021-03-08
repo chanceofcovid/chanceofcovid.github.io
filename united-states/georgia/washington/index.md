@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Washington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.3%
-- 3 people: 3.4%
-- 5 people: 5.7%
-- 10 people: 11.0%
-- 25 people: 25.3%
-- 100 people: 68.8%
+- 1 person: 0.2%
+- 2 people: 0.5%
+- 3 people: 0.7%
+- 5 people: 1.2%
+- 10 people: 2.3%
+- 25 people: 5.6%
+- 100 people: 20.7%
 
-Last updated: 2021-03-07 00:23:23.091160 UTC
+Last updated: 2021-03-08 00:22:36.211855 UTC

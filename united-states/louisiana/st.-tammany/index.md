@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / St. Tammany
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.0%
-- 10 people: 3.9%
-- 25 people: 9.4%
-- 100 people: 32.6%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 0.9%
+- 5 people: 1.5%
+- 10 people: 3.0%
+- 25 people: 7.4%
+- 100 people: 26.3%
 
-Last updated: 2021-03-14 00:23:30.444810 UTC
+Last updated: 2021-03-15 00:22:53.234151 UTC

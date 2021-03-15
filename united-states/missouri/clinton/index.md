@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Clinton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 11.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
-- 2 people: 0.1%
-- 3 people: 0.2%
-- 5 people: 0.3%
-- 10 people: 0.6%
-- 25 people: 1.4%
-- 100 people: 5.6%
+- 1 person: 11.4%
+- 2 people: 21.5%
+- 3 people: 30.4%
+- 5 people: 45.4%
+- 10 people: 70.2%
+- 25 people: 95.1%
+- 100 people: 100.0%
 
-Last updated: 2021-03-14 00:23:31.842420 UTC
+Last updated: 2021-03-15 00:22:54.595659 UTC

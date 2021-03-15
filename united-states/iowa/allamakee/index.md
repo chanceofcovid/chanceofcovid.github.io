@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Allamakee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 8.9%
-- 10 people: 17.1%
-- 25 people: 37.4%
-- 100 people: 84.6%
+- 1 person: 0.4%
+- 2 people: 0.7%
+- 3 people: 1.1%
+- 5 people: 1.8%
+- 10 people: 3.6%
+- 25 people: 8.7%
+- 100 people: 30.4%
 
-Last updated: 2021-03-14 00:23:29.836700 UTC
+Last updated: 2021-03-15 00:22:52.544146 UTC

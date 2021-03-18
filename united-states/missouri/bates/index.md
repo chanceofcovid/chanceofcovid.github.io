@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Bates
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.7%
+the "Estimated Prevalence" of COVID in this county is 6.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.7%
-- 2 people: 13.0%
-- 3 people: 18.8%
-- 5 people: 29.4%
-- 10 people: 50.1%
-- 25 people: 82.4%
+- 1 person: 6.5%
+- 2 people: 12.5%
+- 3 people: 18.1%
+- 5 people: 28.4%
+- 10 people: 48.7%
+- 25 people: 81.2%
 - 100 people: 99.9%
 
-Last updated: 2021-03-17 00:22:54.155623 UTC
+Last updated: 2021-03-18 00:22:46.176889 UTC

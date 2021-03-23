@@ -2,18 +2,18 @@
 ## [New Jersey](/united-states/new-jersey) / Warren
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.7%
-- 10 people: 7.3%
-- 25 people: 17.2%
-- 100 people: 53.1%
+- 1 person: 1.4%
+- 2 people: 2.8%
+- 3 people: 4.2%
+- 5 people: 6.9%
+- 10 people: 13.3%
+- 25 people: 30.0%
+- 100 people: 76.0%
 
-Last updated: 2021-03-22 00:23:15.895106 UTC
+Last updated: 2021-03-23 00:23:03.271904 UTC

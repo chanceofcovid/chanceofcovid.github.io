@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Crawford
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.5%
-- 3 people: 2.3%
-- 5 people: 3.7%
-- 10 people: 7.3%
-- 25 people: 17.3%
-- 100 people: 53.2%
+- 1 person: 1.5%
+- 2 people: 3.0%
+- 3 people: 4.5%
+- 5 people: 7.3%
+- 10 people: 14.1%
+- 25 people: 31.6%
+- 100 people: 78.2%
 
-Last updated: 2021-03-22 00:23:14.135725 UTC
+Last updated: 2021-03-23 00:23:01.511672 UTC

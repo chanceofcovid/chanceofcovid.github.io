@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Falls
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is -0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.3%
-- 3 people: 0.5%
-- 5 people: 0.8%
-- 10 people: 1.6%
-- 25 people: 3.9%
-- 100 people: 14.5%
+- 1 person: -0.2%
+- 2 people: -0.3%
+- 3 people: -0.5%
+- 5 people: -0.8%
+- 10 people: -1.6%
+- 25 people: -3.9%
+- 100 people: -16.6%
 
-Last updated: 2021-03-27 00:39:33.410341 UTC
+Last updated: 2021-03-28 00:41:11.112664 UTC

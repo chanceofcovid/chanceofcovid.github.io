@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Erie
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.6%
-- 10 people: 7.2%
-- 25 people: 16.9%
-- 100 people: 52.4%
+- 1 person: 1.3%
+- 2 people: 2.6%
+- 3 people: 3.9%
+- 5 people: 6.4%
+- 10 people: 12.3%
+- 25 people: 28.1%
+- 100 people: 73.2%
 
-Last updated: 2021-04-02 00:50:11.591440 UTC
+Last updated: 2021-04-03 00:41:03.360043 UTC

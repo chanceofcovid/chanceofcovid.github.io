@@ -5,6 +5,8 @@
 - [Anchorage](/united-states/alaska/anchorage)
 - [Bethel](/united-states/alaska/bethel)
 - [Bristol Bay](/united-states/alaska/bristol-bay)
+- [Copper River](/united-states/alaska/copper-river)
+- [Chugach](/united-states/alaska/chugach)
 - [Denali](/united-states/alaska/denali)
 - [Dillingham](/united-states/alaska/dillingham)
 - [Fairbanks North Star](/united-states/alaska/fairbanks-north-star)

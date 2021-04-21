@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Donley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.4%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.4%
-- 2 people: 2.9%
-- 3 people: 4.3%
-- 5 people: 7.0%
-- 10 people: 13.5%
-- 25 people: 30.4%
-- 100 people: 76.5%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.5%
+- 5 people: 2.4%
+- 10 people: 4.8%
+- 25 people: 11.5%
+- 100 people: 38.7%
 
-Last updated: 2021-04-20 00:42:15.137314 UTC
+Last updated: 2021-04-21 00:41:09.080724 UTC

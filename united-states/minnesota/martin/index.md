@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Martin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.8%
-- 3 people: 5.7%
-- 5 people: 9.3%
-- 10 people: 17.8%
-- 25 people: 38.7%
-- 100 people: 85.9%
+- 1 person: 1.1%
+- 2 people: 2.1%
+- 3 people: 3.2%
+- 5 people: 5.2%
+- 10 people: 10.2%
+- 25 people: 23.6%
+- 100 people: 65.8%
 
-Last updated: 2021-05-05 00:26:24.409071 UTC
+Last updated: 2021-05-06 00:25:43.781106 UTC

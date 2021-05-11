@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Chattahoochee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.3%
+the "Estimated Prevalence" of COVID in this county is 2.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.3%
-- 2 people: 2.6%
-- 3 people: 3.9%
-- 5 people: 6.4%
-- 10 people: 12.4%
-- 25 people: 28.1%
-- 100 people: 73.3%
+- 1 person: 2.3%
+- 2 people: 4.5%
+- 3 people: 6.6%
+- 5 people: 10.8%
+- 10 people: 20.4%
+- 25 people: 43.4%
+- 100 people: 89.8%
 
-Last updated: 2021-05-10 00:28:43.740735 UTC
+Last updated: 2021-05-11 00:27:36.505470 UTC

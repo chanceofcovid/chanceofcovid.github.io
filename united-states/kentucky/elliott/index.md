@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Elliott
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is -0.0%
+the "Estimated Prevalence" of COVID in this county is 0.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: -0.0%
-- 2 people: -0.1%
-- 3 people: -0.1%
-- 5 people: -0.2%
-- 10 people: -0.3%
-- 25 people: -0.8%
-- 100 people: -3.1%
+- 1 person: 0.0%
+- 2 people: 0.0%
+- 3 people: 0.0%
+- 5 people: 0.0%
+- 10 people: 0.0%
+- 25 people: 0.0%
+- 100 people: 0.0%
 
-Last updated: 2021-05-12 00:29:02.038318 UTC
+Last updated: 2021-05-13 00:38:08.121546 UTC

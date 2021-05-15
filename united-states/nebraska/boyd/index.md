@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Boyd
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.1%
-- 10 people: 4.1%
-- 25 people: 9.9%
-- 100 people: 34.1%
+- 1 person: 0.3%
+- 2 people: 0.5%
+- 3 people: 0.8%
+- 5 people: 1.4%
+- 10 people: 2.7%
+- 25 people: 6.7%
+- 100 people: 24.1%
 
-Last updated: 2021-05-14 00:39:16.164278 UTC
+Last updated: 2021-05-15 00:36:25.114423 UTC

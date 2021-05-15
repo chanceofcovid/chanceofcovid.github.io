@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Henry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
+- 1 person: 0.2%
 - 2 people: 0.3%
-- 3 people: 0.4%
-- 5 people: 0.7%
-- 10 people: 1.4%
-- 25 people: 3.5%
-- 100 people: 13.3%
+- 3 people: 0.5%
+- 5 people: 0.8%
+- 10 people: 1.6%
+- 25 people: 3.9%
+- 100 people: 14.9%
 
-Last updated: 2021-05-14 00:39:18.804962 UTC
+Last updated: 2021-05-15 00:36:26.794334 UTC

@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Richland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
+- 1 person: 0.2%
 - 2 people: 0.3%
-- 3 people: 0.4%
-- 5 people: 0.7%
-- 10 people: 1.3%
-- 25 people: 3.3%
-- 100 people: 12.5%
+- 3 people: 0.5%
+- 5 people: 0.8%
+- 10 people: 1.7%
+- 25 people: 4.2%
+- 100 people: 15.6%
 
-Last updated: 2021-05-14 00:39:11.424963 UTC
+Last updated: 2021-05-15 00:36:21.920364 UTC

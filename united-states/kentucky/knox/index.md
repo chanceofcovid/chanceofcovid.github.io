@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Knox
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is -0.2%
+the "Estimated Prevalence" of COVID in this county is -0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: -0.2%
-- 2 people: -0.5%
-- 3 people: -0.7%
-- 5 people: -1.2%
-- 10 people: -2.4%
-- 25 people: -6.2%
-- 100 people: -27.4%
+- 1 person: -0.3%
+- 2 people: -0.6%
+- 3 people: -0.9%
+- 5 people: -1.5%
+- 10 people: -3.0%
+- 25 people: -7.8%
+- 100 people: -34.8%
 
-Last updated: 2021-05-16 00:40:38.009816 UTC
+Last updated: 2021-05-17 00:36:35.294711 UTC

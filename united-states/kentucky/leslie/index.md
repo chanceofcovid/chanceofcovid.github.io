@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Leslie
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 1.0%
-- 3 people: 1.6%
-- 5 people: 2.6%
-- 10 people: 5.1%
-- 25 people: 12.3%
-- 100 people: 40.7%
+- 1 person: 0.1%
+- 2 people: 0.3%
+- 3 people: 0.4%
+- 5 people: 0.6%
+- 10 people: 1.2%
+- 25 people: 3.1%
+- 100 people: 11.8%
 
-Last updated: 2021-05-21 00:38:20.606506 UTC
+Last updated: 2021-05-22 00:38:01.371067 UTC

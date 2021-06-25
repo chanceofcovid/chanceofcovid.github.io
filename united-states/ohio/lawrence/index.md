@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Lawrence
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.0%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.0%
-- 2 people: 0.1%
-- 3 people: 0.1%
-- 5 people: 0.2%
-- 10 people: 0.4%
-- 25 people: 1.1%
-- 100 people: 4.3%
+- 1 person: 0.1%
+- 2 people: 0.3%
+- 3 people: 0.4%
+- 5 people: 0.7%
+- 10 people: 1.3%
+- 25 people: 3.2%
+- 100 people: 12.3%
 
-Last updated: 2021-06-24 00:25:09.901752 UTC
+Last updated: 2021-06-25 00:34:49.771930 UTC

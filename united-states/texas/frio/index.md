@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Frio
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 3.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.1%
-- 3 people: 6.2%
-- 5 people: 10.1%
-- 10 people: 19.1%
-- 25 people: 41.1%
-- 100 people: 88.0%
+- 1 person: 3.7%
+- 2 people: 7.3%
+- 3 people: 10.8%
+- 5 people: 17.3%
+- 10 people: 31.6%
+- 25 people: 61.4%
+- 100 people: 97.8%
 
-Last updated: 2021-06-24 00:25:11.603068 UTC
+Last updated: 2021-06-25 00:34:51.403443 UTC

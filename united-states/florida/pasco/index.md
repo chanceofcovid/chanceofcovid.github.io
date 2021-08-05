@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Pasco
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.1%
-- 3 people: 4.6%
-- 5 people: 7.6%
-- 10 people: 14.6%
-- 25 people: 32.7%
-- 100 people: 79.4%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.7%
+- 5 people: 12.6%
+- 10 people: 23.5%
+- 25 people: 48.9%
+- 100 people: 93.2%
 
-Last updated: 2021-08-04 00:31:11.105304 UTC
+Last updated: 2021-08-05 00:33:41.576286 UTC

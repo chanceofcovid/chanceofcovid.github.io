@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Putnam
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 1.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.5%
-- 3 people: 0.8%
-- 5 people: 1.3%
-- 10 people: 2.7%
-- 25 people: 6.5%
-- 100 people: 23.6%
+- 1 person: 1.6%
+- 2 people: 3.1%
+- 3 people: 4.7%
+- 5 people: 7.7%
+- 10 people: 14.8%
+- 25 people: 32.9%
+- 100 people: 79.8%
 
-Last updated: 2021-08-08 00:33:02.480333 UTC
+Last updated: 2021-08-09 00:35:08.710987 UTC

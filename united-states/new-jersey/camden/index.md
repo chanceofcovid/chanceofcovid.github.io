@@ -2,18 +2,18 @@
 ## [New Jersey](/united-states/new-jersey) / Camden
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.7%
-- 3 people: 1.1%
-- 5 people: 1.8%
-- 10 people: 3.5%
-- 25 people: 8.5%
-- 100 people: 29.9%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.5%
+- 5 people: 2.5%
+- 10 people: 4.8%
+- 25 people: 11.7%
+- 100 people: 39.1%
 
-Last updated: 2021-08-08 00:33:03.648719 UTC
+Last updated: 2021-08-09 00:35:10.368558 UTC

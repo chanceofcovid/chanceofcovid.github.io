@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Forrest
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.6%
-- 3 people: 14.1%
-- 5 people: 22.4%
-- 10 people: 39.7%
-- 25 people: 71.8%
-- 100 people: 99.4%
+- 1 person: 3.9%
+- 2 people: 7.7%
+- 3 people: 11.3%
+- 5 people: 18.0%
+- 10 people: 32.8%
+- 25 people: 63.0%
+- 100 people: 98.1%
 
-Last updated: 2021-08-18 00:32:14.864357 UTC
+Last updated: 2021-08-19 00:28:31.088132 UTC

@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Stillwater
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.1%
-- 3 people: 3.2%
-- 5 people: 5.3%
-- 10 people: 10.2%
-- 25 people: 23.6%
-- 100 people: 66.0%
+- 1 person: 0.5%
+- 2 people: 1.1%
+- 3 people: 1.6%
+- 5 people: 2.7%
+- 10 people: 5.2%
+- 25 people: 12.6%
+- 100 people: 41.6%
 
-Last updated: 2021-08-18 00:32:15.813121 UTC
+Last updated: 2021-08-19 00:28:31.542069 UTC

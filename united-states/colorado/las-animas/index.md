@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Las Animas
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.7%
-- 3 people: 2.5%
-- 5 people: 4.1%
-- 10 people: 8.0%
-- 25 people: 18.8%
-- 100 people: 56.5%
+- 1 person: 0.5%
+- 2 people: 1.1%
+- 3 people: 1.6%
+- 5 people: 2.7%
+- 10 people: 5.2%
+- 25 people: 12.6%
+- 100 people: 41.7%
 
-Last updated: 2021-08-18 00:32:07.536937 UTC
+Last updated: 2021-08-19 00:28:26.865679 UTC

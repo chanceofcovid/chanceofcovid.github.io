@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Cook
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.9%
+the "Estimated Prevalence" of COVID in this county is 8.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.9%
-- 2 people: 13.4%
-- 3 people: 19.4%
-- 5 people: 30.2%
-- 10 people: 51.2%
-- 25 people: 83.4%
-- 100 people: 99.9%
+- 1 person: 8.2%
+- 2 people: 15.8%
+- 3 people: 22.7%
+- 5 people: 35.0%
+- 10 people: 57.7%
+- 25 people: 88.4%
+- 100 people: 100.0%
 
-Last updated: 2021-08-20 00:32:13.311285 UTC
+Last updated: 2021-08-21 00:32:06.801115 UTC

@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Motley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 9.0%
-- 3 people: 13.2%
-- 5 people: 21.0%
-- 10 people: 37.6%
-- 25 people: 69.3%
-- 100 people: 99.1%
+- 1 person: 0.2%
+- 2 people: 0.5%
+- 3 people: 0.7%
+- 5 people: 1.1%
+- 10 people: 2.3%
+- 25 people: 5.6%
+- 100 people: 20.6%
 
-Last updated: 2021-08-20 00:32:24.578561 UTC
+Last updated: 2021-08-21 00:32:18.636742 UTC

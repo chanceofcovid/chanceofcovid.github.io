@@ -2,18 +2,18 @@
 ## [Oregon](/united-states/oregon) / Curry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.5%
+the "Estimated Prevalence" of COVID in this county is 5.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.5%
-- 2 people: 10.6%
-- 3 people: 15.5%
-- 5 people: 24.5%
-- 10 people: 43.0%
-- 25 people: 75.4%
-- 100 people: 99.6%
+- 1 person: 5.7%
+- 2 people: 11.1%
+- 3 people: 16.2%
+- 5 people: 25.4%
+- 10 people: 44.4%
+- 25 people: 77.0%
+- 100 people: 99.7%
 
-Last updated: 2021-08-22 00:32:13.673759 UTC
+Last updated: 2021-08-23 00:30:27.114980 UTC

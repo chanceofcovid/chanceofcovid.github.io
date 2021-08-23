@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Lawrence
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.8%
+the "Estimated Prevalence" of COVID in this county is 4.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.8%
-- 2 people: 9.4%
-- 3 people: 13.8%
-- 5 people: 22.0%
-- 10 people: 39.1%
-- 25 people: 71.1%
-- 100 people: 99.3%
+- 1 person: 4.4%
+- 2 people: 8.6%
+- 3 people: 12.6%
+- 5 people: 20.1%
+- 10 people: 36.2%
+- 25 people: 67.5%
+- 100 people: 98.9%
 
-Last updated: 2021-08-22 00:32:09.350999 UTC
+Last updated: 2021-08-23 00:30:22.822837 UTC

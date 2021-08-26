@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Tift
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 4.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.8%
-- 3 people: 14.3%
-- 5 people: 22.7%
-- 10 people: 40.3%
-- 25 people: 72.5%
-- 100 people: 99.4%
+- 1 person: 4.3%
+- 2 people: 8.5%
+- 3 people: 12.4%
+- 5 people: 19.8%
+- 10 people: 35.7%
+- 25 people: 66.9%
+- 100 people: 98.8%
 
-Last updated: 2021-08-25 00:32:29.045541 UTC
+Last updated: 2021-08-26 00:30:52.081788 UTC

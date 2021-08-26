@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Stephenson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.9%
-- 5 people: 1.5%
-- 10 people: 2.9%
-- 25 people: 7.2%
-- 100 people: 25.9%
+- 1 person: 0.2%
+- 2 people: 0.5%
+- 3 people: 0.7%
+- 5 people: 1.2%
+- 10 people: 2.5%
+- 25 people: 6.0%
+- 100 people: 22.0%
 
-Last updated: 2021-08-25 00:32:30.235687 UTC
+Last updated: 2021-08-26 00:30:52.934084 UTC

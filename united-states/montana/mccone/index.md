@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / McCone
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.0%
-- 5 people: 3.4%
-- 10 people: 6.6%
-- 25 people: 15.7%
-- 100 people: 49.5%
+- 1 person: 3.0%
+- 2 people: 5.9%
+- 3 people: 8.7%
+- 5 people: 14.1%
+- 10 people: 26.2%
+- 25 people: 53.1%
+- 100 people: 95.2%
 
-Last updated: 2021-08-27 00:35:28.252153 UTC
+Last updated: 2021-08-28 00:31:29.028845 UTC

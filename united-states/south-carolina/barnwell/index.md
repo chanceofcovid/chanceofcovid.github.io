@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / Barnwell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 4.0%
-- 3 people: 5.9%
-- 5 people: 9.7%
-- 10 people: 18.4%
-- 25 people: 39.9%
-- 100 people: 86.9%
+- 1 person: 4.1%
+- 2 people: 8.1%
+- 3 people: 11.9%
+- 5 people: 19.0%
+- 10 people: 34.3%
+- 25 people: 65.1%
+- 100 people: 98.5%
 
-Last updated: 2021-08-27 00:35:31.615518 UTC
+Last updated: 2021-08-28 00:31:33.889273 UTC

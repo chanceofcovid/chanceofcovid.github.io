@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Berrien
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 4.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.5%
-- 3 people: 13.9%
-- 5 people: 22.1%
-- 10 people: 39.2%
-- 25 people: 71.2%
-- 100 people: 99.3%
+- 1 person: 4.3%
+- 2 people: 8.3%
+- 3 people: 12.2%
+- 5 people: 19.6%
+- 10 people: 35.3%
+- 25 people: 66.3%
+- 100 people: 98.7%
 
-Last updated: 2021-08-27 00:35:24.517824 UTC
+Last updated: 2021-08-28 00:31:22.874716 UTC

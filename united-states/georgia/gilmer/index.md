@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Gilmer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 3.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 9.0%
-- 3 people: 13.2%
-- 5 people: 21.0%
-- 10 people: 37.6%
-- 25 people: 69.3%
-- 100 people: 99.1%
+- 1 person: 3.8%
+- 2 people: 7.4%
+- 3 people: 10.9%
+- 5 people: 17.5%
+- 10 people: 31.9%
+- 25 people: 61.7%
+- 100 people: 97.8%
 
-Last updated: 2021-08-27 00:35:24.529888 UTC
+Last updated: 2021-08-28 00:31:22.888276 UTC

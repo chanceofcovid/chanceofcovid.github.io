@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Knox
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 12.9%
-- 10 people: 24.2%
-- 25 people: 50.0%
-- 100 people: 93.8%
+- 1 person: 3.0%
+- 2 people: 5.8%
+- 3 people: 8.6%
+- 5 people: 14.0%
+- 10 people: 26.0%
+- 25 people: 52.9%
+- 100 people: 95.1%
 
-Last updated: 2021-08-28 00:31:28.227073 UTC
+Last updated: 2021-08-29 00:34:38.232873 UTC

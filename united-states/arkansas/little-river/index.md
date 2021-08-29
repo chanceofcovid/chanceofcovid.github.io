@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Little River
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.4%
+the "Estimated Prevalence" of COVID in this county is 3.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.4%
-- 2 people: 4.7%
-- 3 people: 7.0%
-- 5 people: 11.4%
-- 10 people: 21.5%
-- 25 people: 45.4%
-- 100 people: 91.1%
+- 1 person: 3.4%
+- 2 people: 6.7%
+- 3 people: 9.8%
+- 5 people: 15.8%
+- 10 people: 29.1%
+- 25 people: 57.7%
+- 100 people: 96.8%
 
-Last updated: 2021-08-28 00:31:20.376996 UTC
+Last updated: 2021-08-29 00:34:33.320495 UTC

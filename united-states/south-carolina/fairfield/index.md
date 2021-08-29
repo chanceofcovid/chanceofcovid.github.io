@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / Fairfield
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.1%
-- 3 people: 3.1%
-- 5 people: 5.2%
-- 10 people: 10.0%
-- 25 people: 23.2%
-- 100 people: 65.3%
+- 1 person: 1.4%
+- 2 people: 2.8%
+- 3 people: 4.2%
+- 5 people: 6.9%
+- 10 people: 13.4%
+- 25 people: 30.2%
+- 100 people: 76.2%
 
-Last updated: 2021-08-28 00:31:33.892838 UTC
+Last updated: 2021-08-29 00:34:41.510196 UTC

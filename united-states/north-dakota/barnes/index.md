@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Barnes
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.0%
-- 10 people: 4.0%
-- 25 people: 9.6%
-- 100 people: 33.3%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 0.9%
+- 10 people: 1.8%
+- 25 people: 4.6%
+- 100 people: 17.0%
 
-Last updated: 2021-08-28 00:31:31.768043 UTC
+Last updated: 2021-08-29 00:34:40.114984 UTC

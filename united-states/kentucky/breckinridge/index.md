@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Breckinridge
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.3%
+the "Estimated Prevalence" of COVID in this county is 5.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.3%
-- 2 people: 12.2%
-- 3 people: 17.8%
-- 5 people: 27.8%
-- 10 people: 47.9%
-- 25 people: 80.4%
-- 100 people: 99.9%
+- 1 person: 5.8%
+- 2 people: 11.3%
+- 3 people: 16.4%
+- 5 people: 25.8%
+- 10 people: 45.0%
+- 25 people: 77.6%
+- 100 people: 99.7%
 
-Last updated: 2021-08-28 00:31:25.397743 UTC
+Last updated: 2021-08-29 00:34:36.548250 UTC

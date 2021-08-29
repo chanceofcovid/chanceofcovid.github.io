@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Prince George
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.3%
-- 3 people: 1.9%
-- 5 people: 3.2%
-- 10 people: 6.3%
-- 25 people: 14.9%
-- 100 people: 47.7%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.9%
+- 5 people: 4.8%
+- 10 people: 9.3%
+- 25 people: 21.7%
+- 100 people: 62.3%
 
-Last updated: 2021-08-28 00:31:36.013996 UTC
+Last updated: 2021-08-29 00:34:42.730073 UTC

@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Pendleton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 4.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.5%
-- 3 people: 9.5%
-- 5 people: 15.4%
-- 10 people: 28.4%
-- 25 people: 56.6%
-- 100 people: 96.4%
+- 1 person: 4.3%
+- 2 people: 8.4%
+- 3 people: 12.3%
+- 5 people: 19.7%
+- 10 people: 35.5%
+- 25 people: 66.6%
+- 100 people: 98.8%
 
-Last updated: 2021-08-29 00:34:43.145684 UTC
+Last updated: 2021-08-30 00:33:11.691172 UTC

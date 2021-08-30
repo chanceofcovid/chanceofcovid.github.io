@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Anderson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 3.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.7%
-- 3 people: 11.4%
-- 5 people: 18.3%
-- 10 people: 33.2%
-- 25 people: 63.5%
-- 100 people: 98.2%
+- 1 person: 3.7%
+- 2 people: 7.3%
+- 3 people: 10.8%
+- 5 people: 17.3%
+- 10 people: 31.6%
+- 25 people: 61.3%
+- 100 people: 97.8%
 
-Last updated: 2021-08-29 00:34:42.121318 UTC
+Last updated: 2021-08-30 00:33:10.420374 UTC

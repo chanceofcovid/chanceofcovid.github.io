@@ -2,18 +2,18 @@
 ## [Wyoming](/united-states/wyoming) / Hot Springs
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.3%
+the "Estimated Prevalence" of COVID in this county is 14.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.3%
-- 2 people: 12.3%
-- 3 people: 17.8%
-- 5 people: 27.9%
-- 10 people: 48.0%
-- 25 people: 80.5%
-- 100 people: 99.9%
+- 1 person: 14.3%
+- 2 people: 26.5%
+- 3 people: 37.0%
+- 5 people: 53.7%
+- 10 people: 78.5%
+- 25 people: 97.9%
+- 100 people: 100.0%
 
-Last updated: 2021-08-31 00:34:26.728461 UTC
+Last updated: 2021-09-01 00:35:53.559345 UTC

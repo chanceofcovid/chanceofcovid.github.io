@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Meade
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 8.9%
-- 10 people: 17.0%
-- 25 people: 37.3%
-- 100 people: 84.6%
+- 1 person: 3.0%
+- 2 people: 6.0%
+- 3 people: 8.9%
+- 5 people: 14.3%
+- 10 people: 26.6%
+- 25 people: 53.9%
+- 100 people: 95.5%
 
-Last updated: 2021-08-31 00:34:14.423254 UTC
+Last updated: 2021-09-01 00:35:46.608368 UTC

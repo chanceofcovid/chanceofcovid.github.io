@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Clare
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.2%
-- 3 people: 1.8%
-- 5 people: 2.9%
-- 10 people: 5.8%
-- 25 people: 13.8%
-- 100 people: 44.7%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.6%
+- 5 people: 2.6%
+- 10 people: 5.1%
+- 25 people: 12.3%
+- 100 people: 40.9%
 
-Last updated: 2021-08-31 00:34:16.402282 UTC
+Last updated: 2021-09-01 00:35:47.800389 UTC

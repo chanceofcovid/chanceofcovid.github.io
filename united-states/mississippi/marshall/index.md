@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Marshall
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.0%
-- 3 people: 8.9%
-- 5 people: 14.4%
-- 10 people: 26.8%
-- 25 people: 54.2%
-- 100 people: 95.6%
+- 1 person: 2.0%
+- 2 people: 3.9%
+- 3 people: 5.8%
+- 5 people: 9.5%
+- 10 people: 18.1%
+- 25 people: 39.4%
+- 100 people: 86.5%
 
-Last updated: 2021-09-01 00:35:48.239619 UTC
+Last updated: 2021-09-02 00:33:03.686251 UTC

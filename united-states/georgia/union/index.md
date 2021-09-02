@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Union
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.5%
+the "Estimated Prevalence" of COVID in this county is 4.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.5%
-- 2 people: 12.6%
-- 3 people: 18.3%
-- 5 people: 28.6%
-- 10 people: 49.0%
-- 25 people: 81.4%
-- 100 people: 99.9%
+- 1 person: 4.6%
+- 2 people: 9.0%
+- 3 people: 13.2%
+- 5 people: 21.0%
+- 10 people: 37.6%
+- 25 people: 69.2%
+- 100 people: 99.1%
 
-Last updated: 2021-09-01 00:35:45.430732 UTC
+Last updated: 2021-09-02 00:32:59.938770 UTC

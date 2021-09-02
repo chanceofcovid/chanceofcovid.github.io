@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Cheatham
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 4.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.5%
-- 3 people: 11.1%
-- 5 people: 17.8%
-- 10 people: 32.5%
-- 25 people: 62.5%
-- 100 people: 98.0%
+- 1 person: 4.6%
+- 2 people: 8.9%
+- 3 people: 13.1%
+- 5 people: 20.8%
+- 10 people: 37.3%
+- 25 people: 68.9%
+- 100 people: 99.1%
 
-Last updated: 2021-09-01 00:35:51.944424 UTC
+Last updated: 2021-09-02 00:33:07.481376 UTC

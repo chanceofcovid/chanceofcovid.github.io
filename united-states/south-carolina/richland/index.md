@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / Richland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.4%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.4%
-- 2 people: 2.9%
-- 3 people: 4.2%
-- 5 people: 7.0%
-- 10 people: 13.5%
-- 25 people: 30.3%
-- 100 people: 76.5%
+- 1 person: 1.7%
+- 2 people: 3.5%
+- 3 people: 5.1%
+- 5 people: 8.4%
+- 10 people: 16.1%
+- 25 people: 35.6%
+- 100 people: 82.8%
 
-Last updated: 2021-09-02 00:33:07.086904 UTC
+Last updated: 2021-09-03 00:32:58.302771 UTC

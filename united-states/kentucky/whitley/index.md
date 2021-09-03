@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Whitley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.7%
+the "Estimated Prevalence" of COVID in this county is 4.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.7%
-- 2 people: 13.0%
-- 3 people: 18.9%
-- 5 people: 29.4%
-- 10 people: 50.2%
-- 25 people: 82.5%
-- 100 people: 99.9%
+- 1 person: 4.6%
+- 2 people: 9.0%
+- 3 people: 13.1%
+- 5 people: 20.9%
+- 10 people: 37.5%
+- 25 people: 69.1%
+- 100 people: 99.1%
 
-Last updated: 2021-09-02 00:33:02.043842 UTC
+Last updated: 2021-09-03 00:32:53.681110 UTC

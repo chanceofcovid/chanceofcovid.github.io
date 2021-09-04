@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Russell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.5%
+the "Estimated Prevalence" of COVID in this county is 7.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.5%
-- 2 people: 8.7%
-- 3 people: 12.8%
-- 5 people: 20.4%
-- 10 people: 36.6%
-- 25 people: 68.0%
-- 100 people: 99.0%
+- 1 person: 7.2%
+- 2 people: 13.9%
+- 3 people: 20.1%
+- 5 people: 31.2%
+- 10 people: 52.7%
+- 25 people: 84.6%
+- 100 people: 99.9%
 
-Last updated: 2021-09-03 00:32:53.677973 UTC
+Last updated: 2021-09-04 00:32:32.234468 UTC

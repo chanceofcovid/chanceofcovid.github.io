@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Madison
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.9%
-- 3 people: 11.5%
-- 5 people: 18.5%
-- 10 people: 33.6%
-- 25 people: 64.0%
-- 100 people: 98.3%
+- 1 person: 2.0%
+- 2 people: 4.0%
+- 3 people: 6.0%
+- 5 people: 9.7%
+- 10 people: 18.5%
+- 25 people: 40.1%
+- 100 people: 87.1%
 
-Last updated: 2021-09-03 00:32:50.201570 UTC
+Last updated: 2021-09-04 00:32:28.450968 UTC

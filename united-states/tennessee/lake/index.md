@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Lake
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.3%
-- 3 people: 15.1%
-- 5 people: 23.8%
-- 10 people: 42.0%
-- 25 people: 74.3%
-- 100 people: 99.6%
+- 1 person: 3.5%
+- 2 people: 7.0%
+- 3 people: 10.3%
+- 5 people: 16.5%
+- 10 people: 30.3%
+- 25 people: 59.5%
+- 100 people: 97.3%
 
-Last updated: 2021-09-03 00:32:58.678771 UTC
+Last updated: 2021-09-04 00:32:37.560306 UTC

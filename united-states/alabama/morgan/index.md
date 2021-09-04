@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Morgan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.2%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.2%
-- 2 people: 10.1%
-- 3 people: 14.7%
-- 5 people: 23.3%
-- 10 people: 41.1%
-- 25 people: 73.4%
-- 100 people: 99.5%
+- 1 person: 3.1%
+- 2 people: 6.2%
+- 3 people: 9.1%
+- 5 people: 14.7%
+- 10 people: 27.3%
+- 25 people: 54.9%
+- 100 people: 95.9%
 
-Last updated: 2021-09-03 00:32:50.202952 UTC
+Last updated: 2021-09-04 00:32:28.452391 UTC

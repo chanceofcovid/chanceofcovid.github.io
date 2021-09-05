@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Latimer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.1%
+the "Estimated Prevalence" of COVID in this county is 6.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.1%
-- 2 people: 11.8%
-- 3 people: 17.1%
-- 5 people: 26.9%
-- 10 people: 46.5%
-- 25 people: 79.1%
-- 100 people: 99.8%
+- 1 person: 6.4%
+- 2 people: 12.4%
+- 3 people: 18.0%
+- 5 people: 28.2%
+- 10 people: 48.4%
+- 25 people: 80.9%
+- 100 people: 99.9%
 
-Last updated: 2021-09-04 00:32:36.277757 UTC
+Last updated: 2021-09-05 00:36:17.900165 UTC

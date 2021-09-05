@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Galax
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 5.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.4%
-- 3 people: 15.2%
-- 5 people: 24.0%
-- 10 people: 42.3%
-- 25 people: 74.7%
-- 100 people: 99.6%
+- 1 person: 5.9%
+- 2 people: 11.5%
+- 3 people: 16.7%
+- 5 people: 26.3%
+- 10 people: 45.7%
+- 25 people: 78.2%
+- 100 people: 99.8%
 
-Last updated: 2021-09-04 00:32:38.438301 UTC
+Last updated: 2021-09-05 00:36:20.224237 UTC

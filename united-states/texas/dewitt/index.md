@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / DeWitt
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.6%
+the "Estimated Prevalence" of COVID in this county is 12.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.6%
-- 2 people: 25.3%
-- 3 people: 35.4%
-- 5 people: 51.8%
-- 10 people: 76.7%
-- 25 people: 97.4%
+- 1 person: 12.9%
+- 2 people: 24.1%
+- 3 people: 33.8%
+- 5 people: 49.8%
+- 10 people: 74.8%
+- 25 people: 96.8%
 - 100 people: 100.0%
 
-Last updated: 2021-09-04 00:32:37.777190 UTC
+Last updated: 2021-09-05 00:36:19.562022 UTC

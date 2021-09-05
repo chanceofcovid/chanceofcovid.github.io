@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Victoria
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.5%
-- 5 people: 4.1%
-- 10 people: 7.9%
-- 25 people: 18.7%
-- 100 people: 56.3%
+- 1 person: 2.8%
+- 2 people: 5.5%
+- 3 people: 8.1%
+- 5 people: 13.2%
+- 10 people: 24.6%
+- 25 people: 50.7%
+- 100 people: 94.1%
 
-Last updated: 2021-09-04 00:32:37.807802 UTC
+Last updated: 2021-09-05 00:36:19.608863 UTC

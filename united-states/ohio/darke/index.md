@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Darke
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.0%
-- 3 people: 3.1%
-- 5 people: 5.0%
-- 10 people: 9.8%
-- 25 people: 22.8%
-- 100 people: 64.5%
+- 1 person: 1.1%
+- 2 people: 2.1%
+- 3 people: 3.2%
+- 5 people: 5.3%
+- 10 people: 10.3%
+- 25 people: 23.7%
+- 100 people: 66.1%
 
-Last updated: 2021-09-08 00:32:26.476649 UTC
+Last updated: 2021-09-09 00:35:35.322949 UTC

@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Henry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
+- 1 person: 0.8%
 - 2 people: 1.7%
-- 3 people: 2.6%
-- 5 people: 4.3%
-- 10 people: 8.4%
-- 25 people: 19.6%
-- 100 people: 58.2%
+- 3 people: 2.5%
+- 5 people: 4.2%
+- 10 people: 8.2%
+- 25 people: 19.2%
+- 100 people: 57.3%
 
-Last updated: 2021-09-08 00:32:19.110784 UTC
+Last updated: 2021-09-09 00:35:30.995585 UTC

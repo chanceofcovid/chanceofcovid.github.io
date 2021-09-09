@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.7%
-- 10 people: 9.2%
-- 25 people: 21.4%
-- 100 people: 61.8%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 9.1%
+- 10 people: 17.3%
+- 25 people: 37.8%
+- 100 people: 85.0%
 
-Last updated: 2021-09-08 00:32:20.267949 UTC
+Last updated: 2021-09-09 00:35:31.783891 UTC

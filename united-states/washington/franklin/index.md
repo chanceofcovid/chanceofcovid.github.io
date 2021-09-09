@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Franklin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 3.0%
-- 3 people: 4.5%
-- 5 people: 7.4%
-- 10 people: 14.3%
-- 25 people: 32.1%
-- 100 people: 78.7%
+- 1 person: 3.0%
+- 2 people: 5.9%
+- 3 people: 8.7%
+- 5 people: 14.1%
+- 10 people: 26.3%
+- 25 people: 53.3%
+- 100 people: 95.2%
 
-Last updated: 2021-09-08 00:32:30.880629 UTC
+Last updated: 2021-09-09 00:35:38.322891 UTC

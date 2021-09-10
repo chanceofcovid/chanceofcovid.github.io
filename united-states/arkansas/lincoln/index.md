@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Lincoln
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.7%
-- 10 people: 7.2%
-- 25 people: 17.0%
-- 100 people: 52.6%
+- 1 person: 0.4%
+- 2 people: 0.8%
+- 3 people: 1.2%
+- 5 people: 2.1%
+- 10 people: 4.1%
+- 25 people: 9.9%
+- 100 people: 34.0%
 
-Last updated: 2021-09-09 00:35:28.467001 UTC
+Last updated: 2021-09-10 00:37:03.050892 UTC

@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Hemphill
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.2%
-- 3 people: 6.2%
-- 5 people: 10.1%
-- 10 people: 19.1%
-- 25 people: 41.2%
-- 100 people: 88.0%
+- 1 person: 2.0%
+- 2 people: 3.9%
+- 3 people: 5.7%
+- 5 people: 9.4%
+- 10 people: 17.9%
+- 25 people: 38.9%
+- 100 people: 86.1%
 
-Last updated: 2021-09-09 00:35:37.468482 UTC
+Last updated: 2021-09-10 00:37:17.785197 UTC

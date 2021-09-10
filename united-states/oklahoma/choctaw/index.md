@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Choctaw
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.7%
-- 3 people: 11.4%
-- 5 people: 18.3%
-- 10 people: 33.2%
-- 25 people: 63.5%
-- 100 people: 98.2%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.7%
+- 5 people: 12.4%
+- 10 people: 23.3%
+- 25 people: 48.5%
+- 100 people: 93.0%
 
-Last updated: 2021-09-09 00:35:35.530941 UTC
+Last updated: 2021-09-10 00:37:14.862513 UTC

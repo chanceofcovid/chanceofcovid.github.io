@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Lynchburg
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.4%
+the "Estimated Prevalence" of COVID in this county is 4.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.4%
-- 2 people: 8.6%
-- 3 people: 12.6%
-- 5 people: 20.1%
-- 10 people: 36.2%
-- 25 people: 67.5%
-- 100 people: 98.9%
+- 1 person: 4.7%
+- 2 people: 9.3%
+- 3 people: 13.6%
+- 5 people: 21.6%
+- 10 people: 38.5%
+- 25 people: 70.3%
+- 100 people: 99.2%
 
-Last updated: 2021-09-09 00:35:38.121192 UTC
+Last updated: 2021-09-10 00:37:18.820616 UTC

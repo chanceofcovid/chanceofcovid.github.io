@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Edwards
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.1%
-- 3 people: 3.1%
-- 5 people: 5.1%
-- 10 people: 9.9%
-- 25 people: 23.0%
-- 100 people: 64.9%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 0.9%
+- 5 people: 1.6%
+- 10 people: 3.1%
+- 25 people: 7.5%
+- 100 people: 26.8%
 
-Last updated: 2021-09-11 00:33:29.780715 UTC
+Last updated: 2021-09-12 00:36:06.616238 UTC

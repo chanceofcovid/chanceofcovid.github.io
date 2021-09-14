@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Forest
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 1.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
+- 1 person: 1.8%
 - 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 9.1%
-- 10 people: 17.3%
-- 25 people: 37.9%
-- 100 people: 85.1%
+- 3 people: 5.4%
+- 5 people: 8.9%
+- 10 people: 17.0%
+- 25 people: 37.3%
+- 100 people: 84.5%
 
-Last updated: 2021-09-13 00:36:51.085649 UTC
+Last updated: 2021-09-14 00:35:23.858491 UTC

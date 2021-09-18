@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Butte
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.4%
-- 3 people: 9.4%
-- 5 people: 15.2%
-- 10 people: 28.2%
-- 25 people: 56.3%
-- 100 people: 96.3%
+- 1 person: 3.0%
+- 2 people: 6.0%
+- 3 people: 8.9%
+- 5 people: 14.3%
+- 10 people: 26.6%
+- 25 people: 53.9%
+- 100 people: 95.5%
 
-Last updated: 2021-09-17 00:38:25.677951 UTC
+Last updated: 2021-09-18 00:32:33.909903 UTC

@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Laurel
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.3%
-- 3 people: 7.8%
-- 5 people: 12.7%
-- 10 people: 23.7%
-- 25 people: 49.2%
-- 100 people: 93.3%
+- 1 person: 2.9%
+- 2 people: 5.6%
+- 3 people: 8.4%
+- 5 people: 13.5%
+- 10 people: 25.2%
+- 25 people: 51.7%
+- 100 people: 94.5%
 
-Last updated: 2021-09-17 00:38:20.234000 UTC
+Last updated: 2021-09-18 00:32:28.604899 UTC

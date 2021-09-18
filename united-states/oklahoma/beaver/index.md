@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Beaver
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.8%
-- 5 people: 1.4%
-- 10 people: 2.7%
-- 25 people: 6.7%
-- 100 people: 24.1%
+- 1 person: 1.3%
+- 2 people: 2.5%
+- 3 people: 3.7%
+- 5 people: 6.1%
+- 10 people: 11.8%
+- 25 people: 27.0%
+- 100 people: 71.6%
 
-Last updated: 2021-09-17 00:38:24.597233 UTC
+Last updated: 2021-09-18 00:32:32.811608 UTC

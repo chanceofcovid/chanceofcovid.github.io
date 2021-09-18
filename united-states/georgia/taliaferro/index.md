@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Taliaferro
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 1.0%
-- 3 people: 1.5%
-- 5 people: 2.4%
-- 10 people: 4.8%
-- 25 people: 11.5%
-- 100 people: 38.6%
+- 1 person: 1.7%
+- 2 people: 3.5%
+- 3 people: 5.2%
+- 5 people: 8.4%
+- 10 people: 16.2%
+- 25 people: 35.7%
+- 100 people: 82.9%
 
-Last updated: 2021-09-17 00:38:18.514912 UTC
+Last updated: 2021-09-18 00:32:26.970187 UTC

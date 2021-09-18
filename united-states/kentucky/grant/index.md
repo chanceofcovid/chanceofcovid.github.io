@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Grant
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.4%
-- 3 people: 3.6%
-- 5 people: 6.0%
-- 10 people: 11.6%
-- 25 people: 26.6%
-- 100 people: 71.0%
+- 1 person: 3.5%
+- 2 people: 6.9%
+- 3 people: 10.1%
+- 5 people: 16.3%
+- 10 people: 29.9%
+- 25 people: 58.8%
+- 100 people: 97.1%
 
-Last updated: 2021-09-17 00:38:20.228752 UTC
+Last updated: 2021-09-18 00:32:28.599198 UTC

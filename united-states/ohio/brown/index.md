@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Brown
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.8%
-- 3 people: 11.5%
-- 5 people: 18.5%
-- 10 people: 33.5%
-- 25 people: 64.0%
-- 100 people: 98.3%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.7%
+- 5 people: 12.5%
+- 10 people: 23.5%
+- 25 people: 48.8%
+- 100 people: 93.1%
 
-Last updated: 2021-09-20 00:38:11.699985 UTC
+Last updated: 2021-09-21 00:34:41.065702 UTC

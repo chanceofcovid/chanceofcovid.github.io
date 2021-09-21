@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Seneca
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.1%
-- 5 people: 3.4%
-- 10 people: 6.8%
-- 25 people: 16.0%
-- 100 people: 50.3%
+- 1 person: 0.6%
+- 2 people: 1.3%
+- 3 people: 1.9%
+- 5 people: 3.2%
+- 10 people: 6.3%
+- 25 people: 15.0%
+- 100 people: 47.7%
 
-Last updated: 2021-09-20 00:38:11.075266 UTC
+Last updated: 2021-09-21 00:34:39.993563 UTC

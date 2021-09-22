@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Titus
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.7%
+the "Estimated Prevalence" of COVID in this county is 4.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.7%
-- 2 people: 9.2%
-- 3 people: 13.4%
-- 5 people: 21.4%
-- 10 people: 38.2%
-- 25 people: 70.0%
-- 100 people: 99.2%
+- 1 person: 4.8%
+- 2 people: 9.3%
+- 3 people: 13.7%
+- 5 people: 21.7%
+- 10 people: 38.7%
+- 25 people: 70.6%
+- 100 people: 99.3%
 
-Last updated: 2021-09-21 00:34:43.910378 UTC
+Last updated: 2021-09-22 00:35:07.735240 UTC

@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Putnam
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.0%
-- 10 people: 4.0%
-- 25 people: 9.7%
-- 100 people: 33.6%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 0.9%
+- 5 people: 1.4%
+- 10 people: 2.8%
+- 25 people: 6.9%
+- 100 people: 24.9%
 
-Last updated: 2021-09-21 00:34:33.069307 UTC
+Last updated: 2021-09-22 00:35:00.074940 UTC

@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Dunn
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 4.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.1%
-- 3 people: 9.0%
-- 5 people: 14.5%
-- 10 people: 26.9%
-- 25 people: 54.3%
-- 100 people: 95.6%
+- 1 person: 4.6%
+- 2 people: 9.0%
+- 3 people: 13.2%
+- 5 people: 21.0%
+- 10 people: 37.6%
+- 25 people: 69.2%
+- 100 people: 99.1%
 
-Last updated: 2021-09-22 00:35:05.622852 UTC
+Last updated: 2021-09-23 00:35:49.351299 UTC

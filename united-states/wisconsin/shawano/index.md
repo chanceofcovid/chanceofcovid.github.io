@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Shawano
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 2.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 9.1%
-- 10 people: 17.3%
-- 25 people: 37.8%
-- 100 people: 85.0%
+- 1 person: 2.5%
+- 2 people: 4.9%
+- 3 people: 7.2%
+- 5 people: 11.7%
+- 10 people: 22.0%
+- 25 people: 46.3%
+- 100 people: 91.7%
 
-Last updated: 2021-09-23 00:35:52.638503 UTC
+Last updated: 2021-09-24 00:34:30.744727 UTC

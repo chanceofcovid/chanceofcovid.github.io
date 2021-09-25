@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Liberty
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.7%
+the "Estimated Prevalence" of COVID in this county is 8.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.7%
-- 2 people: 13.0%
-- 3 people: 18.9%
-- 5 people: 29.5%
-- 10 people: 50.3%
-- 25 people: 82.6%
-- 100 people: 99.9%
+- 1 person: 8.0%
+- 2 people: 15.4%
+- 3 people: 22.2%
+- 5 people: 34.1%
+- 10 people: 56.6%
+- 25 people: 87.6%
+- 100 people: 100.0%
 
-Last updated: 2021-09-24 00:34:25.634352 UTC
+Last updated: 2021-09-25 00:34:01.349479 UTC

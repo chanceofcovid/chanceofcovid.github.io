@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Foster
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 0.9%
-- 3 people: 1.4%
-- 5 people: 2.3%
-- 10 people: 4.5%
-- 25 people: 10.8%
-- 100 people: 36.7%
+- 1 person: 1.3%
+- 2 people: 2.5%
+- 3 people: 3.7%
+- 5 people: 6.1%
+- 10 people: 11.9%
+- 25 people: 27.0%
+- 100 people: 71.7%
 
-Last updated: 2021-09-26 00:37:04.826401 UTC
+Last updated: 2021-09-27 00:34:19.838198 UTC

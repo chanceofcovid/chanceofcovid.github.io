@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Rensselaer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
+- 1 person: 0.7%
 - 2 people: 1.3%
-- 3 people: 1.9%
-- 5 people: 3.2%
-- 10 people: 6.2%
-- 25 people: 14.8%
-- 100 people: 47.4%
+- 3 people: 2.0%
+- 5 people: 3.3%
+- 10 people: 6.5%
+- 25 people: 15.5%
+- 100 people: 49.0%
 
-Last updated: 2021-09-26 00:37:04.451348 UTC
+Last updated: 2021-09-27 00:34:19.110007 UTC

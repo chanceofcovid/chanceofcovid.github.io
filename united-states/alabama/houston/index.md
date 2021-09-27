@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Houston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.1%
-- 3 people: 7.6%
-- 5 people: 12.3%
-- 10 people: 23.0%
-- 25 people: 48.0%
-- 100 people: 92.7%
+- 1 person: 2.1%
+- 2 people: 4.3%
+- 3 people: 6.3%
+- 5 people: 10.3%
+- 10 people: 19.5%
+- 25 people: 41.9%
+- 100 people: 88.6%
 
-Last updated: 2021-09-26 00:36:57.914689 UTC
+Last updated: 2021-09-27 00:34:07.536802 UTC

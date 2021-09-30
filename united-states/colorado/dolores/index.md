@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Dolores
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.7%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.7%
-- 2 people: 7.3%
-- 3 people: 10.8%
-- 5 people: 17.3%
-- 10 people: 31.6%
-- 25 people: 61.3%
-- 100 people: 97.8%
+- 1 person: 3.5%
+- 2 people: 6.9%
+- 3 people: 10.2%
+- 5 people: 16.4%
+- 10 people: 30.1%
+- 25 people: 59.2%
+- 100 people: 97.2%
 
-Last updated: 2021-09-29 00:33:56.003289 UTC
+Last updated: 2021-09-30 00:38:19.719839 UTC

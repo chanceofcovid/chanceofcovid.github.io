@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Adams
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.1%
+the "Estimated Prevalence" of COVID in this county is 6.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.1%
-- 2 people: 11.9%
-- 3 people: 17.3%
-- 5 people: 27.1%
-- 10 people: 46.9%
-- 25 people: 79.4%
-- 100 people: 99.8%
+- 1 person: 6.4%
+- 2 people: 12.4%
+- 3 people: 18.0%
+- 5 people: 28.1%
+- 10 people: 48.3%
+- 25 people: 80.8%
+- 100 people: 99.9%
 
-Last updated: 2021-10-01 00:38:04.589211 UTC
+Last updated: 2021-10-02 00:34:56.472772 UTC

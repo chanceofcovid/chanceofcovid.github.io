@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Collingsworth
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.6%
-- 3 people: 8.2%
-- 5 people: 13.4%
-- 10 people: 24.9%
-- 25 people: 51.2%
-- 100 people: 94.3%
+- 1 person: 0.2%
+- 2 people: 0.5%
+- 3 people: 0.7%
+- 5 people: 1.2%
+- 10 people: 2.5%
+- 25 people: 6.0%
+- 100 people: 22.1%
 
-Last updated: 2021-10-02 00:35:03.293889 UTC
+Last updated: 2021-10-03 00:38:35.611070 UTC

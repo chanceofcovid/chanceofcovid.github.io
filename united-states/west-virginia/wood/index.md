@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Wood
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 1.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 9.1%
-- 10 people: 17.3%
-- 25 people: 37.9%
-- 100 people: 85.1%
+- 1 person: 1.8%
+- 2 people: 3.6%
+- 3 people: 5.3%
+- 5 people: 8.7%
+- 10 people: 16.6%
+- 25 people: 36.5%
+- 100 people: 83.7%
 
-Last updated: 2021-10-03 00:38:37.347152 UTC
+Last updated: 2021-10-04 00:40:02.021387 UTC

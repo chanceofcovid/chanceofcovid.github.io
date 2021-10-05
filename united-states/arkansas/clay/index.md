@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Clay
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.2%
-- 3 people: 1.8%
-- 5 people: 3.0%
-- 10 people: 5.9%
-- 25 people: 14.1%
-- 100 people: 45.6%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.5%
+- 5 people: 4.1%
+- 10 people: 8.0%
+- 25 people: 18.8%
+- 100 people: 56.4%
 
-Last updated: 2021-10-04 00:39:51.286920 UTC
+Last updated: 2021-10-05 00:36:07.205825 UTC

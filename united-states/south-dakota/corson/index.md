@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Corson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 2.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.4%
-- 3 people: 3.5%
-- 5 people: 5.8%
-- 10 people: 11.4%
-- 25 people: 26.0%
-- 100 people: 70.0%
+- 1 person: 2.2%
+- 2 people: 4.3%
+- 3 people: 6.4%
+- 5 people: 10.5%
+- 10 people: 19.9%
+- 25 people: 42.5%
+- 100 people: 89.1%
 
-Last updated: 2021-10-06 00:38:05.060103 UTC
+Last updated: 2021-10-07 00:38:13.041942 UTC

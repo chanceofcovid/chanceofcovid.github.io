@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Appanoose
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.3%
-- 5 people: 5.5%
-- 10 people: 10.6%
-- 25 people: 24.5%
-- 100 people: 67.5%
+- 1 person: 3.2%
+- 2 people: 6.3%
+- 3 people: 9.4%
+- 5 people: 15.1%
+- 10 people: 27.9%
+- 25 people: 55.9%
+- 100 people: 96.2%
 
-Last updated: 2021-10-07 00:38:06.914206 UTC
+Last updated: 2021-10-08 00:37:55.087720 UTC

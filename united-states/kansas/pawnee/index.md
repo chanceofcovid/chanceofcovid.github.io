@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Pawnee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.9%
+the "Estimated Prevalence" of COVID in this county is 2.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.9%
-- 2 people: 5.7%
-- 3 people: 8.5%
-- 5 people: 13.7%
-- 10 people: 25.6%
-- 25 people: 52.2%
-- 100 people: 94.8%
+- 1 person: 2.3%
+- 2 people: 4.6%
+- 3 people: 6.7%
+- 5 people: 11.0%
+- 10 people: 20.8%
+- 25 people: 44.1%
+- 100 people: 90.3%
 
-Last updated: 2021-10-07 00:38:07.167743 UTC
+Last updated: 2021-10-08 00:37:55.447263 UTC

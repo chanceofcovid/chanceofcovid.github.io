@@ -2,18 +2,18 @@
 ## [Nevada](/united-states/nevada) / Esmeralda
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.2%
-- 3 people: 9.1%
-- 5 people: 14.7%
-- 10 people: 27.3%
-- 25 people: 54.9%
-- 100 people: 95.9%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 0.9%
+- 5 people: 1.4%
+- 10 people: 2.8%
+- 25 people: 6.9%
+- 100 people: 24.8%
 
-Last updated: 2021-10-08 00:37:59.747225 UTC
+Last updated: 2021-10-09 00:34:09.029826 UTC

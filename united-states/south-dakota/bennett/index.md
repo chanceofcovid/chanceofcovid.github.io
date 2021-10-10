@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Bennett
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 1.0%
-- 3 people: 1.5%
-- 5 people: 2.4%
-- 10 people: 4.8%
-- 25 people: 11.6%
-- 100 people: 39.0%
+- 1 person: 0.6%
+- 2 people: 1.1%
+- 3 people: 1.7%
+- 5 people: 2.8%
+- 10 people: 5.4%
+- 25 people: 13.1%
+- 100 people: 42.9%
 
-Last updated: 2021-10-09 00:34:11.647885 UTC
+Last updated: 2021-10-10 00:37:24.764607 UTC

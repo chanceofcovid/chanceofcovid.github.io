@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Mason
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 2.9%
-- 3 people: 4.3%
-- 5 people: 7.1%
-- 10 people: 13.7%
-- 25 people: 30.8%
-- 100 people: 77.1%
+- 1 person: 1.3%
+- 2 people: 2.5%
+- 3 people: 3.7%
+- 5 people: 6.1%
+- 10 people: 11.8%
+- 25 people: 27.0%
+- 100 people: 71.6%
 
-Last updated: 2021-10-11 00:36:39.537450 UTC
+Last updated: 2021-10-12 00:38:31.502114 UTC

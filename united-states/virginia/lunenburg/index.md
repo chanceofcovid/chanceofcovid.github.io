@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Lunenburg
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.4%
-- 3 people: 3.6%
-- 5 people: 5.9%
-- 10 people: 11.5%
-- 25 people: 26.3%
-- 100 people: 70.5%
+- 1 person: 1.0%
+- 2 people: 2.1%
+- 3 people: 3.1%
+- 5 people: 5.1%
+- 10 people: 10.0%
+- 25 people: 23.1%
+- 100 people: 65.1%
 
-Last updated: 2021-10-22 00:41:01.092811 UTC
+Last updated: 2021-10-23 00:38:49.223095 UTC

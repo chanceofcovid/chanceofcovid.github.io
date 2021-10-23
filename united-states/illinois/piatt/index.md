@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Piatt
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 1.9%
-- 10 people: 3.8%
-- 25 people: 9.2%
-- 100 people: 32.0%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.4%
+- 5 people: 2.4%
+- 10 people: 4.7%
+- 25 people: 11.4%
+- 100 people: 38.3%
 
-Last updated: 2021-10-22 00:40:53.203614 UTC
+Last updated: 2021-10-23 00:38:35.064119 UTC

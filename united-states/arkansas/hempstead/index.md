@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Hempstead
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 0.9%
-- 3 people: 1.4%
-- 5 people: 2.3%
-- 10 people: 4.5%
-- 25 people: 10.8%
-- 100 people: 36.7%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.1%
+- 5 people: 3.5%
+- 10 people: 6.8%
+- 25 people: 16.1%
+- 100 people: 50.5%
 
-Last updated: 2021-10-23 00:38:30.001110 UTC
+Last updated: 2021-10-24 00:36:25.524037 UTC

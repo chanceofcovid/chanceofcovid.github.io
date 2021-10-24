@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Hartley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 2.9%
-- 3 people: 4.4%
-- 5 people: 7.2%
-- 10 people: 13.8%
-- 25 people: 31.0%
-- 100 people: 77.4%
+- 1 person: 0.4%
+- 2 people: 0.9%
+- 3 people: 1.3%
+- 5 people: 2.1%
+- 10 people: 4.2%
+- 25 people: 10.2%
+- 100 people: 35.0%
 
-Last updated: 2021-10-23 00:38:48.121658 UTC
+Last updated: 2021-10-24 00:36:43.319158 UTC

@@ -2,18 +2,18 @@
 ## [New Hampshire](/united-states/new-hampshire) / Grafton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.3%
-- 5 people: 3.9%
-- 10 people: 7.6%
-- 25 people: 17.9%
-- 100 people: 54.6%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 1.0%
+- 5 people: 1.6%
+- 10 people: 3.2%
+- 25 people: 7.8%
+- 100 people: 27.8%
 
-Last updated: 2021-10-26 00:34:42.732014 UTC
+Last updated: 2021-10-27 00:34:49.482088 UTC

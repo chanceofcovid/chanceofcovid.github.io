@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Nome
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.2%
+the "Estimated Prevalence" of COVID in this county is 4.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.2%
-- 2 people: 15.8%
-- 3 people: 22.7%
-- 5 people: 34.9%
-- 10 people: 57.6%
-- 25 people: 88.3%
-- 100 people: 100.0%
+- 1 person: 4.8%
+- 2 people: 9.4%
+- 3 people: 13.8%
+- 5 people: 21.9%
+- 10 people: 39.1%
+- 25 people: 71.0%
+- 100 people: 99.3%
 
-Last updated: 2021-10-27 00:34:39.395550 UTC
+Last updated: 2021-10-28 00:35:00.712305 UTC

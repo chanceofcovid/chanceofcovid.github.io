@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Harrison
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.1%
-- 3 people: 3.1%
-- 5 people: 5.1%
-- 10 people: 10.0%
-- 25 people: 23.1%
-- 100 people: 64.9%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.3%
+- 5 people: 3.9%
+- 10 people: 7.6%
+- 25 people: 17.8%
+- 100 people: 54.4%
 
-Last updated: 2021-10-27 00:34:45.130044 UTC
+Last updated: 2021-10-28 00:35:04.512834 UTC

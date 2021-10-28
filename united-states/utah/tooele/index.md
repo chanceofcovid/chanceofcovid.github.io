@@ -2,18 +2,18 @@
 ## [Utah](/united-states/utah) / Tooele
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 2.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.3%
-- 3 people: 4.8%
-- 5 people: 8.0%
-- 10 people: 15.3%
-- 25 people: 33.9%
-- 100 people: 80.9%
+- 1 person: 2.2%
+- 2 people: 4.3%
+- 3 people: 6.3%
+- 5 people: 10.3%
+- 10 people: 19.5%
+- 25 people: 41.9%
+- 100 people: 88.6%
 
-Last updated: 2021-10-27 00:34:54.845335 UTC
+Last updated: 2021-10-28 00:35:10.303998 UTC

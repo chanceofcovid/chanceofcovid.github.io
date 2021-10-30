@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Transylvania
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.6%
-- 5 people: 0.9%
-- 10 people: 1.8%
-- 25 people: 4.5%
-- 100 people: 16.8%
+- 1 person: 0.3%
+- 2 people: 0.5%
+- 3 people: 0.8%
+- 5 people: 1.3%
+- 10 people: 2.6%
+- 25 people: 6.4%
+- 100 people: 23.1%
 
-Last updated: 2021-10-29 00:33:42.849486 UTC
+Last updated: 2021-10-30 00:34:13.165689 UTC

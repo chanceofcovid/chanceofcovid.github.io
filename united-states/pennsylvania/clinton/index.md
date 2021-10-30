@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Clinton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.3%
-- 3 people: 3.4%
-- 5 people: 5.6%
-- 10 people: 10.8%
-- 25 people: 24.9%
-- 100 people: 68.3%
+- 1 person: 1.3%
+- 2 people: 2.5%
+- 3 people: 3.8%
+- 5 people: 6.2%
+- 10 people: 12.0%
+- 25 people: 27.4%
+- 100 people: 72.3%
 
-Last updated: 2021-10-29 00:33:44.832274 UTC
+Last updated: 2021-10-30 00:34:14.891394 UTC

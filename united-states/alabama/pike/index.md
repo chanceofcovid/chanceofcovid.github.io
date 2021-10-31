@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Pike
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.9%
-- 3 people: 11.6%
-- 5 people: 18.5%
-- 10 people: 33.6%
-- 25 people: 64.1%
-- 100 people: 98.3%
+- 1 person: 3.1%
+- 2 people: 6.1%
+- 3 people: 9.0%
+- 5 people: 14.6%
+- 10 people: 27.0%
+- 25 people: 54.5%
+- 100 people: 95.7%
 
-Last updated: 2021-10-30 00:34:01.241844 UTC
+Last updated: 2021-10-31 00:36:37.649894 UTC

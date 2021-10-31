@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Burke
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.8%
-- 5 people: 7.8%
-- 10 people: 15.0%
-- 25 people: 33.5%
-- 100 people: 80.4%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.4%
+- 5 people: 13.6%
+- 10 people: 25.4%
+- 25 people: 51.9%
+- 100 people: 94.6%
 
-Last updated: 2021-10-30 00:34:13.513934 UTC
+Last updated: 2021-10-31 00:36:44.684607 UTC

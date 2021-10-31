@@ -2,18 +2,18 @@
 ## [Nevada](/united-states/nevada) / Churchill
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.2%
-- 3 people: 6.2%
-- 5 people: 10.2%
-- 10 people: 19.4%
-- 25 people: 41.6%
-- 100 people: 88.4%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.1%
+- 5 people: 3.4%
+- 10 people: 6.8%
+- 25 people: 16.1%
+- 100 people: 50.4%
 
-Last updated: 2021-10-30 00:34:11.449685 UTC
+Last updated: 2021-10-31 00:36:43.502766 UTC

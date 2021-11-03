@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Franklin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 2.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.2%
+- 1 person: 2.2%
+- 2 people: 4.3%
 - 3 people: 6.3%
-- 5 people: 10.2%
-- 10 people: 19.4%
-- 25 people: 41.7%
-- 100 people: 88.4%
+- 5 people: 10.4%
+- 10 people: 19.6%
+- 25 people: 42.1%
+- 100 people: 88.8%
 
-Last updated: 2021-11-02 00:37:49.247428 UTC
+Last updated: 2021-11-03 00:35:01.863039 UTC

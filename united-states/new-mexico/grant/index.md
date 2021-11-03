@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Grant
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.3%
-- 3 people: 15.0%
-- 5 people: 23.7%
-- 10 people: 41.8%
-- 25 people: 74.2%
-- 100 people: 99.6%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.5%
+- 5 people: 13.7%
+- 10 people: 25.5%
+- 25 people: 52.2%
+- 100 people: 94.8%
 
-Last updated: 2021-11-02 00:38:01.199720 UTC
+Last updated: 2021-11-03 00:35:13.893269 UTC

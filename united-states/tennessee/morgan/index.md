@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Morgan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.3%
-- 3 people: 2.0%
-- 5 people: 3.3%
-- 10 people: 6.6%
-- 25 people: 15.6%
-- 100 people: 49.2%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.9%
+- 5 people: 4.8%
+- 10 people: 9.3%
+- 25 people: 21.6%
+- 100 people: 62.2%
 
-Last updated: 2021-11-02 00:38:05.531941 UTC
+Last updated: 2021-11-03 00:35:18.283128 UTC

@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Otsego
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.2%
-- 5 people: 5.3%
-- 10 people: 10.3%
-- 25 people: 23.8%
-- 100 people: 66.4%
+- 1 person: 2.0%
+- 2 people: 4.0%
+- 3 people: 6.0%
+- 5 people: 9.8%
+- 10 people: 18.6%
+- 25 people: 40.3%
+- 100 people: 87.3%
 
-Last updated: 2021-11-04 00:35:32.164260 UTC
+Last updated: 2021-11-05 00:35:07.805940 UTC

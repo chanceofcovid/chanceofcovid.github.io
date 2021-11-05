@@ -2,18 +2,18 @@
 ## [Nevada](/united-states/nevada) / Nye
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 1.0%
-- 5 people: 1.6%
-- 10 people: 3.2%
-- 25 people: 7.7%
-- 100 people: 27.5%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.3%
+- 5 people: 3.8%
+- 10 people: 7.6%
+- 25 people: 17.8%
+- 100 people: 54.4%
 
-Last updated: 2021-11-04 00:35:34.258907 UTC
+Last updated: 2021-11-05 00:35:09.205848 UTC

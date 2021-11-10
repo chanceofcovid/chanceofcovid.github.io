@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Polk
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 4.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.3%
-- 25 people: 50.1%
-- 100 people: 93.8%
+- 1 person: 4.0%
+- 2 people: 7.8%
+- 3 people: 11.5%
+- 5 people: 18.4%
+- 10 people: 33.5%
+- 25 people: 63.9%
+- 100 people: 98.3%
 
-Last updated: 2021-11-09 00:35:50.367500 UTC
+Last updated: 2021-11-10 00:35:39.909932 UTC

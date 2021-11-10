@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Stone
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.8%
-- 5 people: 7.8%
-- 10 people: 15.0%
-- 25 people: 33.4%
-- 100 people: 80.4%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 9.0%
+- 10 people: 17.3%
+- 25 people: 37.7%
+- 100 people: 85.0%
 
-Last updated: 2021-11-09 00:35:41.707475 UTC
+Last updated: 2021-11-10 00:35:34.462734 UTC

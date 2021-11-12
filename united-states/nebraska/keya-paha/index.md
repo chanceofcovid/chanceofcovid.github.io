@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Keya Paha
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 14.6%
+the "Estimated Prevalence" of COVID in this county is 2.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 14.6%
-- 2 people: 27.0%
-- 3 people: 37.6%
-- 5 people: 54.4%
-- 10 people: 79.2%
-- 25 people: 98.0%
-- 100 people: 100.0%
+- 1 person: 2.5%
+- 2 people: 5.0%
+- 3 people: 7.4%
+- 5 people: 12.0%
+- 10 people: 22.6%
+- 25 people: 47.3%
+- 100 people: 92.3%
 
-Last updated: 2021-11-11 00:35:40.596084 UTC
+Last updated: 2021-11-12 00:36:55.969361 UTC

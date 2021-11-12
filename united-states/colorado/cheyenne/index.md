@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Cheyenne
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 4.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.4%
-- 5 people: 4.0%
-- 10 people: 7.8%
-- 25 people: 18.4%
-- 100 people: 55.6%
+- 1 person: 4.7%
+- 2 people: 9.2%
+- 3 people: 13.5%
+- 5 people: 21.5%
+- 10 people: 38.4%
+- 25 people: 70.2%
+- 100 people: 99.2%
 
-Last updated: 2021-11-11 00:35:32.551488 UTC
+Last updated: 2021-11-12 00:36:48.144770 UTC

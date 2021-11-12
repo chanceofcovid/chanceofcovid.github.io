@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / De Baca
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.4%
+the "Estimated Prevalence" of COVID in this county is 7.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.4%
-- 2 people: 10.5%
-- 3 people: 15.3%
-- 5 people: 24.2%
-- 10 people: 42.5%
-- 25 people: 74.9%
-- 100 people: 99.6%
+- 1 person: 7.9%
+- 2 people: 15.1%
+- 3 people: 21.8%
+- 5 people: 33.6%
+- 10 people: 55.9%
+- 25 people: 87.1%
+- 100 people: 100.0%
 
-Last updated: 2021-11-11 00:35:41.934462 UTC
+Last updated: 2021-11-12 00:36:57.296403 UTC

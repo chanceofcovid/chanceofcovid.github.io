@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Cochran
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.9%
+the "Estimated Prevalence" of COVID in this county is 4.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.9%
-- 2 people: 5.7%
-- 3 people: 8.4%
-- 5 people: 13.7%
-- 10 people: 25.5%
-- 25 people: 52.0%
-- 100 people: 94.7%
+- 1 person: 4.5%
+- 2 people: 8.9%
+- 3 people: 13.0%
+- 5 people: 20.8%
+- 10 people: 37.2%
+- 25 people: 68.8%
+- 100 people: 99.0%
 
-Last updated: 2021-11-12 00:37:01.651323 UTC
+Last updated: 2021-11-13 00:34:38.772461 UTC

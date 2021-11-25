@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Pike
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.5%
-- 3 people: 3.7%
-- 5 people: 6.1%
-- 10 people: 11.8%
-- 25 people: 26.9%
-- 100 people: 71.4%
+- 1 person: 1.7%
+- 2 people: 3.5%
+- 3 people: 5.1%
+- 5 people: 8.4%
+- 10 people: 16.2%
+- 25 people: 35.6%
+- 100 people: 82.8%
 
-Last updated: 2021-11-24 00:36:05.425339 UTC
+Last updated: 2021-11-25 00:37:14.593551 UTC

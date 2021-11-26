@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Robertson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.9%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.9%
-- 2 people: 11.4%
-- 3 people: 16.6%
-- 5 people: 26.1%
-- 10 people: 45.4%
-- 25 people: 78.0%
-- 100 people: 99.8%
+- 1 person: 3.2%
+- 2 people: 6.2%
+- 3 people: 9.2%
+- 5 people: 14.9%
+- 10 people: 27.5%
+- 25 people: 55.3%
+- 100 people: 96.0%
 
-Last updated: 2021-11-25 00:37:15.767193 UTC
+Last updated: 2021-11-26 00:35:40.190664 UTC

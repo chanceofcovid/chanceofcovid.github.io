@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Livingston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
+- 1 person: 0.2%
 - 2 people: 0.3%
-- 3 people: 0.4%
-- 5 people: 0.7%
-- 10 people: 1.4%
-- 25 people: 3.5%
-- 100 people: 13.1%
+- 3 people: 0.5%
+- 5 people: 0.8%
+- 10 people: 1.5%
+- 25 people: 3.8%
+- 100 people: 14.2%
 
-Last updated: 2021-11-25 00:37:16.110752 UTC
+Last updated: 2021-11-26 00:35:40.571254 UTC

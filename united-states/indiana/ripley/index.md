@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Ripley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 2.9%
-- 3 people: 4.3%
-- 5 people: 7.1%
-- 10 people: 13.6%
-- 25 people: 30.7%
-- 100 people: 76.9%
+- 1 person: 0.9%
+- 2 people: 1.8%
+- 3 people: 2.7%
+- 5 people: 4.5%
+- 10 people: 8.7%
+- 25 people: 20.4%
+- 100 people: 59.9%
 
-Last updated: 2021-11-26 00:35:39.077659 UTC
+Last updated: 2021-11-27 00:35:01.176173 UTC

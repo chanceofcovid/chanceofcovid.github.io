@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Whitley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 3.1%
-- 3 people: 4.5%
-- 5 people: 7.5%
-- 10 people: 14.4%
-- 25 people: 32.2%
-- 100 people: 78.8%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.6%
+- 5 people: 6.0%
+- 10 people: 11.6%
+- 25 people: 26.6%
+- 100 people: 70.9%
 
-Last updated: 2021-11-26 00:35:39.083312 UTC
+Last updated: 2021-11-27 00:35:01.185437 UTC

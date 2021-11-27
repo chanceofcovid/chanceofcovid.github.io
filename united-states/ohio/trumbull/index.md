@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Trumbull
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.8%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.8%
-- 2 people: 3.6%
-- 3 people: 5.4%
-- 5 people: 8.8%
-- 10 people: 16.8%
-- 25 people: 36.9%
-- 100 people: 84.1%
+- 1 person: 1.2%
+- 2 people: 2.3%
+- 3 people: 3.5%
+- 5 people: 5.7%
+- 10 people: 11.2%
+- 25 people: 25.6%
+- 100 people: 69.4%
 
-Last updated: 2021-11-26 00:35:46.548845 UTC
+Last updated: 2021-11-27 00:35:09.377809 UTC

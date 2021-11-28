@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Grand Traverse
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.8%
-- 5 people: 7.9%
-- 10 people: 15.2%
-- 25 people: 33.8%
-- 100 people: 80.8%
+- 1 person: 1.0%
+- 2 people: 2.0%
+- 3 people: 3.0%
+- 5 people: 5.0%
+- 10 people: 9.8%
+- 25 people: 22.7%
+- 100 people: 64.2%
 
-Last updated: 2021-11-27 00:35:04.355551 UTC
+Last updated: 2021-11-28 00:37:33.218645 UTC

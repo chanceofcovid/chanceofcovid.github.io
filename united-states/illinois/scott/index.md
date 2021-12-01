@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Scott
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.3%
-- 5 people: 5.5%
-- 10 people: 10.7%
-- 25 people: 24.5%
-- 100 people: 67.6%
+- 1 person: 2.1%
+- 2 people: 4.1%
+- 3 people: 6.1%
+- 5 people: 10.0%
+- 10 people: 19.0%
+- 25 people: 40.9%
+- 100 people: 87.8%
 
-Last updated: 2021-11-30 00:37:48.909555 UTC
+Last updated: 2021-12-01 00:38:38.952221 UTC

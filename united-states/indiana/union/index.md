@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Union
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.8%
-- 3 people: 5.7%
-- 5 people: 9.3%
-- 10 people: 17.7%
-- 25 people: 38.6%
-- 100 people: 85.7%
+- 1 person: 3.0%
+- 2 people: 5.9%
+- 3 people: 8.8%
+- 5 people: 14.2%
+- 10 people: 26.3%
+- 25 people: 53.4%
+- 100 people: 95.3%
 
-Last updated: 2021-11-30 00:37:49.303210 UTC
+Last updated: 2021-12-01 00:38:39.205443 UTC

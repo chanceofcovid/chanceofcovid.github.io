@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Hardin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.3%
-- 3 people: 0.5%
-- 5 people: 0.8%
-- 10 people: 1.5%
-- 25 people: 3.8%
-- 100 people: 14.2%
+- 1 person: 0.1%
+- 2 people: 0.1%
+- 3 people: 0.2%
+- 5 people: 0.3%
+- 10 people: 0.5%
+- 25 people: 1.3%
+- 100 people: 5.2%
 
-Last updated: 2021-12-01 00:38:46.007998 UTC
+Last updated: 2021-12-02 00:36:21.624588 UTC

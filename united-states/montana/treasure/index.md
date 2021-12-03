@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Treasure
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.6%
+the "Estimated Prevalence" of COVID in this county is 9.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.6%
-- 2 people: 10.9%
-- 3 people: 15.9%
-- 5 people: 25.1%
-- 10 people: 43.9%
-- 25 people: 76.4%
-- 100 people: 99.7%
+- 1 person: 9.1%
+- 2 people: 17.4%
+- 3 people: 24.9%
+- 5 people: 38.0%
+- 10 people: 61.5%
+- 25 people: 90.8%
+- 100 people: 100.0%
 
-Last updated: 2021-12-02 00:36:18.371588 UTC
+Last updated: 2021-12-03 00:36:36.354728 UTC

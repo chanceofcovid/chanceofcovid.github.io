@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Thurston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.7%
-- 3 people: 1.1%
-- 5 people: 1.8%
-- 10 people: 3.6%
-- 25 people: 8.7%
-- 100 people: 30.6%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.5%
+- 5 people: 0.9%
+- 10 people: 1.8%
+- 25 people: 4.5%
+- 100 people: 16.7%
 
-Last updated: 2021-12-02 00:36:18.567363 UTC
+Last updated: 2021-12-03 00:36:36.579668 UTC

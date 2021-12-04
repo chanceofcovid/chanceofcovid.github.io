@@ -2,18 +2,18 @@
 ## [California](/united-states/california) / Imperial
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.2%
-- 3 people: 1.8%
-- 5 people: 3.0%
-- 10 people: 5.9%
-- 25 people: 14.0%
-- 100 people: 45.3%
+- 1 person: 1.9%
+- 2 people: 3.8%
+- 3 people: 5.7%
+- 5 people: 9.3%
+- 10 people: 17.7%
+- 25 people: 38.5%
+- 100 people: 85.7%
 
-Last updated: 2021-12-03 00:36:31.415546 UTC
+Last updated: 2021-12-04 00:36:36.956927 UTC

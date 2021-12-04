@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Rowan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.9%
-- 5 people: 1.6%
-- 10 people: 3.1%
-- 25 people: 7.6%
-- 100 people: 27.0%
+- 1 person: 0.6%
+- 2 people: 1.1%
+- 3 people: 1.7%
+- 5 people: 2.8%
+- 10 people: 5.6%
+- 25 people: 13.4%
+- 100 people: 43.7%
 
-Last updated: 2021-12-03 00:36:37.826082 UTC
+Last updated: 2021-12-04 00:36:43.331808 UTC

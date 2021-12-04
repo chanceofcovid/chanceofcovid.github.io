@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Fallon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.0%
-- 5 people: 3.4%
-- 10 people: 6.6%
-- 25 people: 15.8%
-- 100 people: 49.7%
+- 1 person: 1.6%
+- 2 people: 3.2%
+- 3 people: 4.8%
+- 5 people: 7.9%
+- 10 people: 15.2%
+- 25 people: 33.8%
+- 100 people: 80.8%
 
-Last updated: 2021-12-03 00:36:36.342804 UTC
+Last updated: 2021-12-04 00:36:41.451343 UTC

@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Kenton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.3%
-- 5 people: 5.5%
-- 10 people: 10.7%
-- 25 people: 24.7%
-- 100 people: 67.8%
+- 1 person: 2.1%
+- 2 people: 4.1%
+- 3 people: 6.1%
+- 5 people: 9.9%
+- 10 people: 18.9%
+- 25 people: 40.7%
+- 100 people: 87.6%
 
-Last updated: 2021-12-04 00:36:39.577466 UTC
+Last updated: 2021-12-05 00:39:43.731239 UTC

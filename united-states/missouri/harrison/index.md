@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Harrison
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.5%
+the "Estimated Prevalence" of COVID in this county is 6.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.5%
-- 2 people: 8.8%
-- 3 people: 13.0%
-- 5 people: 20.6%
-- 10 people: 37.0%
-- 25 people: 68.5%
-- 100 people: 99.0%
+- 1 person: 6.7%
+- 2 people: 12.9%
+- 3 people: 18.7%
+- 5 people: 29.1%
+- 10 people: 49.8%
+- 25 people: 82.1%
+- 100 people: 99.9%
 
-Last updated: 2021-12-05 00:39:46.153550 UTC
+Last updated: 2021-12-06 00:38:18.841662 UTC

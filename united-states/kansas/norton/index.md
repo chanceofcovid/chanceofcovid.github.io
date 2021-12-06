@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Norton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.8%
-- 5 people: 7.9%
-- 10 people: 15.2%
-- 25 people: 33.8%
-- 100 people: 80.8%
+- 1 person: 2.8%
+- 2 people: 5.5%
+- 3 people: 8.1%
+- 5 people: 13.1%
+- 10 people: 24.5%
+- 25 people: 50.5%
+- 100 people: 94.0%
 
-Last updated: 2021-12-05 00:39:43.504660 UTC
+Last updated: 2021-12-06 00:38:16.832580 UTC

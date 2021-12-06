@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Marion
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 2.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 4.0%
-- 3 people: 5.9%
-- 5 people: 9.7%
-- 10 people: 18.4%
-- 25 people: 39.9%
-- 100 people: 86.9%
+- 1 person: 2.4%
+- 2 people: 4.7%
+- 3 people: 6.9%
+- 5 people: 11.2%
+- 10 people: 21.2%
+- 25 people: 44.9%
+- 100 people: 90.8%
 
-Last updated: 2021-12-05 00:39:52.356769 UTC
+Last updated: 2021-12-06 00:38:23.549990 UTC

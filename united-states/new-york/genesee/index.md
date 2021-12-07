@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Genesee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.2%
-- 3 people: 6.3%
-- 5 people: 10.3%
-- 10 people: 19.5%
-- 25 people: 41.9%
-- 100 people: 88.6%
+- 1 person: 2.8%
+- 2 people: 5.4%
+- 3 people: 8.1%
+- 5 people: 13.1%
+- 10 people: 24.4%
+- 25 people: 50.3%
+- 100 people: 93.9%
 
-Last updated: 2021-12-06 00:38:20.232592 UTC
+Last updated: 2021-12-07 00:38:50.520691 UTC

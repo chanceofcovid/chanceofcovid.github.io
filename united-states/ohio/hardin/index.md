@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Hardin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.5%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.5%
-- 2 people: 4.9%
-- 3 people: 7.2%
-- 5 people: 11.7%
-- 10 people: 22.0%
-- 25 people: 46.3%
-- 100 people: 91.7%
+- 1 person: 2.8%
+- 2 people: 5.4%
+- 3 people: 8.0%
+- 5 people: 13.0%
+- 10 people: 24.4%
+- 25 people: 50.3%
+- 100 people: 93.9%
 
-Last updated: 2021-12-06 00:38:20.946845 UTC
+Last updated: 2021-12-07 00:38:51.793204 UTC

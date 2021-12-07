@@ -9,11 +9,11 @@ If you interact with a certain number of people in this location
 1 or more of them has COVID?
 
 - 1 person: 4.5%
-- 2 people: 8.8%
+- 2 people: 8.9%
 - 3 people: 13.0%
-- 5 people: 20.6%
-- 10 people: 37.0%
-- 25 people: 68.5%
+- 5 people: 20.7%
+- 10 people: 37.1%
+- 25 people: 68.6%
 - 100 people: 99.0%
 
-Last updated: 2021-12-06 00:38:18.283078 UTC
+Last updated: 2021-12-07 00:38:46.949232 UTC

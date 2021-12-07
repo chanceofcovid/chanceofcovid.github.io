@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Ward
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.0%
-- 3 people: 3.0%
-- 5 people: 5.0%
-- 10 people: 9.7%
-- 25 people: 22.5%
-- 100 people: 63.9%
+- 1 person: 0.8%
+- 2 people: 1.7%
+- 3 people: 2.5%
+- 5 people: 4.1%
+- 10 people: 8.1%
+- 25 people: 18.9%
+- 100 people: 56.8%
 
-Last updated: 2021-12-06 00:38:20.761021 UTC
+Last updated: 2021-12-07 00:38:51.439704 UTC

@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Quay
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.5%
+the "Estimated Prevalence" of COVID in this county is 8.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.5%
-- 2 people: 16.3%
-- 3 people: 23.5%
-- 5 people: 36.0%
-- 10 people: 59.0%
-- 25 people: 89.2%
+- 1 person: 8.6%
+- 2 people: 16.5%
+- 3 people: 23.7%
+- 5 people: 36.3%
+- 10 people: 59.4%
+- 25 people: 89.5%
 - 100 people: 100.0%
 
-Last updated: 2021-12-06 00:38:20.062420 UTC
+Last updated: 2021-12-07 00:38:50.168581 UTC

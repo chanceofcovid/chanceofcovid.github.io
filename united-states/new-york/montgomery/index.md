@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Montgomery
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.5%
-- 3 people: 9.6%
-- 5 people: 15.5%
-- 10 people: 28.6%
-- 25 people: 56.9%
-- 100 people: 96.5%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.6%
+- 5 people: 12.4%
+- 10 people: 23.2%
+- 25 people: 48.4%
+- 100 people: 92.9%
 
-Last updated: 2021-12-07 00:38:50.522363 UTC
+Last updated: 2021-12-08 00:39:17.321381 UTC

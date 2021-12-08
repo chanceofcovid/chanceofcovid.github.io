@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Burnett
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 3.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.2%
-- 3 people: 7.7%
-- 5 people: 12.5%
-- 10 people: 23.4%
-- 25 people: 48.6%
-- 100 people: 93.0%
+- 1 person: 3.4%
+- 2 people: 6.8%
+- 3 people: 10.0%
+- 5 people: 16.1%
+- 10 people: 29.6%
+- 25 people: 58.4%
+- 100 people: 97.0%
 
-Last updated: 2021-12-07 00:38:57.149006 UTC
+Last updated: 2021-12-08 00:39:24.168108 UTC

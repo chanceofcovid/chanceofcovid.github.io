@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Orange
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.1%
-- 3 people: 7.5%
-- 5 people: 12.2%
-- 10 people: 23.0%
-- 25 people: 47.9%
-- 100 people: 92.7%
+- 1 person: 2.8%
+- 2 people: 5.6%
+- 3 people: 8.2%
+- 5 people: 13.3%
+- 10 people: 24.9%
+- 25 people: 51.1%
+- 100 people: 94.3%
 
-Last updated: 2021-12-09 00:37:20.492492 UTC
+Last updated: 2021-12-10 00:38:16.522836 UTC

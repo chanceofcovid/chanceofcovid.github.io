@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Cibola
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.4%
-- 5 people: 4.0%
-- 10 people: 7.9%
-- 25 people: 18.6%
-- 100 people: 56.1%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.9%
+- 5 people: 4.8%
+- 10 people: 9.4%
+- 25 people: 21.8%
+- 100 people: 62.6%
 
-Last updated: 2021-12-09 00:37:24.060349 UTC
+Last updated: 2021-12-10 00:38:20.325360 UTC

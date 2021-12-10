@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Morton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.0%
-- 5 people: 3.4%
-- 10 people: 6.6%
-- 25 people: 15.7%
-- 100 people: 49.6%
+- 1 person: 2.1%
+- 2 people: 4.2%
+- 3 people: 6.3%
+- 5 people: 10.3%
+- 10 people: 19.5%
+- 25 people: 41.9%
+- 100 people: 88.6%
 
-Last updated: 2021-12-09 00:37:20.923481 UTC
+Last updated: 2021-12-10 00:38:17.030127 UTC

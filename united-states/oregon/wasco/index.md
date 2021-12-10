@@ -2,18 +2,18 @@
 ## [Oregon](/united-states/oregon) / Wasco
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.7%
-- 3 people: 2.5%
-- 5 people: 4.1%
-- 10 people: 8.0%
-- 25 people: 18.9%
-- 100 people: 56.7%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.1%
+- 5 people: 3.4%
+- 10 people: 6.7%
+- 25 people: 16.0%
+- 100 people: 50.2%
 
-Last updated: 2021-12-09 00:37:25.477167 UTC
+Last updated: 2021-12-10 00:38:21.790844 UTC

@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Schoharie
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.2%
-- 3 people: 9.1%
-- 5 people: 14.8%
-- 10 people: 27.4%
-- 25 people: 55.0%
-- 100 people: 95.9%
+- 1 person: 2.9%
+- 2 people: 5.6%
+- 3 people: 8.3%
+- 5 people: 13.5%
+- 10 people: 25.2%
+- 25 people: 51.6%
+- 100 people: 94.5%
 
-Last updated: 2021-12-10 00:38:20.553471 UTC
+Last updated: 2021-12-11 00:35:49.357831 UTC

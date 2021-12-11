@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Mineral
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.2%
-- 3 people: 1.9%
-- 5 people: 3.1%
-- 10 people: 6.0%
-- 25 people: 14.4%
-- 100 people: 46.3%
+- 1 person: 0.4%
+- 2 people: 0.8%
+- 3 people: 1.2%
+- 5 people: 1.9%
+- 10 people: 3.8%
+- 25 people: 9.3%
+- 100 people: 32.4%
 
-Last updated: 2021-12-10 00:38:19.242022 UTC
+Last updated: 2021-12-11 00:35:47.982092 UTC

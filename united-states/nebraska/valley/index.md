@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Valley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.1%
-- 3 people: 4.6%
-- 5 people: 7.6%
-- 10 people: 14.6%
-- 25 people: 32.7%
-- 100 people: 79.4%
+- 1 person: 1.3%
+- 2 people: 2.5%
+- 3 people: 3.7%
+- 5 people: 6.1%
+- 10 people: 11.8%
+- 25 people: 27.0%
+- 100 people: 71.6%
 
-Last updated: 2021-12-10 00:38:19.462568 UTC
+Last updated: 2021-12-11 00:35:48.199521 UTC

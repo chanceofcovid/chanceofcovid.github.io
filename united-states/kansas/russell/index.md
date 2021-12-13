@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Russell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.0%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.0%
-- 2 people: 11.5%
-- 3 people: 16.8%
-- 5 people: 26.4%
-- 10 people: 45.9%
-- 25 people: 78.4%
-- 100 people: 99.8%
+- 1 person: 2.0%
+- 2 people: 3.9%
+- 3 people: 5.8%
+- 5 people: 9.5%
+- 10 people: 18.1%
+- 25 people: 39.4%
+- 100 people: 86.5%
 
-Last updated: 2021-12-12 00:39:50.387768 UTC
+Last updated: 2021-12-13 00:37:57.899494 UTC

@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Price
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.9%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.9%
-- 2 people: 5.7%
-- 3 people: 8.4%
-- 5 people: 13.5%
-- 10 people: 25.3%
-- 25 people: 51.7%
-- 100 people: 94.6%
+- 1 person: 3.9%
+- 2 people: 7.6%
+- 3 people: 11.2%
+- 5 people: 18.0%
+- 10 people: 32.8%
+- 25 people: 62.9%
+- 100 people: 98.1%
 
-Last updated: 2021-12-15 00:37:26.947969 UTC
+Last updated: 2021-12-16 00:38:02.201004 UTC

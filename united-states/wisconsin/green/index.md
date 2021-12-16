@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Green
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 4.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.8%
-- 3 people: 11.5%
-- 5 people: 18.4%
-- 10 people: 33.4%
-- 25 people: 63.8%
-- 100 people: 98.3%
+- 1 person: 4.2%
+- 2 people: 8.3%
+- 3 people: 12.2%
+- 5 people: 19.4%
+- 10 people: 35.1%
+- 25 people: 66.1%
+- 100 people: 98.7%
 
-Last updated: 2021-12-15 00:37:26.942723 UTC
+Last updated: 2021-12-16 00:38:02.195756 UTC

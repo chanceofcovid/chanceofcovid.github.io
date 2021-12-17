@@ -2,18 +2,18 @@
 ## [Virgin Islands](/united-states/virgin-islands) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.3%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.3%
-- 2 people: 19.6%
-- 3 people: 27.9%
-- 5 people: 42.0%
-- 10 people: 66.3%
-- 25 people: 93.4%
-- 100 people: 100.0%
+- 1 person: 0.1%
+- 2 people: 0.2%
+- 3 people: 0.3%
+- 5 people: 0.5%
+- 10 people: 1.0%
+- 25 people: 2.4%
+- 100 people: 9.4%
 
-Last updated: 2021-12-16 00:38:03.455773 UTC
+Last updated: 2021-12-17 00:40:19.823315 UTC

@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Hickory
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 1.0%
-- 3 people: 1.5%
-- 5 people: 2.4%
-- 10 people: 4.8%
-- 25 people: 11.5%
-- 100 people: 38.8%
+- 1 person: 1.3%
+- 2 people: 2.6%
+- 3 people: 3.8%
+- 5 people: 6.3%
+- 10 people: 12.2%
+- 25 people: 27.7%
+- 100 people: 72.7%
 
-Last updated: 2021-12-16 00:37:56.910646 UTC
+Last updated: 2021-12-17 00:40:09.054617 UTC

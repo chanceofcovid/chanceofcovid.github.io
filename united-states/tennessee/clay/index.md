@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Clay
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.5%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.5%
-- 2 people: 5.0%
-- 3 people: 7.5%
-- 5 people: 12.1%
-- 10 people: 22.8%
-- 25 people: 47.6%
-- 100 people: 92.4%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.6%
+- 5 people: 5.9%
+- 10 people: 11.5%
+- 25 people: 26.4%
+- 100 people: 70.6%
 
-Last updated: 2021-12-18 00:40:15.755567 UTC
+Last updated: 2021-12-19 00:41:17.961907 UTC

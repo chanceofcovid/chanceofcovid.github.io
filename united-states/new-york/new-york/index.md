@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / New York
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 6.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.5%
-- 3 people: 13.9%
-- 5 people: 22.1%
-- 10 people: 39.3%
-- 25 people: 71.3%
-- 100 people: 99.3%
+- 1 person: 6.4%
+- 2 people: 12.3%
+- 3 people: 17.9%
+- 5 people: 28.0%
+- 10 people: 48.2%
+- 25 people: 80.7%
+- 100 people: 99.9%
 
-Last updated: 2021-12-21 00:40:56.697175 UTC
+Last updated: 2021-12-22 00:39:59.379838 UTC

@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Wells
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.2%
-- 25 people: 50.0%
-- 100 people: 93.8%
+- 1 person: 1.1%
+- 2 people: 2.3%
+- 3 people: 3.4%
+- 5 people: 5.6%
+- 10 people: 10.8%
+- 25 people: 24.9%
+- 100 people: 68.1%
 
-Last updated: 2021-12-22 00:39:59.811030 UTC
+Last updated: 2021-12-23 00:39:01.030652 UTC

@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Tompkins
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.0%
+the "Estimated Prevalence" of COVID in this county is 8.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.0%
-- 2 people: 17.3%
-- 3 people: 24.7%
-- 5 people: 37.7%
-- 10 people: 61.2%
-- 25 people: 90.6%
+- 1 person: 8.8%
+- 2 people: 16.8%
+- 3 people: 24.1%
+- 5 people: 36.8%
+- 10 people: 60.1%
+- 25 people: 89.9%
 - 100 people: 100.0%
 
-Last updated: 2021-12-22 00:39:59.384117 UTC
+Last updated: 2021-12-23 00:39:00.562972 UTC

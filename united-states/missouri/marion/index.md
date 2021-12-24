@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Marion
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.1%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.1%
-- 2 people: 8.0%
-- 3 people: 11.7%
-- 5 people: 18.7%
-- 10 people: 34.0%
-- 25 people: 64.6%
-- 100 people: 98.4%
+- 1 person: 1.9%
+- 2 people: 3.8%
+- 3 people: 5.7%
+- 5 people: 9.3%
+- 10 people: 17.7%
+- 25 people: 38.6%
+- 100 people: 85.8%
 
-Last updated: 2021-12-23 00:38:59.084752 UTC
+Last updated: 2021-12-24 00:38:12.490445 UTC

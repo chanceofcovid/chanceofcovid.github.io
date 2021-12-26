@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Tuscola
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.3%
-- 5 people: 5.4%
-- 10 people: 10.6%
-- 25 people: 24.4%
-- 100 people: 67.3%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.0%
+- 5 people: 3.4%
+- 10 people: 6.7%
+- 25 people: 15.9%
+- 100 people: 49.9%
 
-Last updated: 2021-12-25 00:37:38.176830 UTC
+Last updated: 2021-12-26 00:41:05.024407 UTC

@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Pitkin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 8.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.4%
-- 3 people: 15.2%
-- 5 people: 24.0%
-- 10 people: 42.2%
-- 25 people: 74.6%
-- 100 people: 99.6%
+- 1 person: 8.4%
+- 2 people: 16.1%
+- 3 people: 23.2%
+- 5 people: 35.6%
+- 10 people: 58.5%
+- 25 people: 88.9%
+- 100 people: 100.0%
 
-Last updated: 2021-12-25 00:37:34.934772 UTC
+Last updated: 2021-12-26 00:41:00.774561 UTC

@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Denver
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 4.0%
-- 3 people: 6.0%
-- 5 people: 9.8%
-- 10 people: 18.6%
-- 25 people: 40.3%
-- 100 people: 87.3%
+- 1 person: 2.6%
+- 2 people: 5.1%
+- 3 people: 7.5%
+- 5 people: 12.2%
+- 10 people: 22.9%
+- 25 people: 47.9%
+- 100 people: 92.6%
 
-Last updated: 2021-12-25 00:37:34.926677 UTC
+Last updated: 2021-12-26 00:41:00.768222 UTC

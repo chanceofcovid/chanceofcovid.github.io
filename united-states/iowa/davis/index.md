@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Davis
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.4%
-- 5 people: 4.0%
-- 10 people: 7.9%
-- 25 people: 18.5%
-- 100 people: 55.9%
+- 1 person: 1.1%
+- 2 people: 2.1%
+- 3 people: 3.1%
+- 5 people: 5.2%
+- 10 people: 10.1%
+- 25 people: 23.3%
+- 100 people: 65.3%
 
-Last updated: 2021-12-25 00:37:36.829922 UTC
+Last updated: 2021-12-26 00:41:03.425607 UTC

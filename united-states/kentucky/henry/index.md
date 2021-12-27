@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Henry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.4%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.4%
-- 2 people: 2.8%
-- 3 people: 4.2%
-- 5 people: 7.0%
-- 10 people: 13.4%
-- 25 people: 30.3%
-- 100 people: 76.4%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.4%
+- 5 people: 4.0%
+- 10 people: 7.9%
+- 25 people: 18.7%
+- 100 people: 56.2%
 
-Last updated: 2021-12-26 00:41:03.889669 UTC
+Last updated: 2021-12-27 00:39:02.683622 UTC

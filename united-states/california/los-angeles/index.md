@@ -2,18 +2,18 @@
 ## [California](/united-states/california) / Los Angeles
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.3%
-- 3 people: 5.0%
-- 5 people: 8.2%
-- 10 people: 15.7%
-- 25 people: 34.7%
-- 100 people: 81.8%
+- 1 person: 1.5%
+- 2 people: 3.0%
+- 3 people: 4.5%
+- 5 people: 7.4%
+- 10 people: 14.3%
+- 25 people: 31.9%
+- 100 people: 78.5%
 
-Last updated: 2021-12-26 00:40:59.866071 UTC
+Last updated: 2021-12-27 00:38:56.677100 UTC

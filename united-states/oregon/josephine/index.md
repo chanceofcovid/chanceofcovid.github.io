@@ -2,18 +2,18 @@
 ## [Oregon](/united-states/oregon) / Josephine
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.0%
-- 10 people: 4.0%
-- 25 people: 9.6%
-- 100 people: 33.3%
+- 1 person: 0.6%
+- 2 people: 1.2%
+- 3 people: 1.8%
+- 5 people: 3.0%
+- 10 people: 6.0%
+- 25 people: 14.3%
+- 100 people: 46.1%
 
-Last updated: 2021-12-28 00:38:48.838152 UTC
+Last updated: 2021-12-29 00:38:26.777463 UTC

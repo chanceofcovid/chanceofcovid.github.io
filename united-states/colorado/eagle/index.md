@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Eagle
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.1%
+the "Estimated Prevalence" of COVID in this county is 11.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.1%
-- 2 people: 15.6%
-- 3 people: 22.5%
-- 5 people: 34.6%
-- 10 people: 57.3%
-- 25 people: 88.1%
+- 1 person: 11.1%
+- 2 people: 21.0%
+- 3 people: 29.8%
+- 5 people: 44.5%
+- 10 people: 69.2%
+- 25 people: 94.7%
 - 100 people: 100.0%
 
-Last updated: 2021-12-28 00:38:42.877828 UTC
+Last updated: 2021-12-29 00:38:15.444035 UTC

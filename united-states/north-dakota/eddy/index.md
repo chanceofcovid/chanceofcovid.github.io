@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Eddy
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.2%
-- 25 people: 50.0%
-- 100 people: 93.8%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.9%
+- 5 people: 4.7%
+- 10 people: 9.2%
+- 25 people: 21.5%
+- 100 people: 62.0%
 
-Last updated: 2021-12-29 00:38:25.787926 UTC
+Last updated: 2021-12-30 00:38:37.169263 UTC

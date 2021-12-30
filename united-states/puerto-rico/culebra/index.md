@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Culebra
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.9%
+the "Estimated Prevalence" of COVID in this county is 5.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.9%
-- 2 people: 16.9%
-- 3 people: 24.3%
-- 5 people: 37.1%
-- 10 people: 60.5%
-- 25 people: 90.2%
-- 100 people: 100.0%
+- 1 person: 5.7%
+- 2 people: 11.0%
+- 3 people: 16.0%
+- 5 people: 25.3%
+- 10 people: 44.1%
+- 25 people: 76.7%
+- 100 people: 99.7%
 
-Last updated: 2021-12-29 00:38:32.779164 UTC
+Last updated: 2021-12-30 00:38:43.647153 UTC

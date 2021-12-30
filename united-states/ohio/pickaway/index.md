@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Pickaway
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.3%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.3%
-- 2 people: 2.6%
-- 3 people: 3.9%
-- 5 people: 6.4%
-- 10 people: 12.4%
-- 25 people: 28.2%
-- 100 people: 73.5%
+- 1 person: 1.9%
+- 2 people: 3.8%
+- 3 people: 5.6%
+- 5 people: 9.1%
+- 10 people: 17.5%
+- 25 people: 38.1%
+- 100 people: 85.3%
 
-Last updated: 2021-12-29 00:38:26.123450 UTC
+Last updated: 2021-12-30 00:38:37.512032 UTC

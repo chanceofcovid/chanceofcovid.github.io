@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Carolina
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.1%
+the "Estimated Prevalence" of COVID in this county is 9.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.1%
-- 2 people: 15.5%
-- 3 people: 22.3%
-- 5 people: 34.4%
-- 10 people: 56.9%
-- 25 people: 87.8%
+- 1 person: 9.2%
+- 2 people: 17.5%
+- 3 people: 25.0%
+- 5 people: 38.1%
+- 10 people: 61.7%
+- 25 people: 90.9%
 - 100 people: 100.0%
 
-Last updated: 2021-12-30 00:38:43.645656 UTC
+Last updated: 2021-12-31 00:40:16.966263 UTC

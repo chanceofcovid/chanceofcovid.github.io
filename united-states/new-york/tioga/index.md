@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Tioga
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.1%
-- 3 people: 3.1%
-- 5 people: 5.1%
-- 10 people: 9.9%
-- 25 people: 22.9%
-- 100 people: 64.7%
+- 1 person: 1.3%
+- 2 people: 2.6%
+- 3 people: 3.9%
+- 5 people: 6.3%
+- 10 people: 12.3%
+- 25 people: 27.9%
+- 100 people: 73.0%
 
-Last updated: 2021-12-30 00:38:36.491810 UTC
+Last updated: 2021-12-31 00:40:12.135105 UTC

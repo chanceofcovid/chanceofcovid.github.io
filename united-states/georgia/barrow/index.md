@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Barrow
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.2%
-- 3 people: 7.8%
-- 5 people: 12.6%
-- 10 people: 23.6%
-- 25 people: 49.0%
-- 100 people: 93.2%
+- 1 person: 3.1%
+- 2 people: 6.2%
+- 3 people: 9.1%
+- 5 people: 14.7%
+- 10 people: 27.3%
+- 25 people: 54.9%
+- 100 people: 95.9%
 
-Last updated: 2021-12-30 00:38:28.431511 UTC
+Last updated: 2021-12-31 00:40:07.400697 UTC

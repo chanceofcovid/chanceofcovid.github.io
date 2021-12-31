@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Mellette
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.2%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.2%
-- 2 people: 6.2%
-- 3 people: 9.2%
-- 5 people: 14.8%
-- 10 people: 27.5%
-- 25 people: 55.2%
-- 100 people: 96.0%
+- 1 person: 3.9%
+- 2 people: 7.6%
+- 3 people: 11.2%
+- 5 people: 18.0%
+- 10 people: 32.8%
+- 25 people: 62.9%
+- 100 people: 98.1%
 
-Last updated: 2021-12-30 00:38:39.505210 UTC
+Last updated: 2021-12-31 00:40:14.404554 UTC

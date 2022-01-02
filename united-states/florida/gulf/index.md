@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Gulf
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.6%
-- 5 people: 1.0%
-- 10 people: 2.0%
-- 25 people: 5.0%
-- 100 people: 18.5%
+- 1 person: 1.3%
+- 2 people: 2.6%
+- 3 people: 3.9%
+- 5 people: 6.5%
+- 10 people: 12.5%
+- 25 people: 28.4%
+- 100 people: 73.7%
 
-Last updated: 2022-01-01 00:40:12.255887 UTC
+Last updated: 2022-01-02 00:40:43.969457 UTC

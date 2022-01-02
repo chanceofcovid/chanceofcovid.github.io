@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Warren
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.3%
+the "Estimated Prevalence" of COVID in this county is 1.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.3%
-- 2 people: 2.6%
-- 3 people: 3.9%
-- 5 people: 6.3%
-- 10 people: 12.3%
-- 25 people: 27.9%
-- 100 people: 73.0%
+- 1 person: 1.8%
+- 2 people: 3.6%
+- 3 people: 5.3%
+- 5 people: 8.7%
+- 10 people: 16.6%
+- 25 people: 36.5%
+- 100 people: 83.7%
 
-Last updated: 2022-01-01 00:40:13.004001 UTC
+Last updated: 2022-01-02 00:40:44.712915 UTC

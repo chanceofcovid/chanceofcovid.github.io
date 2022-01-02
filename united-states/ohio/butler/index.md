@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Butler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 2.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 3.1%
-- 3 people: 4.5%
-- 5 people: 7.5%
-- 10 people: 14.4%
-- 25 people: 32.1%
-- 100 people: 78.8%
+- 1 person: 2.7%
+- 2 people: 5.4%
+- 3 people: 8.0%
+- 5 people: 12.9%
+- 10 people: 24.2%
+- 25 people: 50.0%
+- 100 people: 93.7%
 
-Last updated: 2022-01-01 00:40:17.048040 UTC
+Last updated: 2022-01-02 00:40:52.904573 UTC

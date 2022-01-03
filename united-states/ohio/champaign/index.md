@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Champaign
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.1%
-- 5 people: 8.3%
-- 10 people: 16.0%
-- 25 people: 35.3%
-- 100 people: 82.4%
+- 1 person: 1.9%
+- 2 people: 3.9%
+- 3 people: 5.7%
+- 5 people: 9.4%
+- 10 people: 17.8%
+- 25 people: 38.8%
+- 100 people: 86.0%
 
-Last updated: 2022-01-02 00:40:52.904958 UTC
+Last updated: 2022-01-03 00:38:58.371630 UTC

@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Nevada
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.5%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.5%
-- 2 people: 5.0%
-- 3 people: 7.4%
-- 5 people: 12.1%
-- 10 people: 22.7%
-- 25 people: 47.5%
-- 100 people: 92.4%
+- 1 person: 2.9%
+- 2 people: 5.8%
+- 3 people: 8.5%
+- 5 people: 13.8%
+- 10 people: 25.7%
+- 25 people: 52.4%
+- 100 people: 94.9%
 
-Last updated: 2022-01-02 00:40:42.914581 UTC
+Last updated: 2022-01-03 00:38:45.367592 UTC

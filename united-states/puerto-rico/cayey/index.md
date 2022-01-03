@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Cayey
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.7%
+the "Estimated Prevalence" of COVID in this county is 4.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.7%
-- 2 people: 20.2%
-- 3 people: 28.7%
-- 5 people: 43.1%
-- 10 people: 67.6%
-- 25 people: 94.0%
-- 100 people: 100.0%
+- 1 person: 4.9%
+- 2 people: 9.5%
+- 3 people: 13.9%
+- 5 people: 22.0%
+- 10 people: 39.2%
+- 25 people: 71.2%
+- 100 people: 99.3%
 
-Last updated: 2022-01-02 00:40:56.392036 UTC
+Last updated: 2022-01-03 00:39:04.986982 UTC

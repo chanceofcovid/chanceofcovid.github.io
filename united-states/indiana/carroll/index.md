@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Carroll
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.0%
-- 3 people: 3.1%
-- 5 people: 5.0%
-- 10 people: 9.8%
-- 25 people: 22.8%
-- 100 people: 64.5%
+- 1 person: 2.0%
+- 2 people: 3.9%
+- 3 people: 5.8%
+- 5 people: 9.5%
+- 10 people: 18.2%
+- 25 people: 39.5%
+- 100 people: 86.6%
 
-Last updated: 2022-01-06 00:42:28.078648 UTC
+Last updated: 2022-01-07 00:43:05.183777 UTC

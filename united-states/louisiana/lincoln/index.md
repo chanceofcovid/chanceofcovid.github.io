@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Lincoln
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 5.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.2%
-- 3 people: 7.8%
-- 5 people: 12.6%
-- 10 people: 23.6%
-- 25 people: 49.0%
-- 100 people: 93.2%
+- 1 person: 5.8%
+- 2 people: 11.4%
+- 3 people: 16.5%
+- 5 people: 26.0%
+- 10 people: 45.3%
+- 25 people: 77.8%
+- 100 people: 99.8%
 
-Last updated: 2022-01-06 00:42:29.476931 UTC
+Last updated: 2022-01-07 00:43:06.090591 UTC

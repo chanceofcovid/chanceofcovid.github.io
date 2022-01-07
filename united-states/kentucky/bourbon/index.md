@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Bourbon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.2%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.2%
-- 2 people: 4.4%
-- 3 people: 6.5%
-- 5 people: 10.6%
-- 10 people: 20.1%
-- 25 people: 42.9%
-- 100 people: 89.3%
+- 1 person: 3.2%
+- 2 people: 6.2%
+- 3 people: 9.2%
+- 5 people: 14.8%
+- 10 people: 27.4%
+- 25 people: 55.1%
+- 100 people: 95.9%
 
-Last updated: 2022-01-06 00:42:29.156010 UTC
+Last updated: 2022-01-07 00:43:05.871553 UTC

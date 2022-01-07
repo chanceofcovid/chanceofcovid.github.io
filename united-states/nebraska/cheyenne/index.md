@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Cheyenne
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 2.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.9%
-- 5 people: 1.4%
-- 10 people: 2.9%
-- 25 people: 7.0%
-- 100 people: 25.2%
+- 1 person: 2.5%
+- 2 people: 5.0%
+- 3 people: 7.4%
+- 5 people: 12.1%
+- 10 people: 22.7%
+- 25 people: 47.4%
+- 100 people: 92.4%
 
-Last updated: 2022-01-06 00:42:32.694820 UTC
+Last updated: 2022-01-07 00:43:18.247744 UTC

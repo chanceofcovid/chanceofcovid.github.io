@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Maverick
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 11.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.3%
-- 3 people: 4.9%
-- 5 people: 8.1%
-- 10 people: 15.5%
-- 25 people: 34.4%
-- 100 people: 81.5%
+- 1 person: 11.4%
+- 2 people: 21.6%
+- 3 people: 30.5%
+- 5 people: 45.5%
+- 10 people: 70.3%
+- 25 people: 95.2%
+- 100 people: 100.0%
 
-Last updated: 2022-01-06 00:42:38.845025 UTC
+Last updated: 2022-01-07 00:43:28.730770 UTC

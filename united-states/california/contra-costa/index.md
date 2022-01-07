@@ -2,18 +2,18 @@
 ## [California](/united-states/california) / Contra Costa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 9.0%
-- 10 people: 17.2%
-- 25 people: 37.5%
-- 100 people: 84.8%
+- 1 person: 3.5%
+- 2 people: 6.9%
+- 3 people: 10.2%
+- 5 people: 16.4%
+- 10 people: 30.1%
+- 25 people: 59.2%
+- 100 people: 97.2%
 
-Last updated: 2022-01-06 00:42:23.810249 UTC
+Last updated: 2022-01-07 00:42:57.706009 UTC

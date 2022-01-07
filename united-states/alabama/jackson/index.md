@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Jackson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.7%
-- 10 people: 9.2%
-- 25 people: 21.4%
-- 100 people: 61.8%
+- 1 person: 3.1%
+- 2 people: 6.2%
+- 3 people: 9.1%
+- 5 people: 14.7%
+- 10 people: 27.2%
+- 25 people: 54.8%
+- 100 people: 95.8%
 
-Last updated: 2022-01-06 00:42:21.901640 UTC
+Last updated: 2022-01-07 00:42:51.065129 UTC

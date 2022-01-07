@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Crosby
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 4.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.5%
-- 3 people: 0.7%
-- 5 people: 1.2%
-- 10 people: 2.5%
-- 25 people: 6.0%
-- 100 people: 22.0%
+- 1 person: 4.6%
+- 2 people: 9.0%
+- 3 people: 13.2%
+- 5 people: 21.0%
+- 10 people: 37.7%
+- 25 people: 69.3%
+- 100 people: 99.1%
 
-Last updated: 2022-01-06 00:42:38.826443 UTC
+Last updated: 2022-01-07 00:43:28.710723 UTC

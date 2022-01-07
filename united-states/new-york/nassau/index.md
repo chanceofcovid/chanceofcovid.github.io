@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Nassau
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.0%
+the "Estimated Prevalence" of COVID in this county is 13.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.0%
-- 2 people: 24.4%
-- 3 people: 34.2%
-- 5 people: 50.2%
-- 10 people: 75.2%
-- 25 people: 96.9%
+- 1 person: 13.8%
+- 2 people: 25.7%
+- 3 people: 36.0%
+- 5 people: 52.4%
+- 10 people: 77.4%
+- 25 people: 97.6%
 - 100 people: 100.0%
 
-Last updated: 2022-01-06 00:42:34.428285 UTC
+Last updated: 2022-01-07 00:43:26.091650 UTC

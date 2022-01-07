@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Hale
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 1.9%
-- 3 people: 2.9%
-- 5 people: 4.7%
-- 10 people: 9.2%
-- 25 people: 21.5%
-- 100 people: 62.0%
+- 1 person: 2.9%
+- 2 people: 5.8%
+- 3 people: 8.5%
+- 5 people: 13.8%
+- 10 people: 25.7%
+- 25 people: 52.4%
+- 100 people: 94.9%
 
-Last updated: 2022-01-06 00:42:38.833509 UTC
+Last updated: 2022-01-07 00:43:28.718414 UTC

@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Garza
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.5%
-- 3 people: 3.7%
-- 5 people: 6.0%
-- 10 people: 11.7%
-- 25 people: 26.7%
-- 100 people: 71.2%
+- 1 person: 1.3%
+- 2 people: 2.6%
+- 3 people: 3.9%
+- 5 people: 6.5%
+- 10 people: 12.5%
+- 25 people: 28.4%
+- 100 people: 73.7%
 
-Last updated: 2022-01-07 00:43:28.716495 UTC
+Last updated: 2022-01-08 00:40:32.300318 UTC

@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Tangipahoa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.5%
+the "Estimated Prevalence" of COVID in this county is 6.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.5%
-- 2 people: 12.6%
-- 3 people: 18.3%
-- 5 people: 28.6%
-- 10 people: 49.0%
-- 25 people: 81.4%
-- 100 people: 99.9%
+- 1 person: 6.3%
+- 2 people: 12.2%
+- 3 people: 17.7%
+- 5 people: 27.7%
+- 10 people: 47.7%
+- 25 people: 80.2%
+- 100 people: 99.8%
 
-Last updated: 2022-01-07 00:43:06.094689 UTC
+Last updated: 2022-01-08 00:40:05.837689 UTC

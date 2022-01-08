@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / Lee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.5%
+the "Estimated Prevalence" of COVID in this county is 7.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.5%
-- 2 people: 12.6%
-- 3 people: 18.3%
-- 5 people: 28.6%
-- 10 people: 49.1%
-- 25 people: 81.5%
+- 1 person: 7.2%
+- 2 people: 13.9%
+- 3 people: 20.2%
+- 5 people: 31.3%
+- 10 people: 52.8%
+- 25 people: 84.7%
 - 100 people: 99.9%
 
-Last updated: 2022-01-07 00:43:28.114795 UTC
+Last updated: 2022-01-08 00:40:31.690047 UTC

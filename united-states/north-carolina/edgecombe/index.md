@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Edgecombe
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.8%
+the "Estimated Prevalence" of COVID in this county is 10.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.8%
-- 2 people: 18.6%
-- 3 people: 26.6%
-- 5 people: 40.3%
-- 10 people: 64.3%
-- 25 people: 92.4%
+- 1 person: 10.3%
+- 2 people: 19.5%
+- 3 people: 27.7%
+- 5 people: 41.8%
+- 10 people: 66.1%
+- 25 people: 93.3%
 - 100 people: 100.0%
 
-Last updated: 2022-01-07 00:43:26.625937 UTC
+Last updated: 2022-01-08 00:40:11.329373 UTC

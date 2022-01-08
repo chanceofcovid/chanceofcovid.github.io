@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Columbia
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.7%
-- 3 people: 14.1%
-- 5 people: 22.4%
-- 10 people: 39.8%
-- 25 people: 71.9%
-- 100 people: 99.4%
+- 1 person: 4.1%
+- 2 people: 8.0%
+- 3 people: 11.7%
+- 5 people: 18.8%
+- 10 people: 34.0%
+- 25 people: 64.6%
+- 100 people: 98.4%
 
-Last updated: 2022-01-07 00:43:30.048319 UTC
+Last updated: 2022-01-08 00:40:38.129016 UTC

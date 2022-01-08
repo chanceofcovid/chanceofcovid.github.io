@@ -2,18 +2,18 @@
 ## [Maryland](/united-states/maryland) / Allegany
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.5%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.5%
-- 2 people: 5.0%
-- 3 people: 7.4%
-- 5 people: 12.0%
-- 10 people: 22.5%
-- 25 people: 47.2%
-- 100 people: 92.2%
+- 1 person: 3.2%
+- 2 people: 6.2%
+- 3 people: 9.2%
+- 5 people: 14.8%
+- 10 people: 27.4%
+- 25 people: 55.2%
+- 100 people: 96.0%
 
-Last updated: 2022-01-07 00:43:13.644441 UTC
+Last updated: 2022-01-08 00:40:06.318332 UTC

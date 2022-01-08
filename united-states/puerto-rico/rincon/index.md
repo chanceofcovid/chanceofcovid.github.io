@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Rincon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.4%
+the "Estimated Prevalence" of COVID in this county is 14.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.4%
-- 2 people: 24.9%
-- 3 people: 35.0%
-- 5 people: 51.2%
-- 10 people: 76.2%
-- 25 people: 97.2%
+- 1 person: 14.8%
+- 2 people: 27.4%
+- 3 people: 38.2%
+- 5 people: 55.1%
+- 10 people: 79.9%
+- 25 people: 98.2%
 - 100 people: 100.0%
 
-Last updated: 2022-01-07 00:43:30.864804 UTC
+Last updated: 2022-01-08 00:40:38.926940 UTC

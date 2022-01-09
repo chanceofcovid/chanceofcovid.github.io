@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Washington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.3%
+the "Estimated Prevalence" of COVID in this county is 9.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.3%
-- 2 people: 14.1%
-- 3 people: 20.4%
-- 5 people: 31.6%
-- 10 people: 53.2%
-- 25 people: 85.0%
+- 1 person: 9.0%
+- 2 people: 17.2%
+- 3 people: 24.6%
+- 5 people: 37.6%
+- 10 people: 61.0%
+- 25 people: 90.5%
 - 100 people: 100.0%
 
-Last updated: 2022-01-08 00:40:04.652381 UTC
+Last updated: 2022-01-09 00:41:37.733189 UTC

@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Pennington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.3%
+the "Estimated Prevalence" of COVID in this county is 5.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.3%
-- 2 people: 8.4%
-- 3 people: 12.3%
-- 5 people: 19.6%
-- 10 people: 35.4%
-- 25 people: 66.4%
-- 100 people: 98.7%
+- 1 person: 5.4%
+- 2 people: 10.4%
+- 3 people: 15.2%
+- 5 people: 24.1%
+- 10 people: 42.4%
+- 25 people: 74.8%
+- 100 people: 99.6%
 
-Last updated: 2022-01-08 00:40:31.877938 UTC
+Last updated: 2022-01-09 00:41:53.354845 UTC

@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Newport News
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.7%
+the "Estimated Prevalence" of COVID in this county is 6.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.7%
-- 2 people: 14.9%
-- 3 people: 21.5%
-- 5 people: 33.2%
-- 10 people: 55.4%
-- 25 people: 86.7%
-- 100 people: 100.0%
+- 1 person: 6.6%
+- 2 people: 12.8%
+- 3 people: 18.6%
+- 5 people: 29.0%
+- 10 people: 49.6%
+- 25 people: 82.0%
+- 100 people: 99.9%
 
-Last updated: 2022-01-08 00:40:32.916736 UTC
+Last updated: 2022-01-09 00:41:54.313540 UTC

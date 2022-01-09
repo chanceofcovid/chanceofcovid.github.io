@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Phillips
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.3%
-- 3 people: 4.8%
-- 5 people: 7.9%
-- 10 people: 15.2%
-- 25 people: 33.8%
-- 100 people: 80.8%
+- 1 person: 3.2%
+- 2 people: 6.3%
+- 3 people: 9.3%
+- 5 people: 15.0%
+- 10 people: 27.8%
+- 25 people: 55.7%
+- 100 people: 96.2%
 
-Last updated: 2022-01-08 00:40:05.376213 UTC
+Last updated: 2022-01-09 00:41:38.349961 UTC

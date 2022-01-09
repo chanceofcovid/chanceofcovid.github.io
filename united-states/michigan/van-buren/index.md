@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Van Buren
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.4%
+the "Estimated Prevalence" of COVID in this county is 5.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.4%
-- 2 people: 6.8%
-- 3 people: 10.0%
-- 5 people: 16.1%
-- 10 people: 29.6%
-- 25 people: 58.4%
-- 100 people: 97.0%
+- 1 person: 5.6%
+- 2 people: 10.8%
+- 3 people: 15.8%
+- 5 people: 24.9%
+- 10 people: 43.6%
+- 25 people: 76.2%
+- 100 people: 99.7%
 
-Last updated: 2022-01-08 00:40:06.753757 UTC
+Last updated: 2022-01-09 00:41:39.491987 UTC

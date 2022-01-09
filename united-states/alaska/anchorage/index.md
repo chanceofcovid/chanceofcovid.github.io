@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Anchorage
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.3%
+the "Estimated Prevalence" of COVID in this county is 8.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.3%
-- 2 people: 8.3%
-- 3 people: 12.2%
-- 5 people: 19.5%
-- 10 people: 35.2%
-- 25 people: 66.3%
-- 100 people: 98.7%
+- 1 person: 8.1%
+- 2 people: 15.6%
+- 3 people: 22.5%
+- 5 people: 34.6%
+- 10 people: 57.2%
+- 25 people: 88.0%
+- 100 people: 100.0%
 
-Last updated: 2022-01-08 00:39:55.339555 UTC
+Last updated: 2022-01-09 00:41:33.625340 UTC

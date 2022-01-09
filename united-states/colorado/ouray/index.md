@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Ouray
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.3%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.3%
-- 2 people: 12.2%
-- 3 people: 17.7%
-- 5 people: 27.7%
-- 10 people: 47.8%
-- 25 people: 80.3%
-- 100 people: 99.8%
+- 1 person: 3.5%
+- 2 people: 6.8%
+- 3 people: 10.0%
+- 5 people: 16.1%
+- 10 people: 29.6%
+- 25 people: 58.4%
+- 100 people: 97.0%
 
-Last updated: 2022-01-08 00:39:56.364989 UTC
+Last updated: 2022-01-09 00:41:34.441217 UTC

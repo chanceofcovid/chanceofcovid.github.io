@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Avoyelles
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 6.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.7%
-- 3 people: 14.2%
-- 5 people: 22.5%
-- 10 people: 39.9%
-- 25 people: 72.0%
-- 100 people: 99.4%
+- 1 person: 6.1%
+- 2 people: 11.8%
+- 3 people: 17.1%
+- 5 people: 26.8%
+- 10 people: 46.5%
+- 25 people: 79.1%
+- 100 people: 99.8%
 
-Last updated: 2022-01-08 00:40:05.827108 UTC
+Last updated: 2022-01-09 00:41:38.734278 UTC

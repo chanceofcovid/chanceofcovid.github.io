@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Maunabo
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.3%
+the "Estimated Prevalence" of COVID in this county is 7.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.3%
-- 2 people: 21.4%
-- 3 people: 30.3%
-- 5 people: 45.2%
-- 10 people: 70.0%
-- 25 people: 95.1%
+- 1 person: 7.7%
+- 2 people: 14.8%
+- 3 people: 21.3%
+- 5 people: 32.9%
+- 10 people: 55.0%
+- 25 people: 86.4%
 - 100 people: 100.0%
 
-Last updated: 2022-01-08 00:40:38.924770 UTC
+Last updated: 2022-01-09 00:41:55.646198 UTC

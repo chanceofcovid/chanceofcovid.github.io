@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Butler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.8%
+the "Estimated Prevalence" of COVID in this county is 7.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.8%
-- 2 people: 13.2%
-- 3 people: 19.2%
-- 5 people: 29.8%
-- 10 people: 50.8%
-- 25 people: 83.0%
+- 1 person: 7.0%
+- 2 people: 13.5%
+- 3 people: 19.5%
+- 5 people: 30.3%
+- 10 people: 51.5%
+- 25 people: 83.6%
 - 100 people: 99.9%
 
-Last updated: 2022-01-09 00:41:52.799580 UTC
+Last updated: 2022-01-10 00:40:41.594379 UTC

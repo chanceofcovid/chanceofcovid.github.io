@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Schuyler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 6.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.7%
-- 3 people: 14.2%
-- 5 people: 22.5%
-- 10 people: 40.0%
-- 25 people: 72.1%
-- 100 people: 99.4%
+- 1 person: 6.3%
+- 2 people: 12.1%
+- 3 people: 17.6%
+- 5 people: 27.6%
+- 10 people: 47.6%
+- 25 people: 80.1%
+- 100 people: 99.8%
 
-Last updated: 2022-01-09 00:41:47.619832 UTC
+Last updated: 2022-01-10 00:40:39.072519 UTC

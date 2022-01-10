@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Shoshone
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.3%
-- 3 people: 3.4%
-- 5 people: 5.6%
-- 10 people: 10.8%
-- 25 people: 24.9%
-- 100 people: 68.1%
+- 1 person: 1.4%
+- 2 people: 2.9%
+- 3 people: 4.3%
+- 5 people: 7.0%
+- 10 people: 13.5%
+- 25 people: 30.4%
+- 100 people: 76.5%
 
-Last updated: 2022-01-09 00:41:37.524111 UTC
+Last updated: 2022-01-10 00:40:21.863580 UTC

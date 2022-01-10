@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Butler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.3%
+the "Estimated Prevalence" of COVID in this county is 9.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.3%
-- 2 people: 16.0%
-- 3 people: 22.9%
-- 5 people: 35.2%
-- 10 people: 58.1%
-- 25 people: 88.6%
+- 1 person: 9.0%
+- 2 people: 17.2%
+- 3 people: 24.6%
+- 5 people: 37.6%
+- 10 people: 61.0%
+- 25 people: 90.5%
 - 100 people: 100.0%
 
-Last updated: 2022-01-09 00:41:33.440405 UTC
+Last updated: 2022-01-10 00:39:38.901426 UTC

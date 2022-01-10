@@ -10,10 +10,10 @@ If you interact with a certain number of people in this location
 
 - 1 person: 5.7%
 - 2 people: 11.1%
-- 3 people: 16.2%
+- 3 people: 16.1%
 - 5 people: 25.4%
 - 10 people: 44.4%
-- 25 people: 77.0%
+- 25 people: 76.9%
 - 100 people: 99.7%
 
-Last updated: 2022-01-09 00:41:36.757351 UTC
+Last updated: 2022-01-10 00:39:56.455545 UTC

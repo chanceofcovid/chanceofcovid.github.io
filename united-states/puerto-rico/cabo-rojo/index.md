@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Cabo Rojo
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 6.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.8%
-- 3 people: 11.5%
-- 5 people: 18.4%
-- 10 people: 33.3%
-- 25 people: 63.7%
-- 100 people: 98.3%
+- 1 person: 6.1%
+- 2 people: 11.9%
+- 3 people: 17.3%
+- 5 people: 27.1%
+- 10 people: 46.9%
+- 25 people: 79.5%
+- 100 people: 99.8%
 
-Last updated: 2022-01-09 00:41:55.638393 UTC
+Last updated: 2022-01-10 00:41:15.776814 UTC

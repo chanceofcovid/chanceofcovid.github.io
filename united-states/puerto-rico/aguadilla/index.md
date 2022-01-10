@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Aguadilla
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.9%
+the "Estimated Prevalence" of COVID in this county is 12.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.9%
-- 2 people: 18.7%
-- 3 people: 26.7%
-- 5 people: 40.5%
-- 10 people: 64.6%
-- 25 people: 92.5%
+- 1 person: 12.6%
+- 2 people: 23.6%
+- 3 people: 33.2%
+- 5 people: 49.0%
+- 10 people: 74.0%
+- 25 people: 96.5%
 - 100 people: 100.0%
 
-Last updated: 2022-01-09 00:41:55.636989 UTC
+Last updated: 2022-01-10 00:41:15.775288 UTC

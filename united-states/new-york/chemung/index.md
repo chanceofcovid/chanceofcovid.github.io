@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Chemung
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.2%
+the "Estimated Prevalence" of COVID in this county is 11.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.2%
-- 2 people: 17.5%
-- 3 people: 25.1%
-- 5 people: 38.3%
-- 10 people: 61.9%
-- 25 people: 91.0%
+- 1 person: 11.1%
+- 2 people: 20.9%
+- 3 people: 29.7%
+- 5 people: 44.4%
+- 10 people: 69.1%
+- 25 people: 94.7%
 - 100 people: 100.0%
 
-Last updated: 2022-01-10 00:40:39.065423 UTC
+Last updated: 2022-01-11 00:41:43.884534 UTC

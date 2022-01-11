@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Broome
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.3%
+the "Estimated Prevalence" of COVID in this county is 10.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.3%
-- 2 people: 17.8%
-- 3 people: 25.5%
-- 5 people: 38.8%
-- 10 people: 62.5%
-- 25 people: 91.4%
+- 1 person: 10.9%
+- 2 people: 20.6%
+- 3 people: 29.2%
+- 5 people: 43.7%
+- 10 people: 68.3%
+- 25 people: 94.4%
 - 100 people: 100.0%
 
-Last updated: 2022-01-10 00:40:39.064630 UTC
+Last updated: 2022-01-11 00:41:43.883778 UTC

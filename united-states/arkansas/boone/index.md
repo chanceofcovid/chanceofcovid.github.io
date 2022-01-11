@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Boone
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.1%
+the "Estimated Prevalence" of COVID in this county is 3.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.1%
-- 2 people: 8.1%
-- 3 people: 11.9%
-- 5 people: 19.1%
-- 10 people: 34.5%
-- 25 people: 65.3%
-- 100 people: 98.5%
+- 1 person: 3.7%
+- 2 people: 7.3%
+- 3 people: 10.8%
+- 5 people: 17.3%
+- 10 people: 31.7%
+- 25 people: 61.4%
+- 100 people: 97.8%
 
-Last updated: 2022-01-10 00:39:53.044469 UTC
+Last updated: 2022-01-11 00:41:33.395285 UTC

@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Andrews
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.6%
+the "Estimated Prevalence" of COVID in this county is 6.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.6%
-- 2 people: 12.8%
-- 3 people: 18.6%
-- 5 people: 29.0%
-- 10 people: 49.5%
-- 25 people: 81.9%
+- 1 person: 6.8%
+- 2 people: 13.2%
+- 3 people: 19.2%
+- 5 people: 29.8%
+- 10 people: 50.8%
+- 25 people: 83.0%
 - 100 people: 99.9%
 
-Last updated: 2022-01-10 00:40:46.621753 UTC
+Last updated: 2022-01-11 00:42:04.597721 UTC

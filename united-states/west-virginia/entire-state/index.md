@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.3%
+the "Estimated Prevalence" of COVID in this county is 8.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.3%
-- 2 people: 15.9%
-- 3 people: 22.8%
-- 5 people: 35.1%
-- 10 people: 57.9%
-- 25 people: 88.5%
+- 1 person: 8.9%
+- 2 people: 17.1%
+- 3 people: 24.5%
+- 5 people: 37.4%
+- 10 people: 60.8%
+- 25 people: 90.4%
 - 100 people: 100.0%
 
-Last updated: 2022-01-10 00:41:13.648554 UTC
+Last updated: 2022-01-11 00:42:05.891990 UTC

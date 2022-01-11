@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Wheeler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.4%
+the "Estimated Prevalence" of COVID in this county is 4.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.4%
-- 2 people: 8.5%
-- 3 people: 12.5%
-- 5 people: 20.0%
-- 10 people: 36.0%
-- 25 people: 67.3%
-- 100 people: 98.9%
+- 1 person: 4.9%
+- 2 people: 9.5%
+- 3 people: 13.9%
+- 5 people: 22.1%
+- 10 people: 39.3%
+- 25 people: 71.3%
+- 100 people: 99.3%
 
-Last updated: 2022-01-10 00:40:46.666471 UTC
+Last updated: 2022-01-11 00:42:04.636962 UTC

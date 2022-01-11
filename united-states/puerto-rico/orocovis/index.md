@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Orocovis
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.5%
+the "Estimated Prevalence" of COVID in this county is 3.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.5%
-- 2 people: 10.6%
-- 3 people: 15.5%
-- 5 people: 24.5%
-- 10 people: 43.0%
-- 25 people: 75.5%
-- 100 people: 99.6%
+- 1 person: 3.3%
+- 2 people: 6.4%
+- 3 people: 9.4%
+- 5 people: 15.2%
+- 10 people: 28.1%
+- 25 people: 56.2%
+- 100 people: 96.3%
 
-Last updated: 2022-01-10 00:41:15.784005 UTC
+Last updated: 2022-01-11 00:42:07.101385 UTC

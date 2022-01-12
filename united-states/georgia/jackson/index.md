@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Jackson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.4%
+the "Estimated Prevalence" of COVID in this county is 12.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.4%
-- 2 people: 6.7%
-- 3 people: 9.9%
-- 5 people: 15.9%
-- 10 people: 29.3%
-- 25 people: 57.9%
-- 100 people: 96.9%
+- 1 person: 12.2%
+- 2 people: 22.9%
+- 3 people: 32.3%
+- 5 people: 47.7%
+- 10 people: 72.7%
+- 25 people: 96.1%
+- 100 people: 100.0%
 
-Last updated: 2022-01-11 00:41:35.116586 UTC
+Last updated: 2022-01-12 00:41:07.764539 UTC

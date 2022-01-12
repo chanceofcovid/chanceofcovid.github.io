@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Finney
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 5.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.6%
-- 3 people: 14.0%
-- 5 people: 22.2%
-- 10 people: 39.5%
-- 25 people: 71.5%
-- 100 people: 99.3%
+- 1 person: 5.8%
+- 2 people: 11.3%
+- 3 people: 16.4%
+- 5 people: 25.8%
+- 10 people: 45.0%
+- 25 people: 77.5%
+- 100 people: 99.7%
 
-Last updated: 2022-01-11 00:41:36.552508 UTC
+Last updated: 2022-01-12 00:41:10.320622 UTC

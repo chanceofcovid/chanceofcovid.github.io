@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Guanica
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.0%
+the "Estimated Prevalence" of COVID in this county is 5.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.0%
-- 2 people: 19.0%
-- 3 people: 27.1%
-- 5 people: 41.0%
-- 10 people: 65.1%
-- 25 people: 92.8%
-- 100 people: 100.0%
+- 1 person: 5.4%
+- 2 people: 10.4%
+- 3 people: 15.2%
+- 5 people: 24.1%
+- 10 people: 42.3%
+- 25 people: 74.8%
+- 100 people: 99.6%
 
-Last updated: 2022-01-11 00:42:07.096715 UTC
+Last updated: 2022-01-12 00:41:29.217067 UTC

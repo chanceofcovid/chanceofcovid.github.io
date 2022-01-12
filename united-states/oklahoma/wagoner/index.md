@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Wagoner
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.4%
+the "Estimated Prevalence" of COVID in this county is 11.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.4%
-- 2 people: 19.7%
-- 3 people: 28.1%
-- 5 people: 42.3%
-- 10 people: 66.7%
-- 25 people: 93.6%
+- 1 person: 11.0%
+- 2 people: 20.7%
+- 3 people: 29.4%
+- 5 people: 44.1%
+- 10 people: 68.7%
+- 25 people: 94.5%
 - 100 people: 100.0%
 
-Last updated: 2022-01-11 00:41:48.663859 UTC
+Last updated: 2022-01-12 00:41:19.646406 UTC

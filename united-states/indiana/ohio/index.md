@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Ohio
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 6.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.5%
-- 3 people: 11.1%
-- 5 people: 17.7%
-- 10 people: 32.3%
-- 25 people: 62.3%
-- 100 people: 98.0%
+- 1 person: 6.3%
+- 2 people: 12.3%
+- 3 people: 17.9%
+- 5 people: 28.0%
+- 10 people: 48.1%
+- 25 people: 80.6%
+- 100 people: 99.9%
 
-Last updated: 2022-01-11 00:41:36.098690 UTC
+Last updated: 2022-01-12 00:41:09.594999 UTC

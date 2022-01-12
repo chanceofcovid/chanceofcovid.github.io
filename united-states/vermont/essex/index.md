@@ -2,18 +2,18 @@
 ## [Vermont](/united-states/vermont) / Essex
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.0%
-- 3 people: 8.9%
-- 5 people: 14.4%
-- 10 people: 26.8%
-- 25 people: 54.1%
-- 100 people: 95.6%
+- 1 person: 1.4%
+- 2 people: 2.8%
+- 3 people: 4.2%
+- 5 people: 6.9%
+- 10 people: 13.4%
+- 25 people: 30.2%
+- 100 people: 76.3%
 
-Last updated: 2022-01-11 00:42:05.065804 UTC
+Last updated: 2022-01-12 00:41:26.080737 UTC

@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Webb
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.2%
+the "Estimated Prevalence" of COVID in this county is 11.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.2%
-- 2 people: 24.6%
-- 3 people: 34.5%
-- 5 people: 50.6%
-- 10 people: 75.6%
-- 25 people: 97.1%
+- 1 person: 11.3%
+- 2 people: 21.4%
+- 3 people: 30.3%
+- 5 people: 45.2%
+- 10 people: 70.0%
+- 25 people: 95.1%
 - 100 people: 100.0%
 
-Last updated: 2022-01-11 00:42:04.636643 UTC
+Last updated: 2022-01-12 00:41:25.382924 UTC

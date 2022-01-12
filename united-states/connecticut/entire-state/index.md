@@ -2,18 +2,18 @@
 ## [Connecticut](/united-states/connecticut) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.7%
+the "Estimated Prevalence" of COVID in this county is 8.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.7%
-- 2 people: 16.7%
-- 3 people: 24.0%
-- 5 people: 36.7%
-- 10 people: 59.9%
-- 25 people: 89.8%
+- 1 person: 8.8%
+- 2 people: 16.9%
+- 3 people: 24.2%
+- 5 people: 37.0%
+- 10 people: 60.3%
+- 25 people: 90.0%
 - 100 people: 100.0%
 
-Last updated: 2022-01-11 00:41:34.237909 UTC
+Last updated: 2022-01-12 00:41:06.200487 UTC

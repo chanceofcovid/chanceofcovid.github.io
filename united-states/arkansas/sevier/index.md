@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Sevier
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.7%
+the "Estimated Prevalence" of COVID in this county is 7.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.7%
-- 2 people: 11.1%
-- 3 people: 16.2%
-- 5 people: 25.5%
-- 10 people: 44.5%
-- 25 people: 77.0%
-- 100 people: 99.7%
+- 1 person: 7.4%
+- 2 people: 14.2%
+- 3 people: 20.5%
+- 5 people: 31.8%
+- 10 people: 53.4%
+- 25 people: 85.2%
+- 100 people: 100.0%
 
-Last updated: 2022-01-11 00:41:33.405543 UTC
+Last updated: 2022-01-12 00:40:48.658400 UTC

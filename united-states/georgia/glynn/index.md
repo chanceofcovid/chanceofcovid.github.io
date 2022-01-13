@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Glynn
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.4%
+the "Estimated Prevalence" of COVID in this county is 6.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.4%
-- 2 people: 19.8%
-- 3 people: 28.1%
-- 5 people: 42.3%
-- 10 people: 66.7%
-- 25 people: 93.6%
-- 100 people: 100.0%
+- 1 person: 6.5%
+- 2 people: 12.6%
+- 3 people: 18.3%
+- 5 people: 28.6%
+- 10 people: 49.1%
+- 25 people: 81.5%
+- 100 people: 99.9%
 
-Last updated: 2022-01-12 00:41:07.761728 UTC
+Last updated: 2022-01-13 00:42:37.161353 UTC

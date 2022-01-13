@@ -2,18 +2,18 @@
 ## [Massachusetts](/united-states/massachusetts) / Essex
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.8%
+the "Estimated Prevalence" of COVID in this county is 9.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.8%
-- 2 people: 18.6%
-- 3 people: 26.6%
-- 5 people: 40.2%
-- 10 people: 64.3%
-- 25 people: 92.4%
+- 1 person: 9.3%
+- 2 people: 17.8%
+- 3 people: 25.4%
+- 5 people: 38.7%
+- 10 people: 62.4%
+- 25 people: 91.3%
 - 100 people: 100.0%
 
-Last updated: 2022-01-12 00:41:12.509605 UTC
+Last updated: 2022-01-13 00:42:41.045575 UTC

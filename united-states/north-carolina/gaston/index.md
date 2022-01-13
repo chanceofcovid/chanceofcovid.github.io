@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Gaston
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 5.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.9%
-- 3 people: 11.6%
-- 5 people: 18.6%
-- 10 people: 33.8%
-- 25 people: 64.4%
-- 100 people: 98.4%
+- 1 person: 5.8%
+- 2 people: 11.3%
+- 3 people: 16.5%
+- 5 people: 26.0%
+- 10 people: 45.2%
+- 25 people: 77.8%
+- 100 people: 99.8%
 
-Last updated: 2022-01-12 00:41:17.528470 UTC
+Last updated: 2022-01-13 00:42:46.831205 UTC

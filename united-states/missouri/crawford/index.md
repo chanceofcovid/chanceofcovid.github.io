@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Crawford
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.8%
+the "Estimated Prevalence" of COVID in this county is 5.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.8%
-- 2 people: 11.3%
-- 3 people: 16.5%
-- 5 people: 25.9%
-- 10 people: 45.1%
-- 25 people: 77.7%
-- 100 people: 99.8%
+- 1 person: 5.0%
+- 2 people: 9.7%
+- 3 people: 14.3%
+- 5 people: 22.6%
+- 10 people: 40.1%
+- 25 people: 72.2%
+- 100 people: 99.4%
 
-Last updated: 2022-01-12 00:41:14.630546 UTC
+Last updated: 2022-01-13 00:42:42.560932 UTC

@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Noble
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 5.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.5%
-- 3 people: 13.9%
-- 5 people: 22.1%
-- 10 people: 39.3%
-- 25 people: 71.3%
-- 100 people: 99.3%
+- 1 person: 5.4%
+- 2 people: 10.4%
+- 3 people: 15.2%
+- 5 people: 24.0%
+- 10 people: 42.3%
+- 25 people: 74.7%
+- 100 people: 99.6%
 
-Last updated: 2022-01-12 00:41:09.594817 UTC
+Last updated: 2022-01-13 00:42:38.516448 UTC

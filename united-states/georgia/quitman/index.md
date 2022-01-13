@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Quitman
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.9%
+the "Estimated Prevalence" of COVID in this county is 11.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.9%
-- 2 people: 24.1%
-- 3 people: 33.9%
-- 5 people: 49.9%
-- 10 people: 74.9%
-- 25 people: 96.8%
+- 1 person: 11.3%
+- 2 people: 21.4%
+- 3 people: 30.3%
+- 5 people: 45.2%
+- 10 people: 69.9%
+- 25 people: 95.0%
 - 100 people: 100.0%
 
-Last updated: 2022-01-12 00:41:07.771914 UTC
+Last updated: 2022-01-13 00:42:37.169507 UTC

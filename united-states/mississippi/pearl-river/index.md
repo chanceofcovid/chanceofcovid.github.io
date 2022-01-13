@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Pearl River
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 5.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.3%
-- 25 people: 50.2%
-- 100 people: 93.9%
+- 1 person: 5.6%
+- 2 people: 10.9%
+- 3 people: 15.9%
+- 5 people: 25.0%
+- 10 people: 43.8%
+- 25 people: 76.3%
+- 100 people: 99.7%
 
-Last updated: 2022-01-12 00:41:13.866049 UTC
+Last updated: 2022-01-13 00:42:42.086319 UTC

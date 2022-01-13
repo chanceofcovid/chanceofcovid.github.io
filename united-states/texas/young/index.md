@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Young
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.5%
-- 3 people: 11.1%
-- 5 people: 17.8%
-- 10 people: 32.4%
-- 25 people: 62.5%
-- 100 people: 98.0%
+- 1 person: 2.9%
+- 2 people: 5.8%
+- 3 people: 8.6%
+- 5 people: 13.9%
+- 10 people: 25.8%
+- 25 people: 52.6%
+- 100 people: 95.0%
 
-Last updated: 2022-01-12 00:41:25.385120 UTC
+Last updated: 2022-01-13 00:42:52.672258 UTC

@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Poquoson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.3%
+the "Estimated Prevalence" of COVID in this county is 11.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.3%
-- 2 people: 19.6%
-- 3 people: 27.9%
-- 5 people: 42.0%
-- 10 people: 66.4%
-- 25 people: 93.4%
+- 1 person: 11.4%
+- 2 people: 21.5%
+- 3 people: 30.4%
+- 5 people: 45.4%
+- 10 people: 70.2%
+- 25 people: 95.1%
 - 100 people: 100.0%
 
-Last updated: 2022-01-13 00:42:53.640943 UTC
+Last updated: 2022-01-14 00:41:36.634800 UTC

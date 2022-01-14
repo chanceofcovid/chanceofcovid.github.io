@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Noxubee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.0%
+the "Estimated Prevalence" of COVID in this county is 4.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.0%
-- 2 people: 13.4%
-- 3 people: 19.4%
-- 5 people: 30.3%
-- 10 people: 51.4%
-- 25 people: 83.5%
-- 100 people: 99.9%
+- 1 person: 4.4%
+- 2 people: 8.6%
+- 3 people: 12.6%
+- 5 people: 20.1%
+- 10 people: 36.2%
+- 25 people: 67.5%
+- 100 people: 98.9%
 
-Last updated: 2022-01-13 00:42:42.085874 UTC
+Last updated: 2022-01-14 00:41:30.956073 UTC

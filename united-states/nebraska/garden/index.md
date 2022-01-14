@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Garden
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.6%
+the "Estimated Prevalence" of COVID in this county is 4.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.6%
-- 2 people: 10.8%
-- 3 people: 15.8%
-- 5 people: 25.0%
-- 10 people: 43.7%
-- 25 people: 76.2%
-- 100 people: 99.7%
+- 1 person: 4.7%
+- 2 people: 9.2%
+- 3 people: 13.4%
+- 5 people: 21.4%
+- 10 people: 38.2%
+- 25 people: 70.0%
+- 100 people: 99.2%
 
-Last updated: 2022-01-13 00:42:43.245916 UTC
+Last updated: 2022-01-14 00:41:31.693193 UTC

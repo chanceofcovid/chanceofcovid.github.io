@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Bristol
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.8%
+the "Estimated Prevalence" of COVID in this county is 7.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.8%
-- 2 people: 11.2%
-- 3 people: 16.3%
-- 5 people: 25.7%
-- 10 people: 44.8%
-- 25 people: 77.4%
-- 100 people: 99.7%
+- 1 person: 7.0%
+- 2 people: 13.4%
+- 3 people: 19.5%
+- 5 people: 30.3%
+- 10 people: 51.4%
+- 25 people: 83.5%
+- 100 people: 99.9%
 
-Last updated: 2022-01-13 00:42:53.637262 UTC
+Last updated: 2022-01-14 00:41:36.629450 UTC

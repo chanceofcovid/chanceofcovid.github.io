@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Itawamba
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.9%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.9%
-- 2 people: 11.5%
-- 3 people: 16.7%
-- 5 people: 26.2%
-- 10 people: 45.6%
-- 25 people: 78.1%
-- 100 people: 99.8%
+- 1 person: 3.5%
+- 2 people: 6.8%
+- 3 people: 10.0%
+- 5 people: 16.2%
+- 10 people: 29.7%
+- 25 people: 58.6%
+- 100 people: 97.1%
 
-Last updated: 2022-01-13 00:42:42.082514 UTC
+Last updated: 2022-01-14 00:41:30.951784 UTC

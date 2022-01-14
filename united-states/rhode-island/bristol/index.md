@@ -2,18 +2,18 @@
 ## [Rhode Island](/united-states/rhode-island) / Bristol
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.2%
+the "Estimated Prevalence" of COVID in this county is 12.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.2%
-- 2 people: 17.6%
-- 3 people: 25.2%
-- 5 people: 38.3%
-- 10 people: 62.0%
-- 25 people: 91.1%
+- 1 person: 12.5%
+- 2 people: 23.5%
+- 3 people: 33.0%
+- 5 people: 48.7%
+- 10 people: 73.7%
+- 25 people: 96.5%
 - 100 people: 100.0%
 
-Last updated: 2022-01-13 00:42:48.847430 UTC
+Last updated: 2022-01-14 00:41:34.565795 UTC

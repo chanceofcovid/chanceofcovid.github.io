@@ -2,18 +2,18 @@
 ## [Rhode Island](/united-states/rhode-island) / Newport
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.2%
+the "Estimated Prevalence" of COVID in this county is 7.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.2%
-- 2 people: 13.9%
-- 3 people: 20.1%
-- 5 people: 31.2%
-- 10 people: 52.6%
-- 25 people: 84.5%
-- 100 people: 99.9%
+- 1 person: 7.9%
+- 2 people: 15.2%
+- 3 people: 21.9%
+- 5 people: 33.8%
+- 10 people: 56.1%
+- 25 people: 87.2%
+- 100 people: 100.0%
 
-Last updated: 2022-01-13 00:42:48.847913 UTC
+Last updated: 2022-01-14 00:41:34.566216 UTC

@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Lehigh
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.3%
+the "Estimated Prevalence" of COVID in this county is 12.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.3%
-- 2 people: 23.2%
-- 3 people: 32.6%
-- 5 people: 48.2%
-- 10 people: 73.2%
-- 25 people: 96.3%
+- 1 person: 12.6%
+- 2 people: 23.7%
+- 3 people: 33.3%
+- 5 people: 49.1%
+- 10 people: 74.1%
+- 25 people: 96.6%
 - 100 people: 100.0%
 
-Last updated: 2022-01-13 00:42:48.496812 UTC
+Last updated: 2022-01-14 00:41:34.350898 UTC

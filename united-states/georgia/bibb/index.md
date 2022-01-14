@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Bibb
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.5%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.5%
-- 2 people: 10.7%
-- 3 people: 15.6%
-- 5 people: 24.7%
-- 10 people: 43.2%
-- 25 people: 75.7%
-- 100 people: 99.7%
+- 1 person: 4.1%
+- 2 people: 7.9%
+- 3 people: 11.7%
+- 5 people: 18.7%
+- 10 people: 33.9%
+- 25 people: 64.5%
+- 100 people: 98.4%
 
-Last updated: 2022-01-13 00:42:37.153568 UTC
+Last updated: 2022-01-14 00:41:27.745350 UTC

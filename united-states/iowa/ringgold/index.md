@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Ringgold
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.5%
+the "Estimated Prevalence" of COVID in this county is 6.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.5%
-- 2 people: 8.8%
-- 3 people: 12.9%
-- 5 people: 20.6%
-- 10 people: 36.9%
-- 25 people: 68.4%
-- 100 people: 99.0%
+- 1 person: 6.7%
+- 2 people: 13.0%
+- 3 people: 18.9%
+- 5 people: 29.4%
+- 10 people: 50.2%
+- 25 people: 82.5%
+- 100 people: 99.9%
 
-Last updated: 2022-01-25 00:41:50.601205 UTC
+Last updated: 2022-01-26 00:42:34.947207 UTC

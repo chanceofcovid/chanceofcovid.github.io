@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Pike
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 7.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.3%
-- 25 people: 50.1%
-- 100 people: 93.8%
+- 1 person: 7.3%
+- 2 people: 14.0%
+- 3 people: 20.3%
+- 5 people: 31.4%
+- 10 people: 53.0%
+- 25 people: 84.9%
+- 100 people: 99.9%
 
-Last updated: 2022-01-25 00:41:51.003298 UTC
+Last updated: 2022-01-26 00:42:35.388789 UTC

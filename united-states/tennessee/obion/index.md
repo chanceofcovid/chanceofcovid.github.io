@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Obion
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.4%
+the "Estimated Prevalence" of COVID in this county is 17.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.4%
-- 2 people: 14.2%
-- 3 people: 20.5%
-- 5 people: 31.8%
-- 10 people: 53.5%
-- 25 people: 85.2%
+- 1 person: 17.3%
+- 2 people: 31.6%
+- 3 people: 43.4%
+- 5 people: 61.3%
+- 10 people: 85.0%
+- 25 people: 99.1%
 - 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:56.043555 UTC
+Last updated: 2022-01-26 00:42:40.761438 UTC

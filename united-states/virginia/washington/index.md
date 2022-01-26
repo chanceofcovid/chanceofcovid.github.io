@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Washington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.1%
+the "Estimated Prevalence" of COVID in this county is 6.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.1%
-- 2 people: 11.8%
-- 3 people: 17.2%
-- 5 people: 26.9%
-- 10 people: 46.6%
-- 25 people: 79.2%
-- 100 people: 99.8%
+- 1 person: 6.8%
+- 2 people: 13.1%
+- 3 people: 19.0%
+- 5 people: 29.6%
+- 10 people: 50.4%
+- 25 people: 82.7%
+- 100 people: 99.9%
 
-Last updated: 2022-01-25 00:41:56.832318 UTC
+Last updated: 2022-01-26 00:42:41.729338 UTC

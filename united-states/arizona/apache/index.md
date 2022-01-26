@@ -2,18 +2,18 @@
 ## [Arizona](/united-states/arizona) / Apache
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.0%
+the "Estimated Prevalence" of COVID in this county is 11.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.0%
-- 2 people: 11.6%
-- 3 people: 16.9%
-- 5 people: 26.5%
-- 10 people: 45.9%
-- 25 people: 78.5%
-- 100 people: 99.8%
+- 1 person: 11.6%
+- 2 people: 21.8%
+- 3 people: 30.9%
+- 5 people: 46.0%
+- 10 people: 70.8%
+- 25 people: 95.4%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:47.846955 UTC
+Last updated: 2022-01-26 00:42:31.958764 UTC

@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Douglas
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.8%
-- 3 people: 2.8%
-- 5 people: 4.5%
-- 10 people: 8.9%
-- 25 people: 20.7%
-- 100 people: 60.5%
+- 1 person: 5.3%
+- 2 people: 10.4%
+- 3 people: 15.2%
+- 5 people: 24.0%
+- 10 people: 42.2%
+- 25 people: 74.6%
+- 100 people: 99.6%
 
-Last updated: 2022-01-25 00:41:52.602183 UTC
+Last updated: 2022-01-26 00:42:37.103637 UTC

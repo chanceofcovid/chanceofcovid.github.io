@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Chautauqua
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.4%
+the "Estimated Prevalence" of COVID in this county is 9.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.4%
-- 2 people: 2.9%
-- 3 people: 4.3%
-- 5 people: 7.0%
-- 10 people: 13.5%
-- 25 people: 30.4%
-- 100 people: 76.6%
+- 1 person: 9.4%
+- 2 people: 17.9%
+- 3 people: 25.6%
+- 5 people: 39.0%
+- 10 people: 62.8%
+- 25 people: 91.5%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:50.784945 UTC
+Last updated: 2022-01-26 00:42:35.147773 UTC

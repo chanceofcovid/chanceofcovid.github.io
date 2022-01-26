@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Larimer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.4%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.4%
-- 2 people: 14.3%
-- 3 people: 20.6%
-- 5 people: 32.0%
-- 10 people: 53.7%
-- 25 people: 85.4%
-- 100 people: 100.0%
+- 1 person: 3.9%
+- 2 people: 7.7%
+- 3 people: 11.3%
+- 5 people: 18.1%
+- 10 people: 33.0%
+- 25 people: 63.2%
+- 100 people: 98.2%
 
-Last updated: 2022-01-25 00:41:48.421207 UTC
+Last updated: 2022-01-26 00:42:32.642664 UTC

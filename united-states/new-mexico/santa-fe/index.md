@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Santa Fe
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.4%
+the "Estimated Prevalence" of COVID in this county is 7.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.4%
-- 2 people: 12.4%
-- 3 people: 18.1%
-- 5 people: 28.3%
-- 10 people: 48.5%
-- 25 people: 81.0%
+- 1 person: 7.3%
+- 2 people: 14.1%
+- 3 people: 20.3%
+- 5 people: 31.5%
+- 10 people: 53.1%
+- 25 people: 84.9%
 - 100 people: 99.9%
 
-Last updated: 2022-01-25 00:41:53.755726 UTC
+Last updated: 2022-01-26 00:42:38.349316 UTC

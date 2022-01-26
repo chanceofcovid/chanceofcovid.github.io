@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Blaine
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.4%
+the "Estimated Prevalence" of COVID in this county is 3.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.4%
-- 2 people: 14.3%
-- 3 people: 20.6%
-- 5 people: 32.0%
-- 10 people: 53.7%
-- 25 people: 85.4%
-- 100 people: 100.0%
+- 1 person: 3.6%
+- 2 people: 7.0%
+- 3 people: 10.3%
+- 5 people: 16.6%
+- 10 people: 30.5%
+- 25 people: 59.7%
+- 100 people: 97.4%
 
-Last updated: 2022-01-25 00:41:49.993534 UTC
+Last updated: 2022-01-26 00:42:34.282067 UTC

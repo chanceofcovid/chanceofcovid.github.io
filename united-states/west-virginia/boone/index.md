@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Boone
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 12.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 9.1%
-- 3 people: 13.3%
-- 5 people: 21.2%
-- 10 people: 37.9%
-- 25 people: 69.6%
-- 100 people: 99.1%
+- 1 person: 12.7%
+- 2 people: 23.8%
+- 3 people: 33.5%
+- 5 people: 49.4%
+- 10 people: 74.4%
+- 25 people: 96.7%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:57.214175 UTC
+Last updated: 2022-01-26 00:42:42.157942 UTC

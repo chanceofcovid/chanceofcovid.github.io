@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Sullivan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.4%
+the "Estimated Prevalence" of COVID in this county is 9.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.4%
-- 2 people: 4.8%
-- 3 people: 7.2%
-- 5 people: 11.6%
-- 10 people: 21.9%
-- 25 people: 46.2%
-- 100 people: 91.6%
+- 1 person: 9.8%
+- 2 people: 18.6%
+- 3 people: 26.6%
+- 5 people: 40.2%
+- 10 people: 64.3%
+- 25 people: 92.4%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:52.617572 UTC
+Last updated: 2022-01-26 00:42:37.118237 UTC

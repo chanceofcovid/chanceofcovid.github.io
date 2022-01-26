@@ -2,18 +2,18 @@
 ## [Oregon](/united-states/oregon) / Wallowa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 8.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.2%
-- 3 people: 7.7%
-- 5 people: 12.4%
-- 10 people: 23.3%
-- 25 people: 48.5%
-- 100 people: 93.0%
+- 1 person: 8.0%
+- 2 people: 15.4%
+- 3 people: 22.2%
+- 5 people: 34.1%
+- 10 people: 56.6%
+- 25 people: 87.6%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:54.992815 UTC
+Last updated: 2022-01-26 00:42:39.670514 UTC

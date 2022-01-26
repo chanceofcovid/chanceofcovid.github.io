@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Corozal
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.1%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.1%
-- 2 people: 15.6%
-- 3 people: 22.4%
-- 5 people: 34.5%
-- 10 people: 57.1%
-- 25 people: 88.0%
-- 100 people: 100.0%
+- 1 person: 2.8%
+- 2 people: 5.6%
+- 3 people: 8.3%
+- 5 people: 13.4%
+- 10 people: 25.0%
+- 25 people: 51.2%
+- 100 people: 94.3%
 
-Last updated: 2022-01-25 00:41:58.133004 UTC
+Last updated: 2022-01-26 00:42:43.197901 UTC

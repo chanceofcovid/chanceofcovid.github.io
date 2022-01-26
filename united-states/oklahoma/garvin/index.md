@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Garvin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 7.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.5%
-- 3 people: 8.1%
-- 5 people: 13.2%
-- 10 people: 24.6%
-- 25 people: 50.6%
-- 100 people: 94.0%
+- 1 person: 7.4%
+- 2 people: 14.2%
+- 3 people: 20.6%
+- 5 people: 31.9%
+- 10 people: 53.6%
+- 25 people: 85.3%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:54.797429 UTC
+Last updated: 2022-01-26 00:42:39.458305 UTC

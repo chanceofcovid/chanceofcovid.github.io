@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / Horry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.6%
+the "Estimated Prevalence" of COVID in this county is 5.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.6%
-- 2 people: 14.6%
-- 3 people: 21.0%
-- 5 people: 32.5%
-- 10 people: 54.5%
-- 25 people: 86.0%
-- 100 people: 100.0%
+- 1 person: 5.4%
+- 2 people: 10.5%
+- 3 people: 15.3%
+- 5 people: 24.2%
+- 10 people: 42.5%
+- 25 people: 74.9%
+- 100 people: 99.6%
 
-Last updated: 2022-01-25 00:41:55.638379 UTC
+Last updated: 2022-01-26 00:42:40.301144 UTC

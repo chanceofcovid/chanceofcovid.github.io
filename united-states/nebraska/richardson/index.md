@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Richardson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.8%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.8%
-- 2 people: 3.6%
-- 3 people: 5.4%
-- 5 people: 8.8%
-- 10 people: 16.9%
-- 25 people: 37.0%
-- 100 people: 84.3%
+- 1 person: 5.3%
+- 2 people: 10.3%
+- 3 people: 15.1%
+- 5 people: 23.9%
+- 10 people: 42.1%
+- 25 people: 74.5%
+- 100 people: 99.6%
 
-Last updated: 2022-01-25 00:41:53.011499 UTC
+Last updated: 2022-01-26 00:42:37.553832 UTC

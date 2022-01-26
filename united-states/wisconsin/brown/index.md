@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Brown
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.0%
+the "Estimated Prevalence" of COVID in this county is 13.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.0%
-- 2 people: 15.3%
-- 3 people: 22.1%
-- 5 people: 34.0%
-- 10 people: 56.4%
-- 25 people: 87.5%
+- 1 person: 13.2%
+- 2 people: 24.6%
+- 3 people: 34.6%
+- 5 people: 50.7%
+- 10 people: 75.7%
+- 25 people: 97.1%
 - 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:57.406814 UTC
+Last updated: 2022-01-26 00:42:42.360312 UTC

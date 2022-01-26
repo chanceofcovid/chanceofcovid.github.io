@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Northwest Arctic
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.1%
+the "Estimated Prevalence" of COVID in this county is 11.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.1%
-- 2 people: 15.6%
-- 3 people: 22.4%
-- 5 people: 34.5%
-- 10 people: 57.1%
-- 25 people: 87.9%
+- 1 person: 11.3%
+- 2 people: 21.2%
+- 3 people: 30.1%
+- 5 people: 44.9%
+- 10 people: 69.7%
+- 25 people: 94.9%
 - 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:47.657712 UTC
+Last updated: 2022-01-26 00:42:31.745860 UTC

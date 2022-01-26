@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Randolph
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 8.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.0%
-- 3 people: 8.9%
-- 5 people: 14.4%
-- 10 people: 26.6%
-- 25 people: 53.9%
-- 100 people: 95.5%
+- 1 person: 8.2%
+- 2 people: 15.7%
+- 3 people: 22.5%
+- 5 people: 34.7%
+- 10 people: 57.3%
+- 25 people: 88.1%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:54.183513 UTC
+Last updated: 2022-01-26 00:42:38.840898 UTC

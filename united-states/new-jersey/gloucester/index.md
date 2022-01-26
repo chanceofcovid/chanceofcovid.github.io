@@ -2,18 +2,18 @@
 ## [New Jersey](/united-states/new-jersey) / Gloucester
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.0%
+the "Estimated Prevalence" of COVID in this county is 2.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.0%
-- 2 people: 13.4%
-- 3 people: 19.4%
-- 5 people: 30.3%
-- 10 people: 51.4%
-- 25 people: 83.5%
-- 100 people: 99.9%
+- 1 person: 2.5%
+- 2 people: 4.9%
+- 3 people: 7.2%
+- 5 people: 11.8%
+- 10 people: 22.2%
+- 25 people: 46.6%
+- 100 people: 91.9%
 
-Last updated: 2022-01-25 00:41:53.566213 UTC
+Last updated: 2022-01-26 00:42:38.151405 UTC

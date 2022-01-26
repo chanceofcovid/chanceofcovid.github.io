@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Sangamon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.5%
+the "Estimated Prevalence" of COVID in this county is 5.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.5%
-- 2 people: 21.6%
-- 3 people: 30.6%
-- 5 people: 45.6%
-- 10 people: 70.4%
-- 25 people: 95.2%
-- 100 people: 100.0%
+- 1 person: 5.9%
+- 2 people: 11.5%
+- 3 people: 16.8%
+- 5 people: 26.4%
+- 10 people: 45.8%
+- 25 people: 78.4%
+- 100 people: 99.8%
 
-Last updated: 2022-01-25 00:41:50.196465 UTC
+Last updated: 2022-01-26 00:42:34.504775 UTC

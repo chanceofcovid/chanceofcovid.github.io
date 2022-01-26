@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Cole
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.9%
+the "Estimated Prevalence" of COVID in this county is 8.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.9%
-- 2 people: 13.4%
-- 3 people: 19.4%
-- 5 people: 30.2%
-- 10 people: 51.3%
-- 25 people: 83.5%
-- 100 people: 99.9%
+- 1 person: 8.6%
+- 2 people: 16.5%
+- 3 people: 23.7%
+- 5 people: 36.4%
+- 10 people: 59.5%
+- 25 people: 89.6%
+- 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:52.600436 UTC
+Last updated: 2022-01-26 00:42:37.101898 UTC

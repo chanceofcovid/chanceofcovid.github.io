@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Bourbon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.9%
+the "Estimated Prevalence" of COVID in this county is 7.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.9%
-- 2 people: 7.6%
-- 3 people: 11.2%
-- 5 people: 18.0%
-- 10 people: 32.7%
-- 25 people: 62.8%
-- 100 people: 98.1%
+- 1 person: 7.1%
+- 2 people: 13.7%
+- 3 people: 19.9%
+- 5 people: 30.8%
+- 10 people: 52.2%
+- 25 people: 84.2%
+- 100 people: 99.9%
 
-Last updated: 2022-01-25 00:41:50.784178 UTC
+Last updated: 2022-01-26 00:42:35.146888 UTC

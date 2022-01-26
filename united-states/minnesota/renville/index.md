@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Renville
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.4%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.4%
-- 2 people: 6.7%
-- 3 people: 9.9%
-- 5 people: 16.0%
-- 10 people: 29.4%
-- 25 people: 58.1%
-- 100 people: 96.9%
+- 1 person: 2.0%
+- 2 people: 3.9%
+- 3 people: 5.8%
+- 5 people: 9.5%
+- 10 people: 18.1%
+- 25 people: 39.2%
+- 100 people: 86.3%
 
-Last updated: 2022-01-25 00:41:52.223308 UTC
+Last updated: 2022-01-26 00:42:36.641828 UTC

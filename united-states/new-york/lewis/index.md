@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Lewis
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.0%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.0%
-- 2 people: 15.4%
-- 3 people: 22.1%
-- 5 people: 34.1%
-- 10 people: 56.6%
-- 25 people: 87.6%
-- 100 people: 100.0%
+- 1 person: 2.1%
+- 2 people: 4.2%
+- 3 people: 6.2%
+- 5 people: 10.1%
+- 10 people: 19.2%
+- 25 people: 41.4%
+- 100 people: 88.2%
 
-Last updated: 2022-01-25 00:41:53.999467 UTC
+Last updated: 2022-01-26 00:42:38.559828 UTC

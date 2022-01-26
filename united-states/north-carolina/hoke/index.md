@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Hoke
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.2%
+the "Estimated Prevalence" of COVID in this county is 7.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.2%
-- 2 people: 22.9%
-- 3 people: 32.3%
-- 5 people: 47.8%
-- 10 people: 72.7%
-- 25 people: 96.1%
+- 1 person: 7.8%
+- 2 people: 15.0%
+- 3 people: 21.6%
+- 5 people: 33.4%
+- 10 people: 55.6%
+- 25 people: 86.9%
 - 100 people: 100.0%
 
-Last updated: 2022-01-25 00:41:54.177392 UTC
+Last updated: 2022-01-26 00:42:38.834044 UTC

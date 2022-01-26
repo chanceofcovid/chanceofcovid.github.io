@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Cattaraugus
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 3.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 8.9%
-- 3 people: 13.1%
-- 5 people: 20.8%
-- 10 people: 37.4%
-- 25 people: 68.9%
-- 100 people: 99.1%
+- 1 person: 3.8%
+- 2 people: 7.4%
+- 3 people: 10.9%
+- 5 people: 17.5%
+- 10 people: 32.0%
+- 25 people: 61.8%
+- 100 people: 97.9%
 
-Last updated: 2022-01-25 00:41:53.995085 UTC
+Last updated: 2022-01-26 00:42:38.555123 UTC

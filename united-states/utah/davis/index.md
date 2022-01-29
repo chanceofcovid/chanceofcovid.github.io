@@ -2,18 +2,18 @@
 ## [Utah](/united-states/utah) / Davis
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.8%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.8%
-- 2 people: 15.0%
-- 3 people: 21.6%
-- 5 people: 33.4%
-- 10 people: 55.7%
-- 25 people: 86.9%
-- 100 people: 100.0%
+- 1 person: 5.3%
+- 2 people: 10.4%
+- 3 people: 15.1%
+- 5 people: 23.9%
+- 10 people: 42.1%
+- 25 people: 74.5%
+- 100 people: 99.6%
 
-Last updated: 2022-01-28 00:38:20.340006 UTC
+Last updated: 2022-01-29 00:35:44.416217 UTC

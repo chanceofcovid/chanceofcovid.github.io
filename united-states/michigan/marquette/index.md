@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Marquette
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.9%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.9%
-- 2 people: 15.1%
-- 3 people: 21.8%
-- 5 people: 33.6%
-- 10 people: 56.0%
-- 25 people: 87.1%
-- 100 people: 100.0%
+- 1 person: 5.3%
+- 2 people: 10.4%
+- 3 people: 15.1%
+- 5 people: 23.9%
+- 10 people: 42.1%
+- 25 people: 74.5%
+- 100 people: 99.6%
 
-Last updated: 2022-01-28 00:38:16.068861 UTC
+Last updated: 2022-01-29 00:35:36.621102 UTC

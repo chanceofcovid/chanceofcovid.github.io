@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / Lexington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.6%
+the "Estimated Prevalence" of COVID in this county is 6.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.6%
-- 2 people: 18.2%
-- 3 people: 26.0%
-- 5 people: 39.5%
-- 10 people: 63.4%
-- 25 people: 91.9%
-- 100 people: 100.0%
+- 1 person: 6.8%
+- 2 people: 13.1%
+- 3 people: 19.0%
+- 5 people: 29.6%
+- 10 people: 50.5%
+- 25 people: 82.7%
+- 100 people: 99.9%
 
-Last updated: 2022-01-28 00:38:19.475175 UTC
+Last updated: 2022-01-29 00:35:43.083055 UTC

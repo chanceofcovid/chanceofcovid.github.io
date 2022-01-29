@@ -2,18 +2,18 @@
 ## [Vermont](/united-states/vermont) / Windsor
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.2%
-- 3 people: 6.2%
-- 5 people: 10.1%
-- 10 people: 19.2%
-- 25 people: 41.3%
-- 100 people: 88.1%
+- 1 person: 3.2%
+- 2 people: 6.3%
+- 3 people: 9.3%
+- 5 people: 14.9%
+- 10 people: 27.7%
+- 25 people: 55.5%
+- 100 people: 96.1%
 
-Last updated: 2022-01-28 00:38:20.541003 UTC
+Last updated: 2022-01-29 00:35:44.729109 UTC

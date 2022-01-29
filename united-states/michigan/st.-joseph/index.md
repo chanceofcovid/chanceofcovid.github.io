@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / St. Joseph
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.5%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.5%
-- 2 people: 10.6%
-- 3 people: 15.5%
-- 5 people: 24.5%
-- 10 people: 43.0%
-- 25 people: 75.4%
-- 100 people: 99.6%
+- 1 person: 3.2%
+- 2 people: 6.3%
+- 3 people: 9.4%
+- 5 people: 15.1%
+- 10 people: 28.0%
+- 25 people: 55.9%
+- 100 people: 96.2%
 
-Last updated: 2022-01-28 00:38:16.073150 UTC
+Last updated: 2022-01-29 00:35:36.624844 UTC

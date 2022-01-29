@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Scott
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.1%
+the "Estimated Prevalence" of COVID in this county is 6.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.1%
-- 2 people: 15.6%
-- 3 people: 22.4%
-- 5 people: 34.5%
-- 10 people: 57.1%
-- 25 people: 88.0%
-- 100 people: 100.0%
+- 1 person: 6.3%
+- 2 people: 12.1%
+- 3 people: 17.6%
+- 5 people: 27.6%
+- 10 people: 47.6%
+- 25 people: 80.1%
+- 100 people: 99.8%
 
-Last updated: 2022-01-28 00:38:15.220567 UTC
+Last updated: 2022-01-29 00:35:34.972696 UTC

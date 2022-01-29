@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Adams
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.6%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.6%
-- 2 people: 12.7%
-- 3 people: 18.4%
-- 5 people: 28.8%
-- 10 people: 49.3%
-- 25 people: 81.7%
-- 100 people: 99.9%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.4%
+- 5 people: 13.6%
+- 10 people: 25.4%
+- 25 people: 52.0%
+- 100 people: 94.7%
 
-Last updated: 2022-01-28 00:38:18.296937 UTC
+Last updated: 2022-01-29 00:35:40.819910 UTC

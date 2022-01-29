@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Brown
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 57.4%
+the "Estimated Prevalence" of COVID in this county is 9.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 57.4%
-- 2 people: 81.9%
-- 3 people: 92.3%
-- 5 people: 98.6%
-- 10 people: 100.0%
-- 25 people: 100.0%
+- 1 person: 9.5%
+- 2 people: 18.1%
+- 3 people: 25.9%
+- 5 people: 39.3%
+- 10 people: 63.1%
+- 25 people: 91.8%
 - 100 people: 100.0%
 
-Last updated: 2022-01-28 00:38:14.428569 UTC
+Last updated: 2022-01-29 00:35:33.610690 UTC

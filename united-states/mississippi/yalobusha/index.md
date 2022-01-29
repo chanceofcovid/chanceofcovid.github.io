@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Yalobusha
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.0%
+the "Estimated Prevalence" of COVID in this county is 6.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.0%
-- 2 people: 20.8%
-- 3 people: 29.5%
-- 5 people: 44.1%
-- 10 people: 68.8%
-- 25 people: 94.6%
-- 100 people: 100.0%
+- 1 person: 6.2%
+- 2 people: 12.1%
+- 3 people: 17.5%
+- 5 people: 27.5%
+- 10 people: 47.4%
+- 25 people: 79.9%
+- 100 people: 99.8%
 
-Last updated: 2022-01-28 00:38:16.454761 UTC
+Last updated: 2022-01-29 00:35:37.278431 UTC

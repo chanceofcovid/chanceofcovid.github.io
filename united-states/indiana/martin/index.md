@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Martin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.8%
+the "Estimated Prevalence" of COVID in this county is 3.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.8%
-- 2 people: 16.7%
-- 3 people: 24.0%
-- 5 people: 36.7%
-- 10 people: 60.0%
-- 25 people: 89.9%
-- 100 people: 100.0%
+- 1 person: 3.8%
+- 2 people: 7.5%
+- 3 people: 11.1%
+- 5 people: 17.8%
+- 10 people: 32.4%
+- 25 people: 62.4%
+- 100 people: 98.0%
 
-Last updated: 2022-01-28 00:38:14.627679 UTC
+Last updated: 2022-01-29 00:35:33.927739 UTC

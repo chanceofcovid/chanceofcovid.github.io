@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Fond du Lac
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.4%
+the "Estimated Prevalence" of COVID in this county is 3.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.4%
-- 2 people: 12.3%
-- 3 people: 17.9%
-- 5 people: 28.1%
-- 10 people: 48.2%
-- 25 people: 80.7%
-- 100 people: 99.9%
+- 1 person: 3.7%
+- 2 people: 7.3%
+- 3 people: 10.8%
+- 5 people: 17.3%
+- 10 people: 31.7%
+- 25 people: 61.4%
+- 100 people: 97.8%
 
-Last updated: 2022-01-28 00:38:21.270481 UTC
+Last updated: 2022-01-29 00:35:46.089903 UTC

@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Otero
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.8%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.8%
-- 2 people: 9.4%
-- 3 people: 13.8%
-- 5 people: 21.9%
-- 10 people: 38.9%
-- 25 people: 70.9%
-- 100 people: 99.3%
+- 1 person: 2.6%
+- 2 people: 5.1%
+- 3 people: 7.5%
+- 5 people: 12.3%
+- 10 people: 23.0%
+- 25 people: 48.0%
+- 100 people: 92.7%
 
-Last updated: 2022-01-28 00:38:12.841432 UTC
+Last updated: 2022-01-29 00:35:30.996843 UTC

@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Lake
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.8%
-- 3 people: 5.6%
-- 5 people: 9.1%
-- 10 people: 17.5%
-- 25 people: 38.1%
-- 100 people: 85.3%
+- 1 person: 1.1%
+- 2 people: 2.2%
+- 3 people: 3.2%
+- 5 people: 5.3%
+- 10 people: 10.4%
+- 25 people: 24.0%
+- 100 people: 66.6%
 
-Last updated: 2022-01-28 00:38:14.626578 UTC
+Last updated: 2022-01-29 00:35:33.926628 UTC

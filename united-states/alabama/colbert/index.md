@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Colbert
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 14.1%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 14.1%
-- 2 people: 26.2%
-- 3 people: 36.6%
-- 5 people: 53.2%
-- 10 people: 78.1%
-- 25 people: 97.8%
-- 100 people: 100.0%
+- 1 person: 5.3%
+- 2 people: 10.3%
+- 3 people: 15.1%
+- 5 people: 23.9%
+- 10 people: 42.1%
+- 25 people: 74.5%
+- 100 people: 99.6%
 
-Last updated: 2022-01-28 00:38:11.811803 UTC
+Last updated: 2022-01-29 00:35:29.286959 UTC

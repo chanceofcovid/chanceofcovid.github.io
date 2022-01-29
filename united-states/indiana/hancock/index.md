@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Hancock
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.4%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.4%
-- 2 people: 8.5%
-- 3 people: 12.5%
-- 5 people: 20.0%
-- 10 people: 36.0%
-- 25 people: 67.3%
-- 100 people: 98.9%
+- 1 person: 3.0%
+- 2 people: 6.0%
+- 3 people: 8.8%
+- 5 people: 14.3%
+- 10 people: 26.5%
+- 25 people: 53.7%
+- 100 people: 95.4%
 
-Last updated: 2022-01-28 00:38:14.623745 UTC
+Last updated: 2022-01-29 00:35:33.923782 UTC

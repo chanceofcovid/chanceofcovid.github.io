@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Door
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 3.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.4%
-- 3 people: 15.2%
-- 5 people: 24.0%
-- 10 people: 42.3%
-- 25 people: 74.7%
-- 100 people: 99.6%
+- 1 person: 3.2%
+- 2 people: 6.2%
+- 3 people: 9.2%
+- 5 people: 14.9%
+- 10 people: 27.5%
+- 25 people: 55.3%
+- 100 people: 96.0%
 
-Last updated: 2022-01-28 00:38:21.269403 UTC
+Last updated: 2022-01-29 00:35:46.088968 UTC

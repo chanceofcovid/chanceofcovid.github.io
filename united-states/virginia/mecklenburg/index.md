@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Mecklenburg
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 11.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.2%
-- 3 people: 7.7%
-- 5 people: 12.5%
-- 10 people: 23.5%
-- 25 people: 48.8%
-- 100 people: 93.1%
+- 1 person: 11.8%
+- 2 people: 22.3%
+- 3 people: 31.5%
+- 5 people: 46.7%
+- 10 people: 71.6%
+- 25 people: 95.7%
+- 100 people: 100.0%
 
-Last updated: 2022-01-28 00:38:20.737891 UTC
+Last updated: 2022-01-29 00:35:45.076518 UTC

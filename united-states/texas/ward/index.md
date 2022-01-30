@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Ward
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.2%
-- 3 people: 15.0%
-- 5 people: 23.7%
-- 10 people: 41.8%
-- 25 people: 74.1%
-- 100 people: 99.6%
+- 1 person: 3.9%
+- 2 people: 7.6%
+- 3 people: 11.2%
+- 5 people: 18.0%
+- 10 people: 32.7%
+- 25 people: 62.9%
+- 100 people: 98.1%
 
-Last updated: 2022-01-29 00:35:44.103651 UTC
+Last updated: 2022-01-30 00:38:30.467393 UTC

@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Benton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 5.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.5%
-- 3 people: 13.9%
-- 5 people: 22.1%
-- 10 people: 39.3%
-- 25 people: 71.3%
-- 100 people: 99.3%
+- 1 person: 5.6%
+- 2 people: 10.8%
+- 3 people: 15.7%
+- 5 people: 24.8%
+- 10 people: 43.5%
+- 25 people: 76.0%
+- 100 people: 99.7%
 
-Last updated: 2022-01-29 00:35:33.918843 UTC
+Last updated: 2022-01-30 00:38:25.021246 UTC

@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Clay
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 16.7%
+the "Estimated Prevalence" of COVID in this county is 15.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 16.7%
-- 2 people: 30.6%
-- 3 people: 42.1%
-- 5 people: 59.8%
-- 10 people: 83.9%
-- 25 people: 99.0%
+- 1 person: 15.3%
+- 2 people: 28.3%
+- 3 people: 39.3%
+- 5 people: 56.5%
+- 10 people: 81.1%
+- 25 people: 98.4%
 - 100 people: 100.0%
 
-Last updated: 2022-01-29 00:35:34.958201 UTC
+Last updated: 2022-01-30 00:38:25.606908 UTC

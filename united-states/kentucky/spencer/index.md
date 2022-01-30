@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Spencer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.9%
+the "Estimated Prevalence" of COVID in this county is 6.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.9%
-- 2 people: 15.1%
-- 3 people: 21.8%
-- 5 people: 33.7%
-- 10 people: 56.0%
-- 25 people: 87.2%
-- 100 people: 100.0%
+- 1 person: 6.8%
+- 2 people: 13.2%
+- 3 people: 19.1%
+- 5 people: 29.7%
+- 10 people: 50.6%
+- 25 people: 82.9%
+- 100 people: 99.9%
 
-Last updated: 2022-01-29 00:35:34.973273 UTC
+Last updated: 2022-01-30 00:38:25.623771 UTC

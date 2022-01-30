@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Marshall
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.5%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.5%
-- 2 people: 8.8%
-- 3 people: 13.0%
-- 5 people: 20.7%
-- 10 people: 37.0%
-- 25 people: 68.6%
-- 100 people: 99.0%
+- 1 person: 4.1%
+- 2 people: 8.0%
+- 3 people: 11.8%
+- 5 people: 18.9%
+- 10 people: 34.2%
+- 25 people: 64.9%
+- 100 people: 98.5%
 
-Last updated: 2022-01-29 00:35:45.752243 UTC
+Last updated: 2022-01-30 00:38:31.370997 UTC

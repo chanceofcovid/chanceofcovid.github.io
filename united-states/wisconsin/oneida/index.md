@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Oneida
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.0%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.0%
-- 2 people: 6.0%
-- 3 people: 8.9%
-- 5 people: 14.3%
-- 10 people: 26.6%
-- 25 people: 53.9%
-- 100 people: 95.5%
+- 1 person: 2.8%
+- 2 people: 5.6%
+- 3 people: 8.2%
+- 5 people: 13.3%
+- 10 people: 24.9%
+- 25 people: 51.1%
+- 100 people: 94.3%
 
-Last updated: 2022-01-29 00:35:46.094320 UTC
+Last updated: 2022-01-30 00:38:31.538391 UTC

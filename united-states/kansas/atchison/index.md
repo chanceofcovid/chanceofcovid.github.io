@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Atchison
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.7%
+the "Estimated Prevalence" of COVID in this county is 3.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.7%
-- 2 people: 9.2%
-- 3 people: 13.4%
-- 5 people: 21.4%
-- 10 people: 38.2%
-- 25 people: 70.0%
-- 100 people: 99.2%
+- 1 person: 3.6%
+- 2 people: 7.1%
+- 3 people: 10.5%
+- 5 people: 16.9%
+- 10 people: 31.0%
+- 25 people: 60.4%
+- 100 people: 97.5%
 
-Last updated: 2022-01-29 00:35:34.623298 UTC
+Last updated: 2022-01-30 00:38:25.409057 UTC

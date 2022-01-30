@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Cleveland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.4%
+the "Estimated Prevalence" of COVID in this county is 8.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.4%
-- 2 people: 16.1%
-- 3 people: 23.2%
-- 5 people: 35.6%
-- 10 people: 58.5%
-- 25 people: 88.9%
+- 1 person: 8.3%
+- 2 people: 15.8%
+- 3 people: 22.8%
+- 5 people: 35.0%
+- 10 people: 57.8%
+- 25 people: 88.4%
 - 100 people: 100.0%
 
-Last updated: 2022-01-29 00:35:40.472966 UTC
+Last updated: 2022-01-30 00:38:28.553648 UTC

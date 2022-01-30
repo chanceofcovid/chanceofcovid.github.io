@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Bosque
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.9%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.9%
-- 2 people: 18.8%
-- 3 people: 26.9%
-- 5 people: 40.6%
-- 10 people: 64.7%
-- 25 people: 92.6%
-- 100 people: 100.0%
+- 1 person: 3.5%
+- 2 people: 7.0%
+- 3 people: 10.3%
+- 5 people: 16.5%
+- 10 people: 30.3%
+- 25 people: 59.4%
+- 100 people: 97.3%
 
-Last updated: 2022-01-29 00:35:44.063103 UTC
+Last updated: 2022-01-30 00:38:30.421303 UTC

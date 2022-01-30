@@ -2,18 +2,18 @@
 ## [Oregon](/united-states/oregon) / Marion
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 4.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.6%
-- 3 people: 14.0%
-- 5 people: 22.3%
-- 10 people: 39.6%
-- 25 people: 71.7%
-- 100 people: 99.4%
+- 1 person: 4.4%
+- 2 people: 8.6%
+- 3 people: 12.6%
+- 5 people: 20.2%
+- 10 people: 36.3%
+- 25 people: 67.6%
+- 100 people: 98.9%
 
-Last updated: 2022-01-29 00:35:42.047042 UTC
+Last updated: 2022-01-30 00:38:29.285533 UTC

@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Grant
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.0%
+the "Estimated Prevalence" of COVID in this county is 16.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.0%
-- 2 people: 24.3%
-- 3 people: 34.1%
-- 5 people: 50.1%
-- 10 people: 75.1%
-- 25 people: 96.9%
+- 1 person: 16.7%
+- 2 people: 30.6%
+- 3 people: 42.2%
+- 5 people: 59.9%
+- 10 people: 83.9%
+- 25 people: 99.0%
 - 100 people: 100.0%
 
-Last updated: 2022-01-29 00:35:45.440489 UTC
+Last updated: 2022-01-30 00:38:31.206387 UTC

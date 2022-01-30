@@ -2,18 +2,18 @@
 ## [Nevada](/united-states/nevada) / Lyon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 4.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.4%
-- 3 people: 10.9%
-- 5 people: 17.6%
-- 10 people: 32.0%
-- 25 people: 61.9%
-- 100 people: 97.9%
+- 1 person: 4.5%
+- 2 people: 8.9%
+- 3 people: 13.0%
+- 5 people: 20.7%
+- 10 people: 37.1%
+- 25 people: 68.6%
+- 100 people: 99.0%
 
-Last updated: 2022-01-29 00:35:38.758751 UTC
+Last updated: 2022-01-30 00:38:27.667450 UTC

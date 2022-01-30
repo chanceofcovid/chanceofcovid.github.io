@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Jefferson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.3%
+the "Estimated Prevalence" of COVID in this county is 7.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.3%
-- 2 people: 15.9%
-- 3 people: 22.9%
-- 5 people: 35.2%
-- 10 people: 58.1%
-- 25 people: 88.6%
+- 1 person: 7.3%
+- 2 people: 14.1%
+- 3 people: 20.5%
+- 5 people: 31.7%
+- 10 people: 53.4%
+- 25 people: 85.1%
 - 100 people: 100.0%
 
-Last updated: 2022-01-29 00:35:33.925473 UTC
+Last updated: 2022-01-30 00:38:25.028741 UTC

@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / McCracken
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.9%
+the "Estimated Prevalence" of COVID in this county is 14.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.9%
-- 2 people: 25.9%
-- 3 people: 36.2%
-- 5 people: 52.7%
-- 10 people: 77.6%
-- 25 people: 97.6%
+- 1 person: 14.1%
+- 2 people: 26.2%
+- 3 people: 36.6%
+- 5 people: 53.2%
+- 10 people: 78.1%
+- 25 people: 97.8%
 - 100 people: 100.0%
 
-Last updated: 2022-01-29 00:35:34.966854 UTC
+Last updated: 2022-01-30 00:38:25.616555 UTC

@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Washington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.3%
+the "Estimated Prevalence" of COVID in this county is 22.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.3%
-- 2 people: 12.1%
-- 3 people: 17.6%
-- 5 people: 27.6%
-- 10 people: 47.6%
-- 25 people: 80.1%
-- 100 people: 99.8%
+- 1 person: 22.0%
+- 2 people: 39.2%
+- 3 people: 52.6%
+- 5 people: 71.2%
+- 10 people: 91.7%
+- 25 people: 99.8%
+- 100 people: 100.0%
 
-Last updated: 2022-01-29 00:35:32.333555 UTC
+Last updated: 2022-01-30 00:38:24.106141 UTC

@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / McHenry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 15.2%
+the "Estimated Prevalence" of COVID in this county is 5.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 15.2%
-- 2 people: 28.1%
-- 3 people: 39.0%
-- 5 people: 56.2%
-- 10 people: 80.8%
-- 25 people: 98.4%
-- 100 people: 100.0%
+- 1 person: 5.6%
+- 2 people: 10.8%
+- 3 people: 15.8%
+- 5 people: 24.9%
+- 10 people: 43.6%
+- 25 people: 76.1%
+- 100 people: 99.7%
 
-Last updated: 2022-01-29 00:35:33.620406 UTC
+Last updated: 2022-01-30 00:38:24.859394 UTC

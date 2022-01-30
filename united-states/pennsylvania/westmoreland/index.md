@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Westmoreland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.3%
-- 3 people: 7.9%
-- 5 people: 12.7%
-- 10 people: 23.9%
-- 25 people: 49.4%
-- 100 people: 93.5%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.7%
+- 5 people: 12.4%
+- 10 people: 23.3%
+- 25 people: 48.5%
+- 100 people: 93.0%
 
-Last updated: 2022-01-29 00:35:42.402254 UTC
+Last updated: 2022-01-30 00:38:29.524243 UTC

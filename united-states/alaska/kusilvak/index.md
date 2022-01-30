@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Kusilvak
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.4%
+the "Estimated Prevalence" of COVID in this county is 6.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.4%
-- 2 people: 21.5%
-- 3 people: 30.5%
-- 5 people: 45.4%
-- 10 people: 70.2%
-- 25 people: 95.2%
-- 100 people: 100.0%
+- 1 person: 6.6%
+- 2 people: 12.8%
+- 3 people: 18.5%
+- 5 people: 28.9%
+- 10 people: 49.5%
+- 25 people: 81.8%
+- 100 people: 99.9%
 
-Last updated: 2022-01-29 00:35:29.610373 UTC
+Last updated: 2022-01-30 00:38:22.223113 UTC

@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Lake
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.2%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.2%
-- 2 people: 4.4%
-- 3 people: 6.5%
-- 5 people: 10.6%
-- 10 people: 20.1%
-- 25 people: 42.9%
-- 100 people: 89.4%
+- 1 person: 1.9%
+- 2 people: 3.7%
+- 3 people: 5.5%
+- 5 people: 9.0%
+- 10 people: 17.3%
+- 25 people: 37.7%
+- 100 people: 84.9%
 
-Last updated: 2022-01-30 00:38:23.356098 UTC
+Last updated: 2022-01-31 00:37:39.258687 UTC

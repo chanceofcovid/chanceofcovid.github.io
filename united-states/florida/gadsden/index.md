@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Gadsden
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.4%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.4%
-- 2 people: 21.5%
-- 3 people: 30.4%
-- 5 people: 45.3%
-- 10 people: 70.1%
-- 25 people: 95.1%
-- 100 people: 100.0%
+- 1 person: 4.1%
+- 2 people: 8.0%
+- 3 people: 11.8%
+- 5 people: 18.9%
+- 10 people: 34.2%
+- 25 people: 64.9%
+- 100 people: 98.5%
 
-Last updated: 2022-01-30 00:38:24.097138 UTC
+Last updated: 2022-01-31 00:37:40.523579 UTC

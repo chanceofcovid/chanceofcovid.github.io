@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / McLennan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.1%
-- 3 people: 7.6%
-- 5 people: 12.3%
-- 10 people: 23.2%
-- 25 people: 48.2%
-- 100 people: 92.8%
+- 1 person: 2.1%
+- 2 people: 4.2%
+- 3 people: 6.3%
+- 5 people: 10.2%
+- 10 people: 19.4%
+- 25 people: 41.8%
+- 100 people: 88.5%
 
-Last updated: 2022-01-30 00:38:30.452403 UTC
+Last updated: 2022-01-31 00:37:47.730939 UTC

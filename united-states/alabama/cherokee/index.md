@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Cherokee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 4.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.8%
-- 3 people: 14.3%
-- 5 people: 22.7%
-- 10 people: 40.2%
-- 25 people: 72.4%
-- 100 people: 99.4%
+- 1 person: 4.0%
+- 2 people: 7.8%
+- 3 people: 11.5%
+- 5 people: 18.5%
+- 10 people: 33.5%
+- 25 people: 64.0%
+- 100 people: 98.3%
 
-Last updated: 2022-01-30 00:38:22.040318 UTC
+Last updated: 2022-01-31 00:37:38.268302 UTC

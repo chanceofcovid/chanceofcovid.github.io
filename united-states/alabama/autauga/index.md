@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Autauga
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 7.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.0%
-- 3 people: 10.3%
-- 5 people: 16.6%
-- 10 people: 30.5%
-- 25 people: 59.7%
-- 100 people: 97.4%
+- 1 person: 7.3%
+- 2 people: 14.1%
+- 3 people: 20.3%
+- 5 people: 31.5%
+- 10 people: 53.1%
+- 25 people: 85.0%
+- 100 people: 99.9%
 
-Last updated: 2022-01-30 00:38:22.038593 UTC
+Last updated: 2022-01-31 00:37:38.266424 UTC

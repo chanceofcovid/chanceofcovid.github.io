@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Mitchell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 2.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.5%
-- 3 people: 9.6%
-- 5 people: 15.4%
-- 10 people: 28.5%
-- 25 people: 56.7%
-- 100 people: 96.5%
+- 1 person: 2.9%
+- 2 people: 5.7%
+- 3 people: 8.4%
+- 5 people: 13.7%
+- 10 people: 25.5%
+- 25 people: 52.0%
+- 100 people: 94.7%
 
-Last updated: 2022-01-30 00:38:30.454985 UTC
+Last updated: 2022-01-31 00:37:47.733573 UTC

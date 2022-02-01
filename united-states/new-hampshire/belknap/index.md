@@ -2,18 +2,18 @@
 ## [New Hampshire](/united-states/new-hampshire) / Belknap
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
+- 1 person: 2.6%
 - 2 people: 5.2%
-- 3 people: 7.8%
-- 5 people: 12.6%
-- 10 people: 23.6%
-- 25 people: 49.0%
+- 3 people: 7.7%
+- 5 people: 12.5%
+- 10 people: 23.5%
+- 25 people: 48.9%
 - 100 people: 93.2%
 
-Last updated: 2022-01-31 00:37:44.793101 UTC
+Last updated: 2022-02-01 00:40:11.487593 UTC

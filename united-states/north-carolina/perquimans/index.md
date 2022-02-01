@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Perquimans
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.1%
-- 3 people: 9.0%
-- 5 people: 14.5%
-- 10 people: 26.9%
-- 25 people: 54.3%
-- 100 people: 95.6%
+- 1 person: 3.0%
+- 2 people: 6.0%
+- 3 people: 8.8%
+- 5 people: 14.3%
+- 10 people: 26.5%
+- 25 people: 53.7%
+- 100 people: 95.4%
 
-Last updated: 2022-01-31 00:37:45.616497 UTC
+Last updated: 2022-02-01 00:40:12.227163 UTC

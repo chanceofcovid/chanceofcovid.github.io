@@ -2,18 +2,18 @@
 ## [Nevada](/united-states/nevada) / Clark
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.4%
-- 3 people: 8.1%
-- 5 people: 13.1%
-- 10 people: 24.4%
-- 25 people: 50.4%
-- 100 people: 93.9%
+- 1 person: 2.1%
+- 2 people: 4.2%
+- 3 people: 6.3%
+- 5 people: 10.2%
+- 10 people: 19.4%
+- 25 people: 41.7%
+- 100 people: 88.5%
 
-Last updated: 2022-02-01 00:40:11.325777 UTC
+Last updated: 2022-02-02 00:40:23.851314 UTC

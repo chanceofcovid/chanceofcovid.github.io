@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Barron
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.6%
-- 3 people: 9.7%
-- 5 people: 15.6%
-- 10 people: 28.8%
-- 25 people: 57.3%
-- 100 people: 96.7%
+- 1 person: 2.8%
+- 2 people: 5.5%
+- 3 people: 8.1%
+- 5 people: 13.2%
+- 10 people: 24.6%
+- 25 people: 50.6%
+- 100 people: 94.1%
 
-Last updated: 2022-02-01 00:40:15.605236 UTC
+Last updated: 2022-02-02 00:40:31.569864 UTC

@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Silver Bow
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.4%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.4%
-- 2 people: 21.6%
-- 3 people: 30.5%
-- 5 people: 45.5%
-- 10 people: 70.3%
-- 25 people: 95.2%
-- 100 people: 100.0%
+- 1 person: 3.5%
+- 2 people: 6.8%
+- 3 people: 10.1%
+- 5 people: 16.2%
+- 10 people: 29.8%
+- 25 people: 58.7%
+- 100 people: 97.1%
 
-Last updated: 2022-02-01 00:40:10.937953 UTC
+Last updated: 2022-02-02 00:40:23.141051 UTC

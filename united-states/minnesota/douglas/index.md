@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Douglas
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 3.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.8%
-- 3 people: 14.4%
-- 5 people: 22.8%
-- 10 people: 40.4%
-- 25 people: 72.6%
-- 100 people: 99.4%
+- 1 person: 3.8%
+- 2 people: 7.4%
+- 3 people: 11.0%
+- 5 people: 17.6%
+- 10 people: 32.1%
+- 25 people: 62.0%
+- 100 people: 97.9%
 
-Last updated: 2022-02-02 00:40:22.047897 UTC
+Last updated: 2022-02-03 00:37:51.779481 UTC

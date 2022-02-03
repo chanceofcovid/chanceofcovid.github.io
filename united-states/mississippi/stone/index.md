@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Stone
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 5.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.6%
-- 3 people: 14.0%
-- 5 people: 22.2%
-- 10 people: 39.5%
-- 25 people: 71.5%
-- 100 people: 99.3%
+- 1 person: 5.0%
+- 2 people: 9.7%
+- 3 people: 14.2%
+- 5 people: 22.5%
+- 10 people: 40.0%
+- 25 people: 72.1%
+- 100 people: 99.4%
 
-Last updated: 2022-02-02 00:40:22.407555 UTC
+Last updated: 2022-02-03 00:37:52.019849 UTC

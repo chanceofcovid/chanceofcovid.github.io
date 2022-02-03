@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Spokane
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 7.9%
+the "Estimated Prevalence" of COVID in this county is 12.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 7.9%
-- 2 people: 15.2%
-- 3 people: 22.0%
-- 5 people: 33.8%
-- 10 people: 56.2%
-- 25 people: 87.3%
+- 1 person: 12.3%
+- 2 people: 23.0%
+- 3 people: 32.5%
+- 5 people: 48.1%
+- 10 people: 73.0%
+- 25 people: 96.2%
 - 100 people: 100.0%
 
-Last updated: 2022-02-02 00:40:30.869033 UTC
+Last updated: 2022-02-03 00:37:56.296594 UTC

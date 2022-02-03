@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Sullivan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.1%
+the "Estimated Prevalence" of COVID in this county is 4.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.1%
-- 2 people: 11.8%
-- 3 people: 17.2%
-- 5 people: 27.0%
-- 10 people: 46.8%
-- 25 people: 79.3%
-- 100 people: 99.8%
+- 1 person: 4.7%
+- 2 people: 9.2%
+- 3 people: 13.4%
+- 5 people: 21.4%
+- 10 people: 38.2%
+- 25 people: 70.0%
+- 100 people: 99.2%
 
-Last updated: 2022-02-02 00:40:18.640094 UTC
+Last updated: 2022-02-03 00:37:49.682585 UTC

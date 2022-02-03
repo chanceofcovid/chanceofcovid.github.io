@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Howard
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.1%
+the "Estimated Prevalence" of COVID in this county is 3.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.1%
-- 2 people: 8.1%
-- 3 people: 11.9%
-- 5 people: 19.0%
-- 10 people: 34.4%
-- 25 people: 65.1%
-- 100 people: 98.5%
+- 1 person: 3.7%
+- 2 people: 7.2%
+- 3 people: 10.6%
+- 5 people: 17.0%
+- 10 people: 31.2%
+- 25 people: 60.7%
+- 100 people: 97.6%
 
-Last updated: 2022-02-02 00:40:18.632425 UTC
+Last updated: 2022-02-03 00:37:49.674890 UTC

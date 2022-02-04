@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Monroe
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.1%
+the "Estimated Prevalence" of COVID in this county is 4.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.1%
-- 2 people: 10.0%
-- 3 people: 14.6%
-- 5 people: 23.1%
-- 10 people: 40.9%
-- 25 people: 73.2%
-- 100 people: 99.5%
+- 1 person: 4.7%
+- 2 people: 9.2%
+- 3 people: 13.4%
+- 5 people: 21.4%
+- 10 people: 38.2%
+- 25 people: 70.0%
+- 100 people: 99.2%
 
-Last updated: 2022-02-03 00:37:50.256913 UTC
+Last updated: 2022-02-04 00:38:32.631675 UTC

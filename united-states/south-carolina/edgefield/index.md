@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / Edgefield
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.6%
+the "Estimated Prevalence" of COVID in this county is 2.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.6%
-- 2 people: 18.3%
-- 3 people: 26.2%
-- 5 people: 39.7%
-- 10 people: 63.7%
-- 25 people: 92.1%
-- 100 people: 100.0%
+- 1 person: 2.5%
+- 2 people: 5.0%
+- 3 people: 7.4%
+- 5 people: 12.1%
+- 10 people: 22.7%
+- 25 people: 47.4%
+- 100 people: 92.4%
 
-Last updated: 2022-02-03 00:37:54.973159 UTC
+Last updated: 2022-02-04 00:38:37.912764 UTC

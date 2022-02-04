@@ -2,18 +2,18 @@
 ## [South Carolina](/united-states/south-carolina) / York
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 12.8%
+the "Estimated Prevalence" of COVID in this county is 3.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 12.8%
-- 2 people: 24.0%
-- 3 people: 33.8%
-- 5 people: 49.7%
-- 10 people: 74.7%
-- 25 people: 96.8%
-- 100 people: 100.0%
+- 1 person: 3.3%
+- 2 people: 6.5%
+- 3 people: 9.5%
+- 5 people: 15.4%
+- 10 people: 28.4%
+- 25 people: 56.6%
+- 100 people: 96.5%
 
-Last updated: 2022-02-03 00:37:54.978860 UTC
+Last updated: 2022-02-04 00:38:37.917686 UTC

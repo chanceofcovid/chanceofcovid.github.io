@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Franklin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.2%
+the "Estimated Prevalence" of COVID in this county is 3.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.2%
-- 2 people: 8.3%
-- 3 people: 12.1%
-- 5 people: 19.4%
-- 10 people: 35.0%
-- 25 people: 66.0%
-- 100 people: 98.7%
+- 1 person: 3.7%
+- 2 people: 7.3%
+- 3 people: 10.8%
+- 5 people: 17.4%
+- 10 people: 31.7%
+- 25 people: 61.4%
+- 100 people: 97.8%
 
-Last updated: 2022-02-03 00:37:49.423776 UTC
+Last updated: 2022-02-04 00:38:31.799321 UTC

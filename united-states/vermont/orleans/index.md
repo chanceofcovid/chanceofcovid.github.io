@@ -2,18 +2,18 @@
 ## [Vermont](/united-states/vermont) / Orleans
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.3%
-- 3 people: 5.0%
-- 5 people: 8.1%
-- 10 people: 15.6%
-- 25 people: 34.6%
-- 100 people: 81.7%
+- 1 person: 1.4%
+- 2 people: 2.8%
+- 3 people: 4.2%
+- 5 people: 6.9%
+- 10 people: 13.4%
+- 25 people: 30.2%
+- 100 people: 76.2%
 
-Last updated: 2022-02-03 00:37:55.911622 UTC
+Last updated: 2022-02-04 00:38:38.916230 UTC

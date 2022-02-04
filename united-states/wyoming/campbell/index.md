@@ -2,18 +2,18 @@
 ## [Wyoming](/united-states/wyoming) / Campbell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.4%
+the "Estimated Prevalence" of COVID in this county is 3.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.4%
-- 2 people: 6.7%
-- 3 people: 9.9%
-- 5 people: 16.0%
-- 10 people: 29.4%
-- 25 people: 58.2%
-- 100 people: 96.9%
+- 1 person: 3.0%
+- 2 people: 6.0%
+- 3 people: 8.8%
+- 5 people: 14.2%
+- 10 people: 26.4%
+- 25 people: 53.6%
+- 100 people: 95.3%
 
-Last updated: 2022-02-03 00:37:56.846058 UTC
+Last updated: 2022-02-04 00:38:39.806832 UTC

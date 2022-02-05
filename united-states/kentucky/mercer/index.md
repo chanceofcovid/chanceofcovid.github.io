@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Mercer
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.7%
+the "Estimated Prevalence" of COVID in this county is 6.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.7%
-- 2 people: 16.6%
-- 3 people: 23.8%
-- 5 people: 36.4%
-- 10 people: 59.6%
-- 25 people: 89.6%
-- 100 people: 100.0%
+- 1 person: 6.7%
+- 2 people: 12.9%
+- 3 people: 18.7%
+- 5 people: 29.2%
+- 10 people: 49.8%
+- 25 people: 82.1%
+- 100 people: 99.9%
 
-Last updated: 2022-02-04 00:38:32.631394 UTC
+Last updated: 2022-02-05 00:33:35.067504 UTC

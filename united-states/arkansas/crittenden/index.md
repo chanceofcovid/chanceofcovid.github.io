@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Crittenden
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 1.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 4.0%
-- 3 people: 5.9%
-- 5 people: 9.7%
-- 10 people: 18.4%
-- 25 people: 39.9%
-- 100 people: 86.9%
+- 1 person: 1.9%
+- 2 people: 3.8%
+- 3 people: 5.7%
+- 5 people: 9.3%
+- 10 people: 17.8%
+- 25 people: 38.8%
+- 100 people: 85.9%
 
-Last updated: 2022-02-04 00:38:29.970572 UTC
+Last updated: 2022-02-05 00:33:29.944276 UTC

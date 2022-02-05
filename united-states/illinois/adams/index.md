@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Adams
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 2.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.3%
-- 25 people: 50.1%
-- 100 people: 93.8%
+- 1 person: 2.2%
+- 2 people: 4.3%
+- 3 people: 6.3%
+- 5 people: 10.3%
+- 10 people: 19.6%
+- 25 people: 42.1%
+- 100 people: 88.7%
 
-Last updated: 2022-02-04 00:38:31.794731 UTC
+Last updated: 2022-02-05 00:33:33.429913 UTC

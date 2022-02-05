@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Baldwin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.7%
+the "Estimated Prevalence" of COVID in this county is 4.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.7%
-- 2 people: 7.2%
-- 3 people: 10.6%
-- 5 people: 17.0%
-- 10 people: 31.1%
-- 25 people: 60.6%
-- 100 people: 97.6%
+- 1 person: 4.9%
+- 2 people: 9.6%
+- 3 people: 14.0%
+- 5 people: 22.3%
+- 10 people: 39.6%
+- 25 people: 71.6%
+- 100 people: 99.4%
 
-Last updated: 2022-02-04 00:38:29.395415 UTC
+Last updated: 2022-02-05 00:33:28.820038 UTC

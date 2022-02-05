@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Dooly
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.3%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.3%
-- 2 people: 8.3%
-- 3 people: 12.2%
-- 5 people: 19.6%
-- 10 people: 35.3%
-- 25 people: 66.3%
-- 100 people: 98.7%
+- 1 person: 2.8%
+- 2 people: 5.5%
+- 3 people: 8.2%
+- 5 people: 13.3%
+- 10 people: 24.8%
+- 25 people: 51.0%
+- 100 people: 94.2%
 
-Last updated: 2022-02-04 00:38:31.241541 UTC
+Last updated: 2022-02-05 00:33:32.392954 UTC

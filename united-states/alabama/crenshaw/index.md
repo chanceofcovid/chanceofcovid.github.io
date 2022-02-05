@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Crenshaw
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 10.8%
+the "Estimated Prevalence" of COVID in this county is 11.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 10.8%
-- 2 people: 20.5%
-- 3 people: 29.1%
-- 5 people: 43.6%
-- 10 people: 68.2%
-- 25 people: 94.3%
+- 1 person: 11.4%
+- 2 people: 21.5%
+- 3 people: 30.4%
+- 5 people: 45.4%
+- 10 people: 70.1%
+- 25 people: 95.1%
 - 100 people: 100.0%
 
-Last updated: 2022-02-04 00:38:29.398823 UTC
+Last updated: 2022-02-05 00:33:28.823956 UTC

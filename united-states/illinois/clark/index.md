@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Clark
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.5%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.5%
-- 2 people: 7.0%
-- 3 people: 10.2%
-- 5 people: 16.5%
-- 10 people: 30.2%
-- 25 people: 59.4%
-- 100 people: 97.3%
+- 1 person: 2.8%
+- 2 people: 5.5%
+- 3 people: 8.2%
+- 5 people: 13.2%
+- 10 people: 24.7%
+- 25 people: 50.8%
+- 100 people: 94.1%
 
-Last updated: 2022-02-04 00:38:31.796699 UTC
+Last updated: 2022-02-05 00:33:33.432201 UTC

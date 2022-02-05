@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / San Juan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.4%
-- 25 people: 50.3%
-- 100 people: 93.9%
+- 1 person: 3.5%
+- 2 people: 6.8%
+- 3 people: 10.0%
+- 5 people: 16.1%
+- 10 people: 29.7%
+- 25 people: 58.5%
+- 100 people: 97.0%
 
-Last updated: 2022-02-04 00:38:39.280997 UTC
+Last updated: 2022-02-05 00:33:45.641523 UTC

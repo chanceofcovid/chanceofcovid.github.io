@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Lowndes
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.2%
+the "Estimated Prevalence" of COVID in this county is 4.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.2%
-- 2 people: 15.8%
-- 3 people: 22.7%
-- 5 people: 34.9%
-- 10 people: 57.6%
-- 25 people: 88.3%
-- 100 people: 100.0%
+- 1 person: 4.8%
+- 2 people: 9.4%
+- 3 people: 13.8%
+- 5 people: 22.0%
+- 10 people: 39.1%
+- 25 people: 71.1%
+- 100 people: 99.3%
 
-Last updated: 2022-02-05 00:33:28.828109 UTC
+Last updated: 2022-02-06 00:44:36.749065 UTC

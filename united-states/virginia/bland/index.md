@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Bland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.3%
+the "Estimated Prevalence" of COVID in this county is 4.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.3%
-- 2 people: 10.3%
-- 3 people: 15.1%
-- 5 people: 23.8%
-- 10 people: 41.9%
-- 25 people: 74.3%
-- 100 people: 99.6%
+- 1 person: 4.2%
+- 2 people: 8.2%
+- 3 people: 12.0%
+- 5 people: 19.2%
+- 10 people: 34.7%
+- 25 people: 65.5%
+- 100 people: 98.6%
 
-Last updated: 2022-02-05 00:33:45.274981 UTC
+Last updated: 2022-02-06 00:44:45.492882 UTC

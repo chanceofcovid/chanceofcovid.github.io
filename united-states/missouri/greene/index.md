@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Greene
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.0%
-- 3 people: 8.9%
-- 5 people: 14.4%
-- 10 people: 26.7%
-- 25 people: 54.0%
-- 100 people: 95.5%
+- 1 person: 2.6%
+- 2 people: 5.1%
+- 3 people: 7.6%
+- 5 people: 12.3%
+- 10 people: 23.0%
+- 25 people: 48.0%
+- 100 people: 92.7%
 
-Last updated: 2022-02-05 00:33:37.898672 UTC
+Last updated: 2022-02-06 00:44:41.238433 UTC

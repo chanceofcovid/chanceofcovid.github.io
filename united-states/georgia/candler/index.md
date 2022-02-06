@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Candler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.5%
+the "Estimated Prevalence" of COVID in this county is 5.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.5%
-- 2 people: 12.6%
-- 3 people: 18.4%
-- 5 people: 28.7%
-- 10 people: 49.1%
-- 25 people: 81.5%
-- 100 people: 99.9%
+- 1 person: 5.0%
+- 2 people: 9.7%
+- 3 people: 14.2%
+- 5 people: 22.6%
+- 10 people: 40.0%
+- 25 people: 72.1%
+- 100 people: 99.4%
 
-Last updated: 2022-02-05 00:33:32.384601 UTC
+Last updated: 2022-02-06 00:44:38.497233 UTC

@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Lawrence
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.6%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.6%
-- 2 people: 7.0%
-- 3 people: 10.3%
-- 5 people: 16.6%
-- 10 people: 30.4%
-- 25 people: 59.6%
-- 100 people: 97.3%
+- 1 person: 3.5%
+- 2 people: 6.9%
+- 3 people: 10.2%
+- 5 people: 16.4%
+- 10 people: 30.1%
+- 25 people: 59.2%
+- 100 people: 97.2%
 
-Last updated: 2022-02-06 00:44:39.212900 UTC
+Last updated: 2022-02-07 00:39:31.139346 UTC

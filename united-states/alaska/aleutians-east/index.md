@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Aleutians East
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 13.3%
+the "Estimated Prevalence" of COVID in this county is 13.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 13.3%
-- 2 people: 24.8%
-- 3 people: 34.8%
-- 5 people: 51.0%
-- 10 people: 76.0%
-- 25 people: 97.2%
+- 1 person: 13.2%
+- 2 people: 24.7%
+- 3 people: 34.7%
+- 5 people: 50.8%
+- 10 people: 75.8%
+- 25 people: 97.1%
 - 100 people: 100.0%
 
-Last updated: 2022-02-06 00:44:36.947346 UTC
+Last updated: 2022-02-07 00:39:28.210166 UTC

@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Brown
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
+- 1 person: 2.0%
 - 2 people: 4.1%
-- 3 people: 6.1%
-- 5 people: 10.0%
-- 10 people: 19.0%
-- 25 people: 40.9%
-- 100 people: 87.8%
+- 3 people: 6.0%
+- 5 people: 9.8%
+- 10 people: 18.7%
+- 25 people: 40.4%
+- 100 people: 87.4%
 
-Last updated: 2022-02-06 00:44:39.580798 UTC
+Last updated: 2022-02-07 00:39:31.512209 UTC

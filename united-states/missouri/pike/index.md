@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Pike
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 3.0%
-- 3 people: 4.5%
-- 5 people: 7.3%
-- 10 people: 14.1%
-- 25 people: 31.6%
-- 100 people: 78.1%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.5%
+- 5 people: 5.8%
+- 10 people: 11.3%
+- 25 people: 25.8%
+- 100 people: 69.7%
 
-Last updated: 2022-02-06 00:44:41.249297 UTC
+Last updated: 2022-02-07 00:39:33.412020 UTC

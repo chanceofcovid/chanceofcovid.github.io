@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Allen
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.4%
-- 3 people: 10.9%
-- 5 people: 17.4%
-- 10 people: 31.8%
-- 25 people: 61.6%
-- 100 people: 97.8%
+- 1 person: 0.9%
+- 2 people: 1.7%
+- 3 people: 2.6%
+- 5 people: 4.3%
+- 10 people: 8.4%
+- 25 people: 19.6%
+- 100 people: 58.3%
 
-Last updated: 2022-02-23 00:47:55.186656 UTC
+Last updated: 2022-02-24 00:45:26.992755 UTC

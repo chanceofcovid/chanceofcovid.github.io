@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Pawnee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.2%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.2%
-- 2 people: 6.2%
-- 3 people: 9.2%
-- 5 people: 14.8%
-- 10 people: 27.4%
-- 25 people: 55.1%
-- 100 people: 95.9%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 0.8%
+- 5 people: 1.4%
+- 10 people: 2.8%
+- 25 people: 6.8%
+- 100 people: 24.6%
 
-Last updated: 2022-02-23 00:47:58.795429 UTC
+Last updated: 2022-02-24 00:45:29.679874 UTC

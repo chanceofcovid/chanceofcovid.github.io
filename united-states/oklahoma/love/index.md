@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Love
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.8%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.8%
-- 2 people: 9.5%
-- 3 people: 13.9%
-- 5 people: 22.0%
-- 10 people: 39.2%
-- 25 people: 71.1%
-- 100 people: 99.3%
+- 1 person: 0.4%
+- 2 people: 0.9%
+- 3 people: 1.3%
+- 5 people: 2.2%
+- 10 people: 4.3%
+- 25 people: 10.3%
+- 100 people: 35.3%
 
-Last updated: 2022-02-23 00:48:02.047782 UTC
+Last updated: 2022-02-24 00:45:32.154276 UTC

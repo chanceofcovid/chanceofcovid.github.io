@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Wilson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.4%
-- 3 people: 11.0%
-- 5 people: 17.6%
-- 10 people: 32.1%
-- 25 people: 62.0%
-- 100 people: 97.9%
+- 1 person: 1.0%
+- 2 people: 2.1%
+- 3 people: 3.1%
+- 5 people: 5.1%
+- 10 people: 10.0%
+- 25 people: 23.1%
+- 100 people: 65.0%
 
-Last updated: 2022-02-23 00:48:04.354785 UTC
+Last updated: 2022-02-24 00:45:33.503482 UTC

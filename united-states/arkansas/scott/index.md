@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Scott
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.8%
-- 3 people: 5.7%
-- 5 people: 9.3%
-- 10 people: 17.7%
-- 25 people: 38.6%
-- 100 people: 85.8%
+- 1 person: 0.5%
+- 2 people: 1.1%
+- 3 people: 1.6%
+- 5 people: 2.7%
+- 10 people: 5.3%
+- 25 people: 12.7%
+- 100 people: 42.0%
 
-Last updated: 2022-02-23 00:47:50.401782 UTC
+Last updated: 2022-02-24 00:45:23.947732 UTC

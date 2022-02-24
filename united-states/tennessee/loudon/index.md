@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Loudon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.9%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.9%
-- 2 people: 9.5%
-- 3 people: 13.9%
-- 5 people: 22.0%
-- 10 people: 39.2%
-- 25 people: 71.2%
-- 100 people: 99.3%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.5%
+- 5 people: 5.8%
+- 10 people: 11.3%
+- 25 people: 25.9%
+- 100 people: 69.8%
 
-Last updated: 2022-02-23 00:48:04.343254 UTC
+Last updated: 2022-02-24 00:45:33.492308 UTC

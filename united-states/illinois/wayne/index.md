@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Wayne
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.8%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.8%
-- 2 people: 5.6%
-- 3 people: 8.3%
-- 5 people: 13.4%
-- 10 people: 25.1%
-- 25 people: 51.4%
-- 100 people: 94.4%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.5%
+- 5 people: 2.4%
+- 10 people: 4.8%
+- 25 people: 11.5%
+- 100 people: 38.7%
 
-Last updated: 2022-02-23 00:47:53.785337 UTC
+Last updated: 2022-02-24 00:45:26.128385 UTC

@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Kingfisher
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.5%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.5%
-- 2 people: 6.9%
-- 3 people: 10.1%
-- 5 people: 16.3%
-- 10 people: 29.9%
-- 25 people: 58.9%
-- 100 people: 97.2%
+- 1 person: 0.7%
+- 2 people: 1.5%
+- 3 people: 2.2%
+- 5 people: 3.6%
+- 10 people: 7.1%
+- 25 people: 16.7%
+- 100 people: 52.0%
 
-Last updated: 2022-02-23 00:48:02.046253 UTC
+Last updated: 2022-02-24 00:45:32.153073 UTC

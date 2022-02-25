@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Botetourt
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.5%
+the "Estimated Prevalence" of COVID in this county is 5.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.5%
-- 2 people: 10.7%
-- 3 people: 15.6%
-- 5 people: 24.6%
-- 10 people: 43.1%
-- 25 people: 75.6%
-- 100 people: 99.6%
+- 1 person: 5.3%
+- 2 people: 10.2%
+- 3 people: 15.0%
+- 5 people: 23.7%
+- 10 people: 41.7%
+- 25 people: 74.1%
+- 100 people: 99.5%
 
-Last updated: 2022-02-24 00:45:34.431047 UTC
+Last updated: 2022-02-25 00:46:03.505070 UTC

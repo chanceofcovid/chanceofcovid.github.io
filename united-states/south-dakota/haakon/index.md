@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Haakon
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.3%
-- 3 people: 1.9%
-- 5 people: 3.2%
-- 10 people: 6.2%
-- 25 people: 14.8%
-- 100 people: 47.4%
+- 1 person: 1.3%
+- 2 people: 2.5%
+- 3 people: 3.8%
+- 5 people: 6.2%
+- 10 people: 12.1%
+- 25 people: 27.6%
+- 100 people: 72.5%
 
-Last updated: 2022-02-24 00:45:33.274034 UTC
+Last updated: 2022-02-25 00:46:01.705056 UTC

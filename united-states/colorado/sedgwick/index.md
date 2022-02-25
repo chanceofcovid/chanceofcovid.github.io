@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / Sedgwick
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
+- 1 person: 0.7%
 - 2 people: 1.5%
-- 3 people: 2.3%
-- 5 people: 3.8%
-- 10 people: 7.4%
-- 25 people: 17.6%
-- 100 people: 53.8%
+- 3 people: 2.2%
+- 5 people: 3.7%
+- 10 people: 7.2%
+- 25 people: 17.0%
+- 100 people: 52.6%
 
-Last updated: 2022-02-24 00:45:24.334700 UTC
+Last updated: 2022-02-25 00:45:54.728099 UTC

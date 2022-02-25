@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Richmond
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
+- 1 person: 0.4%
+- 2 people: 0.7%
 - 3 people: 1.0%
-- 5 people: 1.6%
-- 10 people: 3.2%
-- 25 people: 7.8%
-- 100 people: 27.8%
+- 5 people: 1.7%
+- 10 people: 3.5%
+- 25 people: 8.4%
+- 100 people: 29.6%
 
-Last updated: 2022-02-24 00:45:34.445390 UTC
+Last updated: 2022-02-25 00:46:03.522184 UTC

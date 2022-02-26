@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Pointe Coupee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 8.3%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 8.3%
-- 2 people: 15.9%
-- 3 people: 22.9%
-- 5 people: 35.1%
-- 10 people: 57.9%
-- 25 people: 88.5%
-- 100 people: 100.0%
+- 1 person: 0.3%
+- 2 people: 0.7%
+- 3 people: 1.0%
+- 5 people: 1.7%
+- 10 people: 3.4%
+- 25 people: 8.2%
+- 100 people: 29.1%
 
-Last updated: 2022-02-25 00:45:57.229536 UTC
+Last updated: 2022-02-26 00:41:38.188371 UTC

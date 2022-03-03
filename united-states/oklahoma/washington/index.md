@@ -14,6 +14,6 @@ If you interact with a certain number of people in this location
 - 5 people: 2.1%
 - 10 people: 4.1%
 - 25 people: 9.8%
-- 100 people: 34.0%
+- 100 people: 33.9%
 
-Last updated: 2022-03-02 00:49:10.570411 UTC
+Last updated: 2022-03-03 00:48:52.431519 UTC

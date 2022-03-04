@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Sanborn
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.7%
-- 5 people: 7.8%
-- 10 people: 14.9%
-- 25 people: 33.3%
-- 100 people: 80.2%
+- 1 person: 0.2%
+- 2 people: 0.5%
+- 3 people: 0.7%
+- 5 people: 1.2%
+- 10 people: 2.4%
+- 25 people: 5.9%
+- 100 people: 21.7%
 
-Last updated: 2022-03-03 00:48:54.220535 UTC
+Last updated: 2022-03-04 00:52:20.808819 UTC

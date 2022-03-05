@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Loving
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.5%
+the "Estimated Prevalence" of COVID in this county is 1.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.5%
-- 2 people: 6.8%
-- 3 people: 10.0%
-- 5 people: 16.2%
-- 10 people: 29.7%
-- 25 people: 58.6%
-- 100 people: 97.1%
+- 1 person: 1.6%
+- 2 people: 3.2%
+- 3 people: 4.8%
+- 5 people: 7.9%
+- 10 people: 15.2%
+- 25 people: 33.7%
+- 100 people: 80.7%
 
-Last updated: 2022-03-04 00:52:21.555619 UTC
+Last updated: 2022-03-05 00:49:09.316916 UTC

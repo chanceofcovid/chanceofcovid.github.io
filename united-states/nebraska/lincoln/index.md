@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Lincoln
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.7%
+the "Estimated Prevalence" of COVID in this county is 6.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.7%
-- 2 people: 12.9%
-- 3 people: 18.7%
-- 5 people: 29.2%
-- 10 people: 49.8%
-- 25 people: 82.2%
+- 1 person: 6.4%
+- 2 people: 12.5%
+- 3 people: 18.1%
+- 5 people: 28.3%
+- 10 people: 48.7%
+- 25 people: 81.1%
 - 100 people: 99.9%
 
-Last updated: 2022-03-04 00:52:15.754162 UTC
+Last updated: 2022-03-05 00:49:05.968347 UTC

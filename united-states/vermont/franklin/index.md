@@ -2,18 +2,18 @@
 ## [Vermont](/united-states/vermont) / Franklin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 9.1%
+the "Estimated Prevalence" of COVID in this county is 8.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 9.1%
-- 2 people: 17.4%
-- 3 people: 24.9%
-- 5 people: 37.9%
-- 10 people: 61.5%
-- 25 people: 90.8%
+- 1 person: 8.9%
+- 2 people: 17.0%
+- 3 people: 24.4%
+- 5 people: 37.3%
+- 10 people: 60.7%
+- 25 people: 90.3%
 - 100 people: 100.0%
 
-Last updated: 2022-03-05 00:49:09.744967 UTC
+Last updated: 2022-03-06 00:46:11.381590 UTC

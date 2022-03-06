@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Rice
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.7%
-- 10 people: 7.2%
-- 25 people: 17.1%
-- 100 people: 52.9%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.5%
+- 5 people: 4.1%
+- 10 people: 8.0%
+- 25 people: 18.7%
+- 100 people: 56.3%
 
-Last updated: 2022-03-05 00:49:03.373619 UTC
+Last updated: 2022-03-06 00:46:04.559708 UTC

@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Glacier
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.6%
-- 10 people: 9.0%
-- 25 people: 20.9%
-- 100 people: 60.9%
+- 1 person: 3.9%
+- 2 people: 7.6%
+- 3 people: 11.2%
+- 5 people: 18.0%
+- 10 people: 32.8%
+- 25 people: 62.9%
+- 100 people: 98.1%
 
-Last updated: 2022-03-05 00:49:05.750834 UTC
+Last updated: 2022-03-06 00:46:07.169057 UTC

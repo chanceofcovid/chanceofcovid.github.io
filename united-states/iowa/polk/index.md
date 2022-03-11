@@ -2,18 +2,18 @@
 ## [Iowa](/united-states/iowa) / Polk
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.6%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.6%
-- 2 people: 9.0%
-- 3 people: 13.2%
-- 5 people: 21.1%
-- 10 people: 37.7%
-- 25 people: 69.4%
-- 100 people: 99.1%
+- 1 person: 0.4%
+- 2 people: 0.7%
+- 3 people: 1.0%
+- 5 people: 1.7%
+- 10 people: 3.5%
+- 25 people: 8.4%
+- 100 people: 29.7%
 
-Last updated: 2022-03-10 00:49:41.509493 UTC
+Last updated: 2022-03-11 00:51:37.793017 UTC

@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / DeKalb
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.3%
-- 5 people: 3.9%
-- 10 people: 7.6%
-- 25 people: 18.0%
-- 100 people: 54.7%
+- 1 person: 0.7%
+- 2 people: 1.3%
+- 3 people: 2.0%
+- 5 people: 3.2%
+- 10 people: 6.4%
+- 25 people: 15.2%
+- 100 people: 48.2%
 
-Last updated: 2022-03-16 00:51:06.717258 UTC
+Last updated: 2022-03-17 00:49:16.363668 UTC

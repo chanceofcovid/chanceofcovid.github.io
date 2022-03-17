@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Cumberland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 1.9%
-- 3 people: 2.9%
-- 5 people: 4.7%
-- 10 people: 9.2%
-- 25 people: 21.5%
-- 100 people: 62.0%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.1%
+- 5 people: 3.4%
+- 10 people: 6.8%
+- 25 people: 16.0%
+- 100 people: 50.3%
 
-Last updated: 2022-03-16 00:51:16.880270 UTC
+Last updated: 2022-03-17 00:49:25.743166 UTC

@@ -2,18 +2,18 @@
 ## [Northern Mariana Islands](/united-states/northern-mariana-islands) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.4%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.4%
-- 2 people: 2.7%
-- 3 people: 4.1%
-- 5 people: 6.7%
-- 10 people: 12.9%
-- 25 people: 29.2%
-- 100 people: 74.8%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 1.0%
+- 5 people: 1.6%
+- 10 people: 3.2%
+- 25 people: 7.8%
+- 100 people: 27.6%
 
-Last updated: 2022-03-31 00:52:07.939515 UTC
+Last updated: 2022-04-01 00:59:24.179202 UTC

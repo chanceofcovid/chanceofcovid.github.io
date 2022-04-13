@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Swisher
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 20.3%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 20.3%
-- 2 people: 36.5%
-- 3 people: 49.4%
-- 5 people: 67.9%
-- 10 people: 89.7%
-- 25 people: 99.7%
-- 100 people: 100.0%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 0.9%
+- 10 people: 1.9%
+- 25 people: 4.6%
+- 100 people: 17.1%
 
-Last updated: 2022-04-12 00:53:44.604363 UTC
+Last updated: 2022-04-13 00:57:52.020618 UTC

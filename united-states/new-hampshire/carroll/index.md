@@ -2,18 +2,18 @@
 ## [New Hampshire](/united-states/new-hampshire) / Carroll
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.6%
-- 10 people: 7.1%
-- 25 people: 16.7%
-- 100 people: 51.9%
+- 1 person: 1.0%
+- 2 people: 2.0%
+- 3 people: 3.0%
+- 5 people: 4.9%
+- 10 people: 9.6%
+- 25 people: 22.3%
+- 100 people: 63.6%
 
-Last updated: 2022-04-12 00:53:41.525188 UTC
+Last updated: 2022-04-13 00:57:49.228821 UTC

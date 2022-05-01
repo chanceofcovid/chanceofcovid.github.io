@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Swain
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
-- 2 people: 0.1%
-- 3 people: 0.2%
-- 5 people: 0.3%
-- 10 people: 0.6%
-- 25 people: 1.5%
-- 100 people: 5.8%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.6%
+- 5 people: 12.4%
+- 10 people: 23.3%
+- 25 people: 48.5%
+- 100 people: 92.9%
 
-Last updated: 2022-04-30 01:04:10.728814 UTC
+Last updated: 2022-05-01 01:14:37.118341 UTC

@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Jayuya
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.3%
+the "Estimated Prevalence" of COVID in this county is 5.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.3%
-- 2 people: 8.4%
-- 3 people: 12.4%
-- 5 people: 19.8%
-- 10 people: 35.6%
-- 25 people: 66.8%
-- 100 people: 98.8%
+- 1 person: 5.5%
+- 2 people: 10.6%
+- 3 people: 15.5%
+- 5 people: 24.5%
+- 10 people: 43.0%
+- 25 people: 75.4%
+- 100 people: 99.6%
 
-Last updated: 2022-05-01 01:14:40.569116 UTC
+Last updated: 2022-05-02 00:59:59.546289 UTC

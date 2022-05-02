@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Highland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 2.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.2%
+- 1 person: 2.2%
+- 2 people: 4.3%
 - 3 people: 6.3%
 - 5 people: 10.3%
-- 10 people: 19.5%
-- 25 people: 41.9%
-- 100 people: 88.6%
+- 10 people: 19.6%
+- 25 people: 42.0%
+- 100 people: 88.7%
 
-Last updated: 2022-05-01 01:14:39.370083 UTC
+Last updated: 2022-05-02 00:59:58.288646 UTC

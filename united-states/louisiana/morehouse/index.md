@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Morehouse
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.0%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.0%
-- 2 people: 0.0%
-- 3 people: 0.1%
-- 5 people: 0.1%
-- 10 people: 0.2%
-- 25 people: 0.4%
-- 100 people: 1.7%
+- 1 person: 0.1%
+- 2 people: 0.1%
+- 3 people: 0.2%
+- 5 people: 0.3%
+- 10 people: 0.6%
+- 25 people: 1.6%
+- 100 people: 6.1%
 
-Last updated: 2022-05-21 00:54:45.167874 UTC
+Last updated: 2022-05-22 01:00:23.772554 UTC

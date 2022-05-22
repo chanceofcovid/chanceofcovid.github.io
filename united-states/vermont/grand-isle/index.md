@@ -2,18 +2,18 @@
 ## [Vermont](/united-states/vermont) / Grand Isle
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.1%
-- 3 people: 4.6%
-- 5 people: 7.6%
-- 10 people: 14.6%
-- 25 people: 32.7%
-- 100 people: 79.4%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.1%
+- 5 people: 3.5%
+- 10 people: 6.9%
+- 25 people: 16.3%
+- 100 people: 51.0%
 
-Last updated: 2022-05-21 00:54:49.962987 UTC
+Last updated: 2022-05-22 01:00:29.282201 UTC

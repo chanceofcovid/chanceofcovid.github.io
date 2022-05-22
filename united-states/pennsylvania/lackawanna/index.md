@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Lackawanna
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.1%
-- 5 people: 3.5%
-- 10 people: 6.8%
-- 25 people: 16.2%
-- 100 people: 50.7%
+- 1 person: 1.1%
+- 2 people: 2.2%
+- 3 people: 3.2%
+- 5 people: 5.3%
+- 10 people: 10.4%
+- 25 people: 24.0%
+- 100 people: 66.7%
 
-Last updated: 2022-05-21 00:54:48.749723 UTC
+Last updated: 2022-05-22 01:00:27.888039 UTC

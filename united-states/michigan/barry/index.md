@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Barry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.8%
-- 5 people: 1.4%
-- 10 people: 2.8%
-- 25 people: 6.8%
-- 100 people: 24.4%
+- 1 person: 0.7%
+- 2 people: 1.3%
+- 3 people: 2.0%
+- 5 people: 3.3%
+- 10 people: 6.5%
+- 25 people: 15.5%
+- 100 people: 49.0%
 
-Last updated: 2022-05-21 00:54:45.811467 UTC
+Last updated: 2022-05-22 01:00:24.569826 UTC

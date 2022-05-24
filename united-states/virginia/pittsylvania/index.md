@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Pittsylvania
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 1.1%
-- 3 people: 1.6%
-- 5 people: 2.7%
-- 10 people: 5.2%
-- 25 people: 12.6%
-- 100 people: 41.6%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.1%
+- 5 people: 3.5%
+- 10 people: 6.8%
+- 25 people: 16.1%
+- 100 people: 50.5%
 
-Last updated: 2022-05-23 00:57:39.949453 UTC
+Last updated: 2022-05-24 01:05:56.892480 UTC

@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Shelby
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 0.9%
-- 3 people: 1.4%
-- 5 people: 2.3%
-- 10 people: 4.6%
-- 25 people: 11.1%
-- 100 people: 37.5%
+- 1 person: 0.6%
+- 2 people: 1.1%
+- 3 people: 1.7%
+- 5 people: 2.7%
+- 10 people: 5.4%
+- 25 people: 13.0%
+- 100 people: 42.7%
 
-Last updated: 2022-05-23 00:57:34.307749 UTC
+Last updated: 2022-05-24 01:05:49.749975 UTC

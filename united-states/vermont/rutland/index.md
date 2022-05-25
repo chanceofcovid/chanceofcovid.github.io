@@ -2,18 +2,18 @@
 ## [Vermont](/united-states/vermont) / Rutland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 1.9%
-- 3 people: 2.9%
-- 5 people: 4.8%
-- 10 people: 9.3%
-- 25 people: 21.7%
-- 100 people: 62.4%
+- 1 person: 0.4%
+- 2 people: 0.8%
+- 3 people: 1.2%
+- 5 people: 2.1%
+- 10 people: 4.1%
+- 25 people: 9.9%
+- 100 people: 34.2%
 
-Last updated: 2022-05-24 01:05:56.692422 UTC
+Last updated: 2022-05-25 01:02:52.118238 UTC

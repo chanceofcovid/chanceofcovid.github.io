@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Skagway
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 24.7%
+the "Estimated Prevalence" of COVID in this county is 24.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 24.7%
-- 2 people: 43.3%
-- 3 people: 57.3%
-- 5 people: 75.8%
-- 10 people: 94.1%
+- 1 person: 24.4%
+- 2 people: 42.8%
+- 3 people: 56.7%
+- 5 people: 75.3%
+- 10 people: 93.9%
 - 25 people: 99.9%
 - 100 people: 100.0%
 
-Last updated: 2022-05-24 01:05:46.924462 UTC
+Last updated: 2022-05-25 01:02:31.056430 UTC

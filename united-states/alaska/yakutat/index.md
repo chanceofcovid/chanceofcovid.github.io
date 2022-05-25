@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Yakutat
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 25.0%
+the "Estimated Prevalence" of COVID in this county is 24.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 25.0%
-- 2 people: 43.7%
-- 3 people: 57.8%
-- 5 people: 76.3%
-- 10 people: 94.4%
+- 1 person: 24.9%
+- 2 people: 43.6%
+- 3 people: 57.7%
+- 5 people: 76.2%
+- 10 people: 94.3%
 - 25 people: 99.9%
 - 100 people: 100.0%
 
-Last updated: 2022-05-24 01:05:46.925126 UTC
+Last updated: 2022-05-25 01:02:31.057112 UTC

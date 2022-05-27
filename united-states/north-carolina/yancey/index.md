@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Yancey
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.1%
-- 5 people: 8.4%
-- 10 people: 16.0%
-- 25 people: 35.3%
-- 100 people: 82.5%
+- 1 person: 3.1%
+- 2 people: 6.2%
+- 3 people: 9.1%
+- 5 people: 14.8%
+- 10 people: 27.3%
+- 25 people: 55.0%
+- 100 people: 95.9%
 
-Last updated: 2022-05-26 01:06:08.122237 UTC
+Last updated: 2022-05-27 01:00:38.815953 UTC

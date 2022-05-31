@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Catawba
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.7%
-- 10 people: 7.2%
-- 25 people: 17.0%
-- 100 people: 52.5%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.5%
+- 5 people: 2.5%
+- 10 people: 4.9%
+- 25 people: 11.8%
+- 100 people: 39.5%
 
-Last updated: 2022-05-30 01:07:27.255939 UTC
+Last updated: 2022-05-31 01:02:02.426573 UTC

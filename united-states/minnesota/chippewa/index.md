@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Chippewa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.6%
-- 10 people: 8.9%
-- 25 people: 20.9%
-- 100 people: 60.8%
+- 1 person: 0.5%
+- 2 people: 0.9%
+- 3 people: 1.4%
+- 5 people: 2.3%
+- 10 people: 4.6%
+- 25 people: 11.1%
+- 100 people: 37.5%
 
-Last updated: 2022-05-30 01:07:25.254464 UTC
+Last updated: 2022-05-31 01:01:58.451018 UTC

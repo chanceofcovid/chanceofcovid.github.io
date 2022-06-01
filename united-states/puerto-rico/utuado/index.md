@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Utuado
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 3.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.2%
-- 3 people: 7.7%
-- 5 people: 12.5%
-- 10 people: 23.4%
-- 25 people: 48.7%
-- 100 people: 93.0%
+- 1 person: 3.5%
+- 2 people: 6.9%
+- 3 people: 10.1%
+- 5 people: 16.3%
+- 10 people: 30.0%
+- 25 people: 59.0%
+- 100 people: 97.2%
 
-Last updated: 2022-05-31 01:02:10.181097 UTC
+Last updated: 2022-06-01 01:10:59.028154 UTC

@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Kenosha
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.3%
-- 3 people: 5.0%
-- 5 people: 8.2%
-- 10 people: 15.7%
-- 25 people: 34.7%
-- 100 people: 81.8%
+- 1 person: 0.6%
+- 2 people: 1.1%
+- 3 people: 1.7%
+- 5 people: 2.8%
+- 10 people: 5.5%
+- 25 people: 13.3%
+- 100 people: 43.4%
 
-Last updated: 2022-06-01 01:10:57.212849 UTC
+Last updated: 2022-06-02 01:07:13.786244 UTC

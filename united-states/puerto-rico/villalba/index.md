@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Villalba
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.1%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.1%
-- 2 people: 6.2%
-- 3 people: 9.1%
-- 5 people: 14.8%
-- 10 people: 27.3%
-- 25 people: 55.0%
-- 100 people: 95.9%
+- 1 person: 2.8%
+- 2 people: 5.6%
+- 3 people: 8.3%
+- 5 people: 13.4%
+- 10 people: 25.1%
+- 25 people: 51.4%
+- 100 people: 94.4%
 
-Last updated: 2022-06-06 01:02:02.683122 UTC
+Last updated: 2022-06-07 00:52:45.536171 UTC

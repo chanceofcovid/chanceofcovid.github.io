@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Jenkins
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.8%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.8%
-- 2 people: 3.6%
-- 3 people: 5.3%
-- 5 people: 8.7%
-- 10 people: 16.7%
-- 25 people: 36.7%
-- 100 people: 83.9%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 1.0%
+- 10 people: 2.0%
+- 25 people: 5.0%
+- 100 people: 18.7%
 
-Last updated: 2022-06-28 01:08:03.385555 UTC
+Last updated: 2022-06-29 01:03:47.184697 UTC

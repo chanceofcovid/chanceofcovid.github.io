@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Brazoria
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.1%
-- 3 people: 1.7%
-- 5 people: 2.8%
-- 10 people: 5.5%
-- 25 people: 13.3%
-- 100 people: 43.4%
+- 1 person: 1.7%
+- 2 people: 3.4%
+- 3 people: 5.0%
+- 5 people: 8.2%
+- 10 people: 15.8%
+- 25 people: 35.0%
+- 100 people: 82.1%
 
-Last updated: 2022-06-28 01:08:10.252487 UTC
+Last updated: 2022-06-29 01:03:54.420299 UTC

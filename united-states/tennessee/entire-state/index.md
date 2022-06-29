@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Entire state
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.3%
-- 3 people: 2.0%
-- 5 people: 3.3%
-- 10 people: 6.5%
-- 25 people: 15.5%
-- 100 people: 48.9%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.6%
+- 5 people: 5.9%
+- 10 people: 11.5%
+- 25 people: 26.3%
+- 100 people: 70.6%
 
-Last updated: 2022-06-28 01:08:10.047326 UTC
+Last updated: 2022-06-29 01:03:54.199024 UTC

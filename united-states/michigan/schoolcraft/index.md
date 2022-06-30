@@ -2,18 +2,18 @@
 ## [Michigan](/united-states/michigan) / Schoolcraft
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.7%
-- 3 people: 1.1%
-- 5 people: 1.8%
-- 10 people: 3.5%
-- 25 people: 8.6%
-- 100 people: 30.2%
+- 1 person: 0.8%
+- 2 people: 1.7%
+- 3 people: 2.5%
+- 5 people: 4.1%
+- 10 people: 8.1%
+- 25 people: 19.0%
+- 100 people: 56.9%
 
-Last updated: 2022-06-29 01:03:49.678281 UTC
+Last updated: 2022-06-30 01:04:34.617075 UTC

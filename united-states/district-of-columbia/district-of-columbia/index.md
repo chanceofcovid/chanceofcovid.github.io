@@ -2,18 +2,18 @@
 ## [District of Columbia](/united-states/district-of-columbia) / District of Columbia
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.0%
-- 3 people: 2.9%
-- 5 people: 4.8%
-- 10 people: 9.4%
-- 25 people: 21.9%
-- 100 people: 62.8%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.5%
+- 5 people: 2.5%
+- 10 people: 5.0%
+- 25 people: 12.0%
+- 100 people: 40.0%
 
-Last updated: 2022-06-30 01:04:26.628818 UTC
+Last updated: 2022-07-01 01:12:37.839616 UTC

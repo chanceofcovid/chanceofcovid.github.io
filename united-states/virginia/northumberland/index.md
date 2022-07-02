@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Northumberland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.2%
-- 5 people: 3.6%
-- 10 people: 7.0%
-- 25 people: 16.7%
-- 100 people: 51.8%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.7%
+- 10 people: 9.1%
+- 25 people: 21.2%
+- 100 people: 61.5%
 
-Last updated: 2022-07-01 01:12:54.776621 UTC
+Last updated: 2022-07-02 01:03:19.824541 UTC

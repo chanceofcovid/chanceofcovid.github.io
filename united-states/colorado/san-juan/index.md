@@ -2,18 +2,18 @@
 ## [Colorado](/united-states/colorado) / San Juan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 8.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.5%
-- 3 people: 11.1%
-- 5 people: 17.8%
-- 10 people: 32.4%
-- 25 people: 62.4%
-- 100 people: 98.0%
+- 1 person: 8.3%
+- 2 people: 15.9%
+- 3 people: 22.9%
+- 5 people: 35.2%
+- 10 people: 58.0%
+- 25 people: 88.6%
+- 100 people: 100.0%
 
-Last updated: 2022-07-02 01:03:12.288174 UTC
+Last updated: 2022-07-03 01:06:52.702671 UTC

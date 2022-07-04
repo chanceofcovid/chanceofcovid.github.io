@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Cidra
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.5%
+the "Estimated Prevalence" of COVID in this county is 2.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.5%
-- 2 people: 4.9%
-- 3 people: 7.3%
-- 5 people: 11.9%
-- 10 people: 22.3%
-- 25 people: 46.8%
-- 100 people: 92.0%
+- 1 person: 2.4%
+- 2 people: 4.8%
+- 3 people: 7.2%
+- 5 people: 11.7%
+- 10 people: 22.0%
+- 25 people: 46.2%
+- 100 people: 91.6%
 
-Last updated: 2022-07-03 01:07:17.675113 UTC
+Last updated: 2022-07-04 01:12:45.261048 UTC

@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Estill
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.0%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.0%
-- 2 people: 0.0%
-- 3 people: 0.1%
-- 5 people: 0.1%
-- 10 people: 0.2%
-- 25 people: 0.4%
-- 100 people: 1.7%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.9%
+- 5 people: 4.7%
+- 10 people: 9.2%
+- 25 people: 21.5%
+- 100 people: 62.0%
 
-Last updated: 2022-07-06 01:13:10.598279 UTC
+Last updated: 2022-07-07 01:08:14.620043 UTC

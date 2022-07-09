@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Florence
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.7%
-- 5 people: 7.7%
-- 10 people: 14.8%
-- 25 people: 33.0%
-- 100 people: 79.9%
+- 1 person: 0.7%
+- 2 people: 1.3%
+- 3 people: 2.0%
+- 5 people: 3.3%
+- 10 people: 6.5%
+- 25 people: 15.5%
+- 100 people: 49.1%
 
-Last updated: 2022-07-08 01:10:09.944535 UTC
+Last updated: 2022-07-09 00:58:32.458491 UTC

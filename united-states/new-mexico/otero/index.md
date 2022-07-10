@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Otero
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.9%
-- 3 people: 1.3%
-- 5 people: 2.1%
-- 10 people: 4.2%
-- 25 people: 10.2%
-- 100 people: 35.0%
+- 1 person: 0.6%
+- 2 people: 1.3%
+- 3 people: 1.9%
+- 5 people: 3.2%
+- 10 people: 6.2%
+- 25 people: 14.9%
+- 100 people: 47.5%
 
-Last updated: 2022-07-09 00:58:22.084014 UTC
+Last updated: 2022-07-10 01:11:48.477347 UTC

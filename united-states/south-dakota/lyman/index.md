@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Lyman
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.4%
-- 5 people: 5.5%
-- 10 people: 10.7%
-- 25 people: 24.7%
-- 100 people: 67.9%
+- 1 person: 1.2%
+- 2 people: 2.4%
+- 3 people: 3.5%
+- 5 people: 5.8%
+- 10 people: 11.2%
+- 25 people: 25.8%
+- 100 people: 69.6%
 
-Last updated: 2022-07-10 01:11:50.604090 UTC
+Last updated: 2022-07-11 01:07:20.636800 UTC

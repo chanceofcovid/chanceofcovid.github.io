@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Saline
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 3.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.4%
-- 3 people: 3.6%
-- 5 people: 5.9%
-- 10 people: 11.4%
-- 25 people: 26.1%
-- 100 people: 70.2%
+- 1 person: 3.1%
+- 2 people: 6.1%
+- 3 people: 9.0%
+- 5 people: 14.5%
+- 10 people: 26.9%
+- 25 people: 54.4%
+- 100 people: 95.7%
 
-Last updated: 2022-07-12 01:11:11.401953 UTC
+Last updated: 2022-07-13 01:03:54.839825 UTC

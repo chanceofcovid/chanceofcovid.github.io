@@ -2,18 +2,18 @@
 ## [New Hampshire](/united-states/new-hampshire) / Sullivan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.8%
-- 5 people: 1.4%
-- 10 people: 2.8%
-- 25 people: 6.8%
-- 100 people: 24.7%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.0%
+- 5 people: 3.4%
+- 10 people: 6.6%
+- 25 people: 15.8%
+- 100 people: 49.6%
 
-Last updated: 2022-07-12 01:11:20.430449 UTC
+Last updated: 2022-07-13 01:04:04.026312 UTC

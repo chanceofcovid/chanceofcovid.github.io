@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Copiah
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 4.0%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 4.0%
-- 2 people: 7.8%
-- 3 people: 11.5%
-- 5 people: 18.5%
-- 10 people: 33.5%
-- 25 people: 63.9%
-- 100 people: 98.3%
+- 1 person: 2.0%
+- 2 people: 4.0%
+- 3 people: 5.9%
+- 5 people: 9.6%
+- 10 people: 18.3%
+- 25 people: 39.7%
+- 100 people: 86.8%
 
-Last updated: 2022-07-13 01:04:01.232373 UTC
+Last updated: 2022-07-14 01:11:05.269575 UTC

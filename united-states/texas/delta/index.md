@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Delta
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.4%
-- 3 people: 3.5%
-- 5 people: 5.8%
-- 10 people: 11.3%
-- 25 people: 25.8%
-- 100 people: 69.7%
+- 1 person: 0.6%
+- 2 people: 1.2%
+- 3 people: 1.9%
+- 5 people: 3.1%
+- 10 people: 6.1%
+- 25 people: 14.5%
+- 100 people: 46.5%
 
-Last updated: 2022-07-13 01:04:12.411046 UTC
+Last updated: 2022-07-14 01:11:09.097121 UTC

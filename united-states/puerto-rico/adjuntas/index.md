@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Adjuntas
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.7%
+the "Estimated Prevalence" of COVID in this county is 6.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.7%
-- 2 people: 7.3%
-- 3 people: 10.7%
-- 5 people: 17.3%
-- 10 people: 31.6%
-- 25 people: 61.2%
-- 100 people: 97.7%
+- 1 person: 6.4%
+- 2 people: 12.4%
+- 3 people: 18.0%
+- 5 people: 28.2%
+- 10 people: 48.4%
+- 25 people: 80.9%
+- 100 people: 99.9%
 
-Last updated: 2022-07-15 01:14:45.019319 UTC
+Last updated: 2022-07-16 01:13:26.513612 UTC

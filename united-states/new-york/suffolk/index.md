@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Suffolk
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.3%
-- 3 people: 3.4%
-- 5 people: 5.6%
-- 10 people: 10.9%
-- 25 people: 25.0%
-- 100 people: 68.3%
+- 1 person: 1.7%
+- 2 people: 3.4%
+- 3 people: 5.0%
+- 5 people: 8.2%
+- 10 people: 15.8%
+- 25 people: 34.9%
+- 100 people: 82.1%
 
-Last updated: 2022-07-15 01:14:41.188165 UTC
+Last updated: 2022-07-16 01:13:19.333728 UTC

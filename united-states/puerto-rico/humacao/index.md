@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Humacao
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.4%
+the "Estimated Prevalence" of COVID in this county is 4.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.4%
-- 2 people: 4.8%
-- 3 people: 7.1%
-- 5 people: 11.5%
-- 10 people: 21.7%
-- 25 people: 45.7%
-- 100 people: 91.3%
+- 1 person: 4.1%
+- 2 people: 8.0%
+- 3 people: 11.8%
+- 5 people: 18.9%
+- 10 people: 34.3%
+- 25 people: 65.0%
+- 100 people: 98.5%
 
-Last updated: 2022-07-15 01:14:45.024486 UTC
+Last updated: 2022-07-16 01:13:26.521375 UTC

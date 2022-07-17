@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Lowndes
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 8.9%
-- 10 people: 17.0%
-- 25 people: 37.3%
-- 100 people: 84.6%
+- 1 person: 0.8%
+- 2 people: 1.7%
+- 3 people: 2.5%
+- 5 people: 4.1%
+- 10 people: 8.0%
+- 25 people: 18.8%
+- 100 people: 56.6%
 
-Last updated: 2022-07-16 01:13:16.426536 UTC
+Last updated: 2022-07-17 01:10:52.838237 UTC

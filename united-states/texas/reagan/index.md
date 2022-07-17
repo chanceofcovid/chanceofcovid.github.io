@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Reagan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.7%
-- 10 people: 7.2%
-- 25 people: 17.1%
-- 100 people: 52.8%
+- 1 person: 1.3%
+- 2 people: 2.6%
+- 3 people: 3.8%
+- 5 people: 6.3%
+- 10 people: 12.2%
+- 25 people: 27.8%
+- 100 people: 72.9%
 
-Last updated: 2022-07-16 01:13:23.146208 UTC
+Last updated: 2022-07-17 01:11:03.542056 UTC

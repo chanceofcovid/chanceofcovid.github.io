@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Florida
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.5%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.5%
-- 2 people: 12.5%
-- 3 people: 18.2%
-- 5 people: 28.4%
-- 10 people: 48.7%
-- 25 people: 81.2%
-- 100 people: 99.9%
+- 1 person: 2.6%
+- 2 people: 5.1%
+- 3 people: 7.6%
+- 5 people: 12.3%
+- 10 people: 23.1%
+- 25 people: 48.1%
+- 100 people: 92.7%
 
-Last updated: 2022-07-16 01:13:26.519767 UTC
+Last updated: 2022-07-17 01:11:09.089621 UTC

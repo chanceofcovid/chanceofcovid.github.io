@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Rosebud
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 1.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 9.0%
-- 10 people: 17.2%
-- 25 people: 37.7%
-- 100 people: 84.9%
+- 1 person: 1.8%
+- 2 people: 3.6%
+- 3 people: 5.3%
+- 5 people: 8.6%
+- 10 people: 16.5%
+- 25 people: 36.4%
+- 100 people: 83.6%
 
-Last updated: 2022-07-17 01:10:53.980922 UTC
+Last updated: 2022-07-18 01:05:40.530028 UTC

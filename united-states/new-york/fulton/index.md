@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Fulton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 0.9%
-- 3 people: 1.4%
-- 5 people: 2.4%
-- 10 people: 4.7%
-- 25 people: 11.2%
-- 100 people: 37.9%
+- 1 person: 0.4%
+- 2 people: 0.7%
+- 3 people: 1.1%
+- 5 people: 1.8%
+- 10 people: 3.6%
+- 25 people: 8.7%
+- 100 people: 30.5%
 
-Last updated: 2022-07-18 01:05:42.475365 UTC
+Last updated: 2022-07-19 01:14:15.036271 UTC

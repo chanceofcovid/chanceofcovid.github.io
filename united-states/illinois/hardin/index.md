@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Hardin
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.4%
-- 3 people: 10.9%
-- 5 people: 17.5%
-- 10 people: 32.0%
-- 25 people: 61.8%
-- 100 people: 97.9%
+- 1 person: 1.4%
+- 2 people: 2.9%
+- 3 people: 4.3%
+- 5 people: 7.0%
+- 10 people: 13.5%
+- 25 people: 30.4%
+- 100 people: 76.5%
 
-Last updated: 2022-07-19 01:14:11.373143 UTC
+Last updated: 2022-07-20 01:03:05.514199 UTC

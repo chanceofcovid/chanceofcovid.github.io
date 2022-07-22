@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Gregory
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.0%
-- 10 people: 4.0%
-- 25 people: 9.8%
-- 100 people: 33.8%
+- 1 person: 0.6%
+- 2 people: 1.3%
+- 3 people: 1.9%
+- 5 people: 3.2%
+- 10 people: 6.3%
+- 25 people: 15.0%
+- 100 people: 47.8%
 
-Last updated: 2022-07-21 01:06:46.926174 UTC
+Last updated: 2022-07-22 01:11:13.389203 UTC

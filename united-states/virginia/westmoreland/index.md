@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Westmoreland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.1%
-- 5 people: 3.5%
-- 10 people: 6.8%
-- 25 people: 16.2%
-- 100 people: 50.6%
+- 1 person: 0.9%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.6%
+- 10 people: 9.0%
+- 25 people: 21.0%
+- 100 people: 61.0%
 
-Last updated: 2022-07-21 01:06:47.986735 UTC
+Last updated: 2022-07-22 01:11:15.798422 UTC

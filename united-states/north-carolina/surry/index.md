@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Surry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.3%
-- 3 people: 4.9%
-- 5 people: 8.1%
-- 10 people: 15.5%
-- 25 people: 34.3%
-- 100 people: 81.4%
+- 1 person: 0.9%
+- 2 people: 1.7%
+- 3 people: 2.6%
+- 5 people: 4.2%
+- 10 people: 8.3%
+- 25 people: 19.5%
+- 100 people: 57.9%
 
-Last updated: 2022-07-21 01:06:45.278507 UTC
+Last updated: 2022-07-22 01:11:09.722512 UTC

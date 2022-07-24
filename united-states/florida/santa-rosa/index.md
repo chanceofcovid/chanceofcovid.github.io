@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Santa Rosa
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 0.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.1%
-- 5 people: 8.4%
-- 10 people: 16.1%
-- 25 people: 35.5%
-- 100 people: 82.7%
+- 1 person: 0.0%
+- 2 people: 0.0%
+- 3 people: 0.0%
+- 5 people: 0.0%
+- 10 people: 0.0%
+- 25 people: 0.0%
+- 100 people: 0.1%
 
-Last updated: 2022-07-23 01:06:42.257160 UTC
+Last updated: 2022-07-24 01:12:47.166410 UTC

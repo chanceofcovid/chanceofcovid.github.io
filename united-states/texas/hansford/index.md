@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Hansford
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 5.0%
+the "Estimated Prevalence" of COVID in this county is 5.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 5.0%
-- 2 people: 9.8%
-- 3 people: 14.3%
-- 5 people: 22.7%
-- 10 people: 40.3%
-- 25 people: 72.4%
+- 1 person: 5.1%
+- 2 people: 9.9%
+- 3 people: 14.4%
+- 5 people: 22.9%
+- 10 people: 40.5%
+- 25 people: 72.7%
 - 100 people: 99.4%
 
-Last updated: 2022-07-24 01:12:54.553673 UTC
+Last updated: 2022-07-25 01:06:07.796014 UTC

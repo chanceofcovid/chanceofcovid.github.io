@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Calhoun
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 1.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.2%
-- 3 people: 6.2%
-- 5 people: 10.1%
-- 10 people: 19.2%
-- 25 people: 41.3%
-- 100 people: 88.1%
+- 1 person: 1.4%
+- 2 people: 2.8%
+- 3 people: 4.1%
+- 5 people: 6.8%
+- 10 people: 13.2%
+- 25 people: 29.7%
+- 100 people: 75.6%
 
-Last updated: 2022-07-27 01:11:45.271754 UTC
+Last updated: 2022-07-28 01:06:28.407494 UTC

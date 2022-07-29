@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Logan
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 4.0%
-- 3 people: 5.9%
-- 5 people: 9.7%
-- 10 people: 18.4%
-- 25 people: 39.9%
-- 100 people: 87.0%
+- 1 person: 1.7%
+- 2 people: 3.5%
+- 3 people: 5.1%
+- 5 people: 8.4%
+- 10 people: 16.1%
+- 25 people: 35.5%
+- 100 people: 82.7%
 
-Last updated: 2022-07-28 01:06:35.574476 UTC
+Last updated: 2022-07-29 01:09:03.706245 UTC

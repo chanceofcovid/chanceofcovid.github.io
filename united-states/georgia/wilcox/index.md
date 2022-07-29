@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Wilcox
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 1.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.7%
-- 3 people: 2.5%
-- 5 people: 4.1%
-- 10 people: 8.1%
-- 25 people: 19.0%
-- 100 people: 57.0%
+- 1 person: 1.5%
+- 2 people: 3.1%
+- 3 people: 4.6%
+- 5 people: 7.5%
+- 10 people: 14.5%
+- 25 people: 32.3%
+- 100 people: 79.0%
 
-Last updated: 2022-07-28 01:06:27.739378 UTC
+Last updated: 2022-07-29 01:08:50.250605 UTC

@@ -2,18 +2,18 @@
 ## [New Mexico](/united-states/new-mexico) / Los Alamos
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.3%
-- 3 people: 2.0%
-- 5 people: 3.3%
-- 10 people: 6.6%
-- 25 people: 15.6%
-- 100 people: 49.3%
+- 1 person: 0.8%
+- 2 people: 1.5%
+- 3 people: 2.3%
+- 5 people: 3.8%
+- 10 people: 7.4%
+- 25 people: 17.5%
+- 100 people: 53.7%
 
-Last updated: 2022-07-29 01:08:57.738785 UTC
+Last updated: 2022-07-30 01:03:18.976257 UTC

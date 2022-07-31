@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Borden
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.8%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.8%
-- 2 people: 7.4%
-- 3 people: 11.0%
-- 5 people: 17.6%
-- 10 people: 32.1%
-- 25 people: 62.0%
-- 100 people: 97.9%
+- 1 person: 0.9%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.7%
+- 10 people: 9.1%
+- 25 people: 21.2%
+- 100 people: 61.4%
 
-Last updated: 2022-07-30 01:03:23.996044 UTC
+Last updated: 2022-07-31 01:09:54.016058 UTC

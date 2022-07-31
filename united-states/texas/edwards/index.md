@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Edwards
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 2.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.1%
-- 3 people: 3.2%
-- 5 people: 5.2%
-- 10 people: 10.2%
-- 25 people: 23.6%
-- 100 people: 65.9%
+- 1 person: 2.2%
+- 2 people: 4.4%
+- 3 people: 6.6%
+- 5 people: 10.7%
+- 10 people: 20.3%
+- 25 people: 43.3%
+- 100 people: 89.7%
 
-Last updated: 2022-07-30 01:03:24.003659 UTC
+Last updated: 2022-07-31 01:09:54.026271 UTC

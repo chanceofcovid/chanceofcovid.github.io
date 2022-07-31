@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Hardee
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.0%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.0%
-- 2 people: 0.0%
-- 3 people: 0.0%
-- 5 people: 0.0%
-- 10 people: 0.1%
-- 25 people: 0.2%
-- 100 people: 1.0%
+- 1 person: 2.0%
+- 2 people: 3.9%
+- 3 people: 5.8%
+- 5 people: 9.4%
+- 10 people: 17.9%
+- 25 people: 39.0%
+- 100 people: 86.1%
 
-Last updated: 2022-07-30 01:03:09.156147 UTC
+Last updated: 2022-07-31 01:09:47.802971 UTC

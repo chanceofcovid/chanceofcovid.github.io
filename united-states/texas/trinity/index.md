@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Trinity
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.2%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.2%
-- 2 people: 4.4%
-- 3 people: 6.5%
-- 5 people: 10.5%
-- 10 people: 19.9%
-- 25 people: 42.7%
-- 100 people: 89.2%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.3%
+- 5 people: 3.9%
+- 10 people: 7.6%
+- 25 people: 17.8%
+- 100 people: 54.4%
 
-Last updated: 2022-07-31 01:09:54.054875 UTC
+Last updated: 2022-08-01 01:16:41.170644 UTC

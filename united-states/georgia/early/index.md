@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Early
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.2%
-- 3 people: 1.9%
-- 5 people: 3.1%
-- 10 people: 6.0%
-- 25 people: 14.4%
-- 100 people: 46.4%
+- 1 person: 0.5%
+- 2 people: 1.1%
+- 3 people: 1.6%
+- 5 people: 2.7%
+- 10 people: 5.3%
+- 25 people: 12.7%
+- 100 people: 41.9%
 
-Last updated: 2022-08-04 01:11:57.968566 UTC
+Last updated: 2022-08-05 01:14:41.761655 UTC

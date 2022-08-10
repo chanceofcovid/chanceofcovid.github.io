@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Concho
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.4%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.4%
-- 2 people: 6.7%
-- 3 people: 9.9%
-- 5 people: 16.0%
-- 10 people: 29.4%
-- 25 people: 58.2%
-- 100 people: 96.9%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.7%
+- 10 people: 9.1%
+- 25 people: 21.3%
+- 100 people: 61.6%
 
-Last updated: 2022-08-09 01:14:05.007877 UTC
+Last updated: 2022-08-10 01:07:37.686427 UTC

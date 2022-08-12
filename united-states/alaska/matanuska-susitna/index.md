@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Matanuska-Susitna
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 3.9%
-- 3 people: 5.8%
-- 5 people: 9.4%
-- 10 people: 17.9%
-- 25 people: 39.0%
-- 100 people: 86.1%
+- 1 person: 0.5%
+- 2 people: 1.1%
+- 3 people: 1.6%
+- 5 people: 2.7%
+- 10 people: 5.2%
+- 25 people: 12.6%
+- 100 people: 41.6%
 
-Last updated: 2022-08-11 01:02:33.171756 UTC
+Last updated: 2022-08-12 01:03:02.640837 UTC

@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Kearny
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 2.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 0.9%
-- 3 people: 1.4%
-- 5 people: 2.3%
-- 10 people: 4.5%
-- 25 people: 10.9%
-- 100 people: 37.0%
+- 1 person: 2.6%
+- 2 people: 5.2%
+- 3 people: 7.7%
+- 5 people: 12.6%
+- 10 people: 23.5%
+- 25 people: 48.9%
+- 100 people: 93.2%
 
-Last updated: 2022-08-11 01:02:37.011286 UTC
+Last updated: 2022-08-12 01:03:05.784662 UTC

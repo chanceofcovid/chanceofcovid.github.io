@@ -2,18 +2,18 @@
 ## [Georgia](/united-states/georgia) / Appling
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.3%
-- 3 people: 1.9%
-- 5 people: 3.2%
-- 10 people: 6.3%
-- 25 people: 15.1%
-- 100 people: 48.0%
+- 1 person: 0.9%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.6%
+- 10 people: 9.1%
+- 25 people: 21.2%
+- 100 people: 61.3%
 
-Last updated: 2022-08-11 01:02:35.449875 UTC
+Last updated: 2022-08-12 01:03:04.477396 UTC

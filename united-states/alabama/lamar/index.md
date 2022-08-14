@@ -2,18 +2,18 @@
 ## [Alabama](/united-states/alabama) / Lamar
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.0%
-- 3 people: 3.1%
-- 5 people: 5.0%
-- 10 people: 9.8%
-- 25 people: 22.8%
-- 100 people: 64.5%
+- 1 person: 1.1%
+- 2 people: 2.2%
+- 3 people: 3.3%
+- 5 people: 5.5%
+- 10 people: 10.7%
+- 25 people: 24.7%
+- 100 people: 67.8%
 
-Last updated: 2022-08-13 01:01:00.338491 UTC
+Last updated: 2022-08-14 01:06:01.099422 UTC

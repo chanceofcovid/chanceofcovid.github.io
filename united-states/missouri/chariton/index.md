@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Chariton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.1%
-- 5 people: 8.4%
-- 10 people: 16.0%
-- 25 people: 35.3%
-- 100 people: 82.5%
+- 1 person: 0.7%
+- 2 people: 1.5%
+- 3 people: 2.2%
+- 5 people: 3.6%
+- 10 people: 7.1%
+- 25 people: 16.7%
+- 100 people: 51.9%
 
-Last updated: 2022-08-13 01:01:14.756788 UTC
+Last updated: 2022-08-14 01:06:12.944976 UTC

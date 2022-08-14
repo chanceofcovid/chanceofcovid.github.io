@@ -2,18 +2,18 @@
 ## [Illinois](/united-states/illinois) / Clinton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.1%
-- 3 people: 3.1%
-- 5 people: 5.1%
-- 10 people: 9.9%
-- 25 people: 22.9%
-- 100 people: 64.6%
+- 1 person: 0.7%
+- 2 people: 1.4%
+- 3 people: 2.0%
+- 5 people: 3.3%
+- 10 people: 6.6%
+- 25 people: 15.7%
+- 100 people: 49.4%
 
-Last updated: 2022-08-13 01:01:07.927670 UTC
+Last updated: 2022-08-14 01:06:07.195193 UTC

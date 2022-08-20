@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Lawrence
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.7%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.7%
-- 2 people: 3.4%
-- 3 people: 5.0%
-- 5 people: 8.2%
-- 10 people: 15.8%
-- 25 people: 34.9%
-- 100 people: 82.1%
+- 1 person: 1.0%
+- 2 people: 2.0%
+- 3 people: 3.0%
+- 5 people: 4.9%
+- 10 people: 9.6%
+- 25 people: 22.3%
+- 100 people: 63.5%
 
-Last updated: 2022-08-19 01:09:16.597986 UTC
+Last updated: 2022-08-20 01:05:20.498934 UTC

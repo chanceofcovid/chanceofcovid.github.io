@@ -2,18 +2,18 @@
 ## [Indiana](/united-states/indiana) / Randolph
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.1%
+the "Estimated Prevalence" of COVID in this county is 0.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.1%
-- 2 people: 2.2%
-- 3 people: 3.2%
-- 5 people: 5.3%
-- 10 people: 10.3%
-- 25 people: 23.8%
-- 100 people: 66.4%
+- 1 person: 0.7%
+- 2 people: 1.3%
+- 3 people: 2.0%
+- 5 people: 3.3%
+- 10 people: 6.5%
+- 25 people: 15.5%
+- 100 people: 48.9%
 
-Last updated: 2022-08-19 01:09:20.622415 UTC
+Last updated: 2022-08-20 01:05:22.781759 UTC

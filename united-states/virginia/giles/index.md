@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Giles
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 2.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.1%
-- 3 people: 7.5%
-- 5 people: 12.2%
-- 10 people: 22.9%
-- 25 people: 47.8%
-- 100 people: 92.5%
+- 1 person: 2.1%
+- 2 people: 4.1%
+- 3 people: 6.1%
+- 5 people: 9.9%
+- 10 people: 18.8%
+- 25 people: 40.6%
+- 100 people: 87.6%
 
-Last updated: 2022-08-19 01:09:31.773653 UTC
+Last updated: 2022-08-20 01:05:30.343607 UTC

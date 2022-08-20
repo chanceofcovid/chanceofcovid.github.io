@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Fulton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.0%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.0%
-- 2 people: 4.0%
-- 3 people: 6.0%
-- 5 people: 9.7%
-- 10 people: 18.5%
-- 25 people: 40.1%
-- 100 people: 87.1%
+- 1 person: 0.8%
+- 2 people: 1.5%
+- 3 people: 2.2%
+- 5 people: 3.7%
+- 10 people: 7.3%
+- 25 people: 17.2%
+- 100 people: 52.9%
 
-Last updated: 2022-08-19 01:09:28.955346 UTC
+Last updated: 2022-08-20 01:05:28.669526 UTC

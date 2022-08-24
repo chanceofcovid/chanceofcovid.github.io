@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Bingham
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.5%
-- 5 people: 0.9%
-- 10 people: 1.8%
-- 25 people: 4.4%
-- 100 people: 16.4%
+- 1 person: 0.1%
+- 2 people: 0.3%
+- 3 people: 0.4%
+- 5 people: 0.7%
+- 10 people: 1.3%
+- 25 people: 3.3%
+- 100 people: 12.6%
 
-Last updated: 2022-08-23 01:17:40.662949 UTC
+Last updated: 2022-08-24 01:12:33.732455 UTC

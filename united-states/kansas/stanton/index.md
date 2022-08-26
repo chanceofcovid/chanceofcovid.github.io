@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Stanton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.7%
-- 3 people: 1.1%
-- 5 people: 1.8%
-- 10 people: 3.6%
-- 25 people: 8.9%
-- 100 people: 31.0%
+- 1 person: 1.7%
+- 2 people: 3.4%
+- 3 people: 5.1%
+- 5 people: 8.3%
+- 10 people: 16.0%
+- 25 people: 35.3%
+- 100 people: 82.5%
 
-Last updated: 2022-08-25 01:17:35.618755 UTC
+Last updated: 2022-08-26 01:11:56.403924 UTC

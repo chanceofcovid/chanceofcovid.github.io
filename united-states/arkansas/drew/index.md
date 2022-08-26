@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Drew
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.2%
+the "Estimated Prevalence" of COVID in this county is 3.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.2%
-- 2 people: 6.3%
-- 3 people: 9.3%
-- 5 people: 15.0%
-- 10 people: 27.8%
-- 25 people: 55.6%
-- 100 people: 96.1%
+- 1 person: 3.7%
+- 2 people: 7.2%
+- 3 people: 10.6%
+- 5 people: 17.0%
+- 10 people: 31.1%
+- 25 people: 60.6%
+- 100 people: 97.6%
 
-Last updated: 2022-08-25 01:17:31.099250 UTC
+Last updated: 2022-08-26 01:11:53.922811 UTC

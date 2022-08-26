@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Emporia
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 17.6%
+the "Estimated Prevalence" of COVID in this county is 15.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 17.6%
-- 2 people: 32.1%
-- 3 people: 44.1%
-- 5 people: 62.0%
-- 10 people: 85.6%
-- 25 people: 99.2%
+- 1 person: 15.5%
+- 2 people: 28.6%
+- 3 people: 39.6%
+- 5 people: 56.9%
+- 10 people: 81.4%
+- 25 people: 98.5%
 - 100 people: 100.0%
 
-Last updated: 2022-08-25 01:17:46.700361 UTC
+Last updated: 2022-08-26 01:12:02.892859 UTC

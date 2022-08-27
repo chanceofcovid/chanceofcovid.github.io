@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Norton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 1.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 2.9%
-- 3 people: 4.4%
-- 5 people: 7.2%
-- 10 people: 13.8%
-- 25 people: 31.0%
-- 100 people: 77.3%
+- 1 person: 1.6%
+- 2 people: 3.2%
+- 3 people: 4.8%
+- 5 people: 7.9%
+- 10 people: 15.2%
+- 25 people: 33.7%
+- 100 people: 80.7%
 
-Last updated: 2022-08-26 01:12:02.895743 UTC
+Last updated: 2022-08-27 01:04:44.771889 UTC

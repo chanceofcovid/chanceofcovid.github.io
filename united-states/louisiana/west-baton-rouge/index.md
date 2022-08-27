@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / West Baton Rouge
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.8%
-- 3 people: 2.6%
-- 5 people: 4.4%
-- 10 people: 8.6%
-- 25 people: 20.0%
-- 100 people: 59.1%
+- 1 person: 1.3%
+- 2 people: 2.7%
+- 3 people: 4.0%
+- 5 people: 6.5%
+- 10 people: 12.7%
+- 25 people: 28.7%
+- 100 people: 74.2%
 
-Last updated: 2022-08-26 01:11:56.770630 UTC
+Last updated: 2022-08-27 01:04:39.186421 UTC

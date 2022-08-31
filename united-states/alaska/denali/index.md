@@ -2,18 +2,18 @@
 ## [Alaska](/united-states/alaska) / Denali
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 11.8%
+the "Estimated Prevalence" of COVID in this county is 11.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 11.8%
-- 2 people: 22.1%
-- 3 people: 31.3%
-- 5 people: 46.5%
-- 10 people: 71.4%
-- 25 people: 95.6%
+- 1 person: 11.5%
+- 2 people: 21.6%
+- 3 people: 30.6%
+- 5 people: 45.6%
+- 10 people: 70.4%
+- 25 people: 95.2%
 - 100 people: 100.0%
 
-Last updated: 2022-08-30 01:20:05.060030 UTC
+Last updated: 2022-08-31 01:21:24.766384 UTC

@@ -2,18 +2,18 @@
 ## [Idaho](/united-states/idaho) / Gooding
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.9%
+the "Estimated Prevalence" of COVID in this county is 0.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.9%
-- 2 people: 3.7%
-- 3 people: 5.5%
-- 5 people: 9.0%
-- 10 people: 17.2%
-- 25 people: 37.7%
-- 100 people: 84.9%
+- 1 person: 0.0%
+- 2 people: 0.0%
+- 3 people: 0.0%
+- 5 people: 0.1%
+- 10 people: 0.2%
+- 25 people: 0.4%
+- 100 people: 1.6%
 
-Last updated: 2022-08-31 01:21:27.301096 UTC
+Last updated: 2022-09-01 01:07:42.420101 UTC

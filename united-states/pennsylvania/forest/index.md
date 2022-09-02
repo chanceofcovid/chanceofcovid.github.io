@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Forest
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.3%
-- 3 people: 0.5%
-- 5 people: 0.8%
-- 10 people: 1.6%
-- 25 people: 3.9%
-- 100 people: 14.6%
+- 1 person: 0.9%
+- 2 people: 1.8%
+- 3 people: 2.6%
+- 5 people: 4.4%
+- 10 people: 8.6%
+- 25 people: 20.0%
+- 100 people: 59.1%
 
-Last updated: 2022-09-01 01:07:58.330843 UTC
+Last updated: 2022-09-02 01:12:27.386347 UTC

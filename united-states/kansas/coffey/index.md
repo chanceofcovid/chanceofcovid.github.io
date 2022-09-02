@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Coffey
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.1%
-- 10 people: 4.1%
-- 25 people: 9.9%
-- 100 people: 34.0%
+- 1 person: 2.0%
+- 2 people: 4.0%
+- 3 people: 5.9%
+- 5 people: 9.7%
+- 10 people: 18.4%
+- 25 people: 39.9%
+- 100 people: 87.0%
 
-Last updated: 2022-09-01 01:07:44.835937 UTC
+Last updated: 2022-09-02 01:12:19.309655 UTC

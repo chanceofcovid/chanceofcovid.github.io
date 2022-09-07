@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / St. Mary
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.6%
-- 10 people: 9.0%
-- 25 people: 20.9%
-- 100 people: 60.9%
+- 1 person: 0.6%
+- 2 people: 1.1%
+- 3 people: 1.6%
+- 5 people: 2.7%
+- 10 people: 5.4%
+- 25 people: 12.9%
+- 100 people: 42.5%
 
-Last updated: 2022-09-06 01:20:47.075859 UTC
+Last updated: 2022-09-07 01:18:34.343465 UTC

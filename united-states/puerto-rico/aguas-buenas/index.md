@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Aguas Buenas
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.5%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.5%
-- 2 people: 3.0%
-- 3 people: 4.4%
-- 5 people: 7.2%
-- 10 people: 13.9%
-- 25 people: 31.3%
-- 100 people: 77.7%
+- 1 person: 0.9%
+- 2 people: 1.9%
+- 3 people: 2.8%
+- 5 people: 4.6%
+- 10 people: 9.0%
+- 25 people: 21.0%
+- 100 people: 61.0%
 
-Last updated: 2022-09-08 01:14:26.727452 UTC
+Last updated: 2022-09-09 01:17:38.818595 UTC

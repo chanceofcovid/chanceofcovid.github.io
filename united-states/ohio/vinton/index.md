@@ -2,18 +2,18 @@
 ## [Ohio](/united-states/ohio) / Vinton
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.6%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.6%
-- 2 people: 5.1%
-- 3 people: 7.6%
-- 5 people: 12.3%
-- 10 people: 23.1%
-- 25 people: 48.1%
-- 100 people: 92.7%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.9%
+- 5 people: 4.7%
+- 10 people: 9.3%
+- 25 people: 21.6%
+- 100 people: 62.1%
 
-Last updated: 2022-09-09 01:17:34.202410 UTC
+Last updated: 2022-09-10 01:16:57.295195 UTC

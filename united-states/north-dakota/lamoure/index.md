@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / LaMoure
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
-- 2 people: 0.1%
-- 3 people: 0.2%
-- 5 people: 0.3%
-- 10 people: 0.5%
-- 25 people: 1.3%
-- 100 people: 5.2%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 1.1%
+- 10 people: 2.1%
+- 25 people: 5.2%
+- 100 people: 19.2%
 
-Last updated: 2022-09-10 01:16:56.958174 UTC
+Last updated: 2022-09-11 01:16:57.363697 UTC

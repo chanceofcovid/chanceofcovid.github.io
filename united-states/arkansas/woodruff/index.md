@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Woodruff
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 1.7%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.5%
-- 3 people: 2.3%
-- 5 people: 3.8%
-- 10 people: 7.4%
-- 25 people: 17.6%
-- 100 people: 53.8%
+- 1 person: 1.7%
+- 2 people: 3.4%
+- 3 people: 5.0%
+- 5 people: 8.3%
+- 10 people: 15.8%
+- 25 people: 35.0%
+- 100 people: 82.2%
 
-Last updated: 2022-09-14 01:12:39.332975 UTC
+Last updated: 2022-09-15 01:20:09.640694 UTC

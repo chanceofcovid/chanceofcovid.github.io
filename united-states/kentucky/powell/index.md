@@ -2,18 +2,18 @@
 ## [Kentucky](/united-states/kentucky) / Powell
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 3.3%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 3.3%
-- 2 people: 6.4%
-- 3 people: 9.5%
-- 5 people: 15.3%
-- 10 people: 28.3%
-- 25 people: 56.4%
-- 100 people: 96.4%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.4%
+- 5 people: 4.0%
+- 10 people: 7.9%
+- 25 people: 18.5%
+- 100 people: 55.8%
 
-Last updated: 2022-10-04 01:22:56.444189 UTC
+Last updated: 2022-10-05 01:21:21.139724 UTC

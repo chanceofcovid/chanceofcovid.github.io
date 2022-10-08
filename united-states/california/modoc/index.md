@@ -2,18 +2,18 @@
 ## [California](/united-states/california) / Modoc
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.6%
-- 5 people: 1.0%
-- 10 people: 2.0%
-- 25 people: 4.9%
-- 100 people: 18.3%
+- 1 person: 0.0%
+- 2 people: 0.1%
+- 3 people: 0.1%
+- 5 people: 0.1%
+- 10 people: 0.3%
+- 25 people: 0.6%
+- 100 people: 2.5%
 
-Last updated: 2022-10-07 01:25:55.468692 UTC
+Last updated: 2022-10-08 01:10:58.994365 UTC

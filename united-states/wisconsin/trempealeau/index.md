@@ -2,18 +2,18 @@
 ## [Wisconsin](/united-states/wisconsin) / Trempealeau
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.8%
-- 3 people: 1.2%
-- 5 people: 2.1%
-- 10 people: 4.1%
-- 25 people: 9.9%
-- 100 people: 34.2%
+- 1 person: 0.3%
+- 2 people: 0.5%
+- 3 people: 0.8%
+- 5 people: 1.3%
+- 10 people: 2.5%
+- 25 people: 6.1%
+- 100 people: 22.4%
 
-Last updated: 2022-10-11 01:14:40.689397 UTC
+Last updated: 2022-10-12 01:40:32.810929 UTC

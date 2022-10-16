@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Scotland
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.1%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.1%
-- 2 people: 4.1%
-- 3 people: 6.1%
-- 5 people: 10.0%
-- 10 people: 19.0%
-- 25 people: 40.9%
-- 100 people: 87.8%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 1.0%
+- 10 people: 2.0%
+- 25 people: 4.9%
+- 100 people: 18.4%
 
-Last updated: 2022-10-15 01:22:14.967663 UTC
+Last updated: 2022-10-16 01:27:51.782235 UTC

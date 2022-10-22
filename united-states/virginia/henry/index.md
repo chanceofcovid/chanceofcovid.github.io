@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Henry
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.6%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.6%
-- 2 people: 3.2%
-- 3 people: 4.7%
-- 5 people: 7.7%
-- 10 people: 14.8%
-- 25 people: 33.0%
-- 100 people: 79.8%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 1.0%
+- 5 people: 1.6%
+- 10 people: 3.1%
+- 25 people: 7.7%
+- 100 people: 27.3%
 
-Last updated: 2022-10-21 01:15:13.048499 UTC
+Last updated: 2022-10-22 01:22:36.709246 UTC

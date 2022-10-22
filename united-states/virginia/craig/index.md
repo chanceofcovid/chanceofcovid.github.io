@@ -2,18 +2,18 @@
 ## [Virginia](/united-states/virginia) / Craig
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 6.7%
+the "Estimated Prevalence" of COVID in this county is 3.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 6.7%
-- 2 people: 13.0%
-- 3 people: 18.9%
-- 5 people: 29.4%
-- 10 people: 50.2%
-- 25 people: 82.5%
-- 100 people: 99.9%
+- 1 person: 3.9%
+- 2 people: 7.6%
+- 3 people: 11.2%
+- 5 people: 18.0%
+- 10 people: 32.7%
+- 25 people: 62.9%
+- 100 people: 98.1%
 
-Last updated: 2022-10-21 01:15:13.045399 UTC
+Last updated: 2022-10-22 01:22:36.704423 UTC

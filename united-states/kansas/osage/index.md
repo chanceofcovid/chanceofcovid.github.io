@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Osage
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.6%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.6%
-- 2 people: 1.3%
-- 3 people: 1.9%
-- 5 people: 3.1%
-- 10 people: 6.2%
-- 25 people: 14.7%
-- 100 people: 47.2%
+- 1 person: 0.5%
+- 2 people: 0.9%
+- 3 people: 1.4%
+- 5 people: 2.3%
+- 10 people: 4.5%
+- 25 people: 10.8%
+- 100 people: 36.6%
 
-Last updated: 2022-11-03 01:11:43.727818 UTC
+Last updated: 2022-11-04 01:13:14.591706 UTC

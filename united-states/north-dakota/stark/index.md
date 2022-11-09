@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Stark
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.5%
-- 3 people: 2.2%
-- 5 people: 3.6%
-- 10 people: 7.1%
-- 25 people: 16.7%
-- 100 people: 51.9%
+- 1 person: 0.4%
+- 2 people: 0.8%
+- 3 people: 1.2%
+- 5 people: 2.1%
+- 10 people: 4.1%
+- 25 people: 9.9%
+- 100 people: 34.1%
 
-Last updated: 2022-11-08 01:06:32.251867 UTC
+Last updated: 2022-11-09 01:08:28.140750 UTC

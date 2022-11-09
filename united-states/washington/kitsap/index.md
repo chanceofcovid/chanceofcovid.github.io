@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Kitsap
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.6%
-- 5 people: 1.0%
-- 10 people: 1.9%
-- 25 people: 4.7%
-- 100 people: 17.6%
+- 1 person: 0.0%
+- 2 people: 0.0%
+- 3 people: 0.1%
+- 5 people: 0.1%
+- 10 people: 0.2%
+- 25 people: 0.6%
+- 100 people: 2.3%
 
-Last updated: 2022-11-08 01:06:35.297539 UTC
+Last updated: 2022-11-09 01:08:33.659656 UTC

@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / Trujillo Alto
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 0.5%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.6%
-- 3 people: 2.3%
-- 5 people: 3.8%
-- 10 people: 7.5%
-- 25 people: 17.7%
-- 100 people: 54.2%
+- 1 person: 0.5%
+- 2 people: 1.0%
+- 3 people: 1.6%
+- 5 people: 2.6%
+- 10 people: 5.1%
+- 25 people: 12.3%
+- 100 people: 40.7%
 
-Last updated: 2022-11-08 01:06:36.623202 UTC
+Last updated: 2022-11-09 01:08:36.049339 UTC

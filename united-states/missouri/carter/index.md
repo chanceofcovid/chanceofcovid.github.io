@@ -2,18 +2,18 @@
 ## [Missouri](/united-states/missouri) / Carter
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.7%
-- 3 people: 1.0%
-- 5 people: 1.7%
-- 10 people: 3.3%
-- 25 people: 8.0%
-- 100 people: 28.4%
+- 1 person: 0.1%
+- 2 people: 0.2%
+- 3 people: 0.2%
+- 5 people: 0.4%
+- 10 people: 0.8%
+- 25 people: 2.1%
+- 100 people: 8.0%
 
-Last updated: 2022-11-09 01:08:25.019802 UTC
+Last updated: 2022-11-10 01:08:08.624489 UTC

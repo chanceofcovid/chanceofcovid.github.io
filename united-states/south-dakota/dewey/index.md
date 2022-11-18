@@ -2,18 +2,18 @@
 ## [South Dakota](/united-states/south-dakota) / Dewey
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.2%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.2%
-- 2 people: 2.4%
-- 3 people: 3.6%
-- 5 people: 6.0%
-- 10 people: 11.5%
-- 25 people: 26.4%
-- 100 people: 70.7%
+- 1 person: 0.3%
+- 2 people: 0.6%
+- 3 people: 1.0%
+- 5 people: 1.6%
+- 10 people: 3.2%
+- 25 people: 7.8%
+- 100 people: 27.8%
 
-Last updated: 2022-11-17 01:04:47.599444 UTC
+Last updated: 2022-11-18 01:08:40.846778 UTC

@@ -2,18 +2,18 @@
 ## [Oklahoma](/united-states/oklahoma) / Creek
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
+- 1 person: 0.2%
 - 2 people: 0.5%
-- 3 people: 0.8%
-- 5 people: 1.3%
-- 10 people: 2.6%
-- 25 people: 6.3%
-- 100 people: 22.8%
+- 3 people: 0.7%
+- 5 people: 1.2%
+- 10 people: 2.5%
+- 25 people: 6.0%
+- 100 people: 22.0%
 
-Last updated: 2022-11-18 01:08:39.660155 UTC
+Last updated: 2022-11-19 01:05:36.600135 UTC

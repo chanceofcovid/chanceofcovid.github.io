@@ -2,18 +2,18 @@
 ## [New York](/united-states/new-york) / Richmond
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.5%
+the "Estimated Prevalence" of COVID in this county is 1.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.5%
-- 2 people: 1.0%
-- 3 people: 1.5%
-- 5 people: 2.4%
-- 10 people: 4.8%
-- 25 people: 11.5%
-- 100 people: 38.7%
+- 1 person: 1.3%
+- 2 people: 2.6%
+- 3 people: 3.9%
+- 5 people: 6.5%
+- 10 people: 12.5%
+- 25 people: 28.4%
+- 100 people: 73.8%
 
-Last updated: 2022-12-02 00:56:07.080990 UTC
+Last updated: 2022-12-03 00:53:25.798707 UTC

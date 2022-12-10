@@ -2,18 +2,18 @@
 ## [Kansas](/united-states/kansas) / Decatur
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 2.7%
+the "Estimated Prevalence" of COVID in this county is 2.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 2.7%
-- 2 people: 5.4%
-- 3 people: 8.0%
-- 5 people: 13.0%
-- 10 people: 24.3%
-- 25 people: 50.1%
-- 100 people: 93.8%
+- 1 person: 2.8%
+- 2 people: 5.6%
+- 3 people: 8.3%
+- 5 people: 13.4%
+- 10 people: 25.0%
+- 25 people: 51.4%
+- 100 people: 94.4%
 
-Last updated: 2022-12-09 00:56:35.508459 UTC
+Last updated: 2022-12-10 00:53:03.282249 UTC

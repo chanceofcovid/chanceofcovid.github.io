@@ -2,18 +2,18 @@
 ## [North Carolina](/united-states/north-carolina) / Wilkes
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.7%
-- 3 people: 2.6%
-- 5 people: 4.3%
-- 10 people: 8.4%
-- 25 people: 19.8%
-- 100 people: 58.6%
+- 1 person: 1.1%
+- 2 people: 2.2%
+- 3 people: 3.2%
+- 5 people: 5.3%
+- 10 people: 10.3%
+- 25 people: 23.8%
+- 100 people: 66.3%
 
-Last updated: 2022-12-17 00:51:36.570305 UTC
+Last updated: 2022-12-18 00:52:52.769558 UTC

@@ -2,18 +2,18 @@
 ## [Arizona](/united-states/arizona) / Pima
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 0.4%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.7%
-- 10 people: 9.1%
-- 25 people: 21.2%
-- 100 people: 61.5%
+- 1 person: 0.4%
+- 2 people: 0.9%
+- 3 people: 1.3%
+- 5 people: 2.1%
+- 10 people: 4.2%
+- 25 people: 10.1%
+- 100 people: 34.8%
 
-Last updated: 2022-12-17 00:51:25.561751 UTC
+Last updated: 2022-12-18 00:52:41.917866 UTC

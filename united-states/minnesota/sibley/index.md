@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Sibley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.8%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.8%
-- 2 people: 1.5%
-- 3 people: 2.3%
-- 5 people: 3.7%
-- 10 people: 7.3%
-- 25 people: 17.4%
-- 100 people: 53.4%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 1.0%
+- 10 people: 2.0%
+- 25 people: 4.9%
+- 100 people: 18.2%
 
-Last updated: 2022-12-17 00:51:33.049534 UTC
+Last updated: 2022-12-18 00:52:49.260059 UTC

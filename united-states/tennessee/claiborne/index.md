@@ -2,18 +2,18 @@
 ## [Tennessee](/united-states/tennessee) / Claiborne
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.3%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.3%
-- 2 people: 0.6%
-- 3 people: 0.8%
-- 5 people: 1.4%
-- 10 people: 2.8%
-- 25 people: 6.9%
-- 100 people: 24.7%
+- 1 person: 0.1%
+- 2 people: 0.3%
+- 3 people: 0.4%
+- 5 people: 0.7%
+- 10 people: 1.3%
+- 25 people: 3.3%
+- 100 people: 12.5%
 
-Last updated: 2022-12-23 00:53:17.677510 UTC
+Last updated: 2022-12-24 00:48:21.907314 UTC

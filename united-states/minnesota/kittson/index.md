@@ -2,18 +2,18 @@
 ## [Minnesota](/united-states/minnesota) / Kittson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.0%
+the "Estimated Prevalence" of COVID in this county is 0.3%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.0%
-- 2 people: 2.0%
-- 3 people: 3.0%
-- 5 people: 4.9%
-- 10 people: 9.6%
-- 25 people: 22.4%
-- 100 people: 63.7%
+- 1 person: 0.3%
+- 2 people: 0.7%
+- 3 people: 1.0%
+- 5 people: 1.7%
+- 10 people: 3.3%
+- 25 people: 8.0%
+- 100 people: 28.3%
 
-Last updated: 2023-01-06 00:56:34.231429 UTC
+Last updated: 2023-01-07 00:53:39.135772 UTC

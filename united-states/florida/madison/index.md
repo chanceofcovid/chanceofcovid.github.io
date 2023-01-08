@@ -2,18 +2,18 @@
 ## [Florida](/united-states/florida) / Madison
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.0%
+the "Estimated Prevalence" of COVID in this county is 0.8%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.0%
-- 2 people: 0.0%
-- 3 people: 0.0%
-- 5 people: 0.1%
-- 10 people: 0.1%
-- 25 people: 0.3%
-- 100 people: 1.3%
+- 1 person: 0.8%
+- 2 people: 1.6%
+- 3 people: 2.3%
+- 5 people: 3.9%
+- 10 people: 7.6%
+- 25 people: 18.0%
+- 100 people: 54.7%
 
-Last updated: 2023-01-07 00:53:35.573206 UTC
+Last updated: 2023-01-08 00:58:40.005326 UTC

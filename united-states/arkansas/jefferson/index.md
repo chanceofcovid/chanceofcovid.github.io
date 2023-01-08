@@ -2,18 +2,18 @@
 ## [Arkansas](/united-states/arkansas) / Jefferson
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.4%
+the "Estimated Prevalence" of COVID in this county is 0.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.4%
-- 2 people: 0.7%
-- 3 people: 1.1%
-- 5 people: 1.9%
-- 10 people: 3.7%
-- 25 people: 9.0%
-- 100 people: 31.3%
+- 1 person: 0.2%
+- 2 people: 0.4%
+- 3 people: 0.6%
+- 5 people: 1.1%
+- 10 people: 2.1%
+- 25 people: 5.3%
+- 100 people: 19.5%
 
-Last updated: 2023-01-07 00:53:34.278538 UTC
+Last updated: 2023-01-08 00:58:37.954551 UTC

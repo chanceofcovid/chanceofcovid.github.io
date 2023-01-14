@@ -2,18 +2,18 @@
 ## [Texas](/united-states/texas) / Tyler
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.4%
+the "Estimated Prevalence" of COVID in this county is 0.6%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.4%
-- 2 people: 2.8%
-- 3 people: 4.1%
-- 5 people: 6.7%
-- 10 people: 13.0%
-- 25 people: 29.5%
-- 100 people: 75.3%
+- 1 person: 0.6%
+- 2 people: 1.2%
+- 3 people: 1.9%
+- 5 people: 3.1%
+- 10 people: 6.0%
+- 25 people: 14.4%
+- 100 people: 46.4%
 
-Last updated: 2023-01-13 00:57:14.236085 UTC
+Last updated: 2023-01-14 00:52:48.527176 UTC

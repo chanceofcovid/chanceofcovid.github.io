@@ -2,18 +2,18 @@
 ## [Nebraska](/united-states/nebraska) / Phelps
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.0%
+the "Estimated Prevalence" of COVID in this county is 2.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.0%
-- 2 people: 0.1%
-- 3 people: 0.1%
-- 5 people: 0.1%
-- 10 people: 0.3%
-- 25 people: 0.6%
-- 100 people: 2.6%
+- 1 person: 2.0%
+- 2 people: 4.0%
+- 3 people: 5.9%
+- 5 people: 9.7%
+- 10 people: 18.4%
+- 25 people: 39.9%
+- 100 people: 87.0%
 
-Last updated: 2023-01-14 00:52:44.887292 UTC
+Last updated: 2023-01-15 00:59:12.268910 UTC

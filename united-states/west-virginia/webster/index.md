@@ -2,18 +2,18 @@
 ## [West Virginia](/united-states/west-virginia) / Webster
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.8%
+the "Estimated Prevalence" of COVID in this county is 0.9%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.8%
-- 2 people: 3.5%
-- 3 people: 5.2%
-- 5 people: 8.6%
-- 10 people: 16.4%
-- 25 people: 36.1%
-- 100 people: 83.4%
+- 1 person: 0.9%
+- 2 people: 1.7%
+- 3 people: 2.6%
+- 5 people: 4.2%
+- 10 people: 8.3%
+- 25 people: 19.4%
+- 100 people: 57.9%
 
-Last updated: 2023-01-14 00:52:50.698853 UTC
+Last updated: 2023-01-15 00:59:19.517038 UTC

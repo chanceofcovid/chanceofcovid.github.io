@@ -2,18 +2,18 @@
 ## [Puerto Rico](/united-states/puerto-rico) / San Sebastian
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.9%
+the "Estimated Prevalence" of COVID in this county is 1.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.9%
-- 2 people: 1.9%
-- 3 people: 2.8%
-- 5 people: 4.7%
-- 10 people: 9.1%
-- 25 people: 21.2%
-- 100 people: 61.4%
+- 1 person: 1.1%
+- 2 people: 2.2%
+- 3 people: 3.3%
+- 5 people: 5.4%
+- 10 people: 10.5%
+- 25 people: 24.1%
+- 100 people: 66.9%
 
-Last updated: 2023-01-19 00:57:26.787495 UTC
+Last updated: 2023-01-20 00:56:54.276222 UTC

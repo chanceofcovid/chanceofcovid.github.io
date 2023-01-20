@@ -2,18 +2,18 @@
 ## [Washington](/united-states/washington) / Lewis
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.6%
-- 5 people: 1.0%
-- 10 people: 2.0%
-- 25 people: 5.0%
-- 100 people: 18.5%
+- 1 person: 0.1%
+- 2 people: 0.2%
+- 3 people: 0.3%
+- 5 people: 0.6%
+- 10 people: 1.1%
+- 25 people: 2.7%
+- 100 people: 10.5%
 
-Last updated: 2023-01-19 00:57:25.498541 UTC
+Last updated: 2023-01-20 00:56:51.264408 UTC

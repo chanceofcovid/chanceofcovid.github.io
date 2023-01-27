@@ -2,18 +2,18 @@
 ## [Mississippi](/united-states/mississippi) / Covington
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 1.3%
+the "Estimated Prevalence" of COVID in this county is 0.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 1.3%
-- 2 people: 2.7%
-- 3 people: 4.0%
-- 5 people: 6.5%
-- 10 people: 12.6%
-- 25 people: 28.6%
-- 100 people: 74.0%
+- 1 person: 0.0%
+- 2 people: 0.0%
+- 3 people: 0.0%
+- 5 people: 0.1%
+- 10 people: 0.1%
+- 25 people: 0.3%
+- 100 people: 1.3%
 
-Last updated: 2023-01-26 00:55:47.075482 UTC
+Last updated: 2023-01-27 00:58:22.460454 UTC

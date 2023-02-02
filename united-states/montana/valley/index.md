@@ -2,18 +2,18 @@
 ## [Montana](/united-states/montana) / Valley
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.1%
+the "Estimated Prevalence" of COVID in this county is 1.0%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.1%
-- 2 people: 0.2%
-- 3 people: 0.4%
-- 5 people: 0.6%
-- 10 people: 1.2%
-- 25 people: 3.1%
-- 100 people: 11.7%
+- 1 person: 1.0%
+- 2 people: 1.9%
+- 3 people: 2.9%
+- 5 people: 4.8%
+- 10 people: 9.4%
+- 25 people: 21.8%
+- 100 people: 62.5%
 
-Last updated: 2023-02-01 01:03:15.939222 UTC
+Last updated: 2023-02-02 00:57:49.992528 UTC

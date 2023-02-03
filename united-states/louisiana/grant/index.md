@@ -2,18 +2,18 @@
 ## [Louisiana](/united-states/louisiana) / Grant
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 1.2%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.5%
-- 5 people: 0.9%
-- 10 people: 1.8%
-- 25 people: 4.3%
-- 100 people: 16.2%
+- 1 person: 1.2%
+- 2 people: 2.3%
+- 3 people: 3.4%
+- 5 people: 5.7%
+- 10 people: 11.0%
+- 25 people: 25.3%
+- 100 people: 68.9%
 
-Last updated: 2023-02-02 00:57:47.961197 UTC
+Last updated: 2023-02-03 00:58:58.383626 UTC

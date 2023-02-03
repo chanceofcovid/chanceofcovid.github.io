@@ -2,18 +2,18 @@
 ## [Pennsylvania](/united-states/pennsylvania) / Lawrence
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.2%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.2%
-- 2 people: 0.4%
-- 3 people: 0.6%
-- 5 people: 1.1%
-- 10 people: 2.1%
-- 25 people: 5.1%
-- 100 people: 19.1%
+- 1 person: 0.1%
+- 2 people: 0.2%
+- 3 people: 0.3%
+- 5 people: 0.5%
+- 10 people: 0.9%
+- 25 people: 2.3%
+- 100 people: 9.0%
 
-Last updated: 2023-02-02 00:57:52.780150 UTC
+Last updated: 2023-02-03 00:59:05.608069 UTC

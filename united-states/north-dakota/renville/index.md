@@ -2,18 +2,18 @@
 ## [North Dakota](/united-states/north-dakota) / Renville
 
 According to [MicroCOVID.org](http://microcovid.org),
-the "Estimated Prevalence" of COVID in this county is 0.7%
+the "Estimated Prevalence" of COVID in this county is 0.1%
 
 If you interact with a certain number of people in this location
 (all at once in a group, or spread out across the day), what is the chance that
 1 or more of them has COVID?
 
-- 1 person: 0.7%
-- 2 people: 1.4%
-- 3 people: 2.1%
-- 5 people: 3.5%
-- 10 people: 6.9%
-- 25 people: 16.5%
-- 100 people: 51.3%
+- 1 person: 0.1%
+- 2 people: 0.2%
+- 3 people: 0.3%
+- 5 people: 0.5%
+- 10 people: 1.0%
+- 25 people: 2.5%
+- 100 people: 9.6%
 
-Last updated: 2023-03-04 00:57:02.216340 UTC
+Last updated: 2023-03-05 01:05:53.930894 UTC
